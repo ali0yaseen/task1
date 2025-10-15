@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Roaa Tag – Modal Mock (Static)</title>
+  <!-- Bootstrap  CSS -->
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+    crossorigin="anonymous"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
+  />
+  <style>
+    :root{
+      --surface: #ffffff;
+      --line: rgba(0,0,0,0.08);
+      --muted: #93A1AE;       
+      --title: #1b2430;       
+      --chipbg: #0601ae;     
+      --link: #0601ae;        
+      --cardbg: #f7f9fb;
+    }
+
+    body{
+      background-color: #eef2f6;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+    }
+
+   
+    .modal-mock{
+      width: 600px;        
+      height: 864px;        
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 18px 50px rgba(0,0,0,0.09);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* Header */
+    .mm-header{ padding: 16px 18px 10px; background: var(--surface); border-bottom: 1px solid var(--line); }
+    .crumb{ color:#6c7a88; font-weight:600; }
+    .crumb i{ margin-right: 6px; }
+
+    .title-row{ padding: 6px 0 8px; }
+    .title-row h1{ font-size: 1.45rem; margin: 0; color: var(--title); font-weight: 800; }
+    .edit-btn{ background: var(--link); border-color: var(--link); }
+
+    /* Body */
+    .mm-body{ flex:1 1 auto; background: #fafbfc; padding: 16px; overflow: auto; }
+    .card-pane{
+      height: calc(100% - 0px);
+      background: var(--cardbg);
+      border: 1px solid rgba(0,0,0,0.06);
+      border-radius: 8px;
+      padding: 16px;
+      display: flex; flex-direction: column;
+    }
+
+    .meta-grid{ row-gap: 8px; }
+    .field-label{ color: var(--muted); font-weight: 600; font-size: .92rem; }
+    .field-value{ color:#2b3a48; font-weight: 600; }
+
+    .divider{ border-top: 1px solid var(--line); margin: 14px 0; }
+
+    .section-title{ color: var(--muted); font-weight: 700; font-size: .95rem; margin-bottom: 8px; }
+    .chips{ display:flex; flex-wrap: wrap; gap: 8px; }
+    .chip{
+      background: var(--chipbg);
+      color: #fff;
+      border-radius: 10px;
+      padding: 6px 10px;
+      font-size: .90rem;
+      font-weight: 700;
+      line-height: 1;
+      display: inline-flex; align-items: center;
+      box-shadow: 0 1px 0 rgba(0,0,0,0.08) inset;
+    }
+
+    /* Footer */
+    .mm-footer{ padding: 14px 16px; background: var(--surface); border-top: 1px solid var(--line); }
+  </style>
+</head>
+<body>
+  <main class="modal-mock" role="main" aria-label="Roaa Tag static modal">
+  
+    <header class="mm-header">
+      <div class="d-flex align-items-center justify-content-between">
+        <div class="crumb d-flex align-items-center">
+          <i class="bi bi-tag"></i>
+          <span>Tag Details</span>
+        </div>
+        <button class="btn btn-outline-secondary btn-sm">
+          <i class="bi bi-x-lg me-1"></i> Close
+        </button>
+      </div>
+
+      <div class="title-row d-flex align-items-center justify-content-between mt-2">
+        <div class="d-flex align-items-center gap-2">
+          <i class="bi bi-tag" style="color:#6c7a88;"></i>
+          <h1 class="mb-0">Ali Tag</h1>
+        </div>
+        <button class="btn btn-primary btn-sm edit-btn">Edit tag information <i class="bi bi-arrow-right-short"></i></button>
+      </div>
+    </header>
+
+    <!-- Body content -->
+    <section class="mm-body">
+      <div class="card-pane">
+      
+        <div class="row meta-grid">
+          <div class="col-7">
+            <div class="field-label">Tag Name</div>
+            <div class="field-value">Ali Tag</div>
+          </div>
+          <div class="col-5">
+            <div class="field-label">Created Date</div>
+            <div class="field-value">2025-10-15 17:44:32</div>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- Accounts -->
+        <div class="mb-2">
+          <div class="section-title">Accounts</div>
+          <div class="chips">
+            <span class="chip">Ali yaseen</span>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- Units -->
+        <div class="mb-2">
+          <div class="section-title">Units</div>
+          <div class="chips">
+            <span class="chip">Test Car</span>
+            <span class="chip">1702 كادي</span>
+            <span class="chip">بوكسر - 2512</span>
+            <span class="chip">Sprinter - 1249</span>
+            <span class="chip">518 مرسيدس</span>
+            <span class="chip">كادي Aljaber</span>
+            <span class="chip">ايڤيكو ديلي</span>
+            <span class="chip">اتيكو 1568</span>
+            <span class="chip">متسوبشي هنتر 5160</span>
+            <span class="chip">0054 - سيات</span>
+            <span class="chip">اسوزو</span>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- Drivers -->
+        <div class="mb-2">
+          <div class="section-title">Drivers</div>
+          <div class="chips">
+            <span class="chip">Firas Shaarawi</span>
+            <span class="chip">Ashraf Skafi</span>
+            <span class="chip">Ahmad</span>
+            <span class="chip">Ahmad</span>
+            <span class="chip">Driver1</span>
+            <span class="chip">Tawfiq1</span>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- Areas -->
+        <div class="mb-2">
+          <div class="section-title">Areas</div>
+          <div class="chips">
+            <span class="chip">Test###</span>
+            <span class="chip">وكالة هونداي</span>
+            <span class="chip">Test Test</span>
+            <span class="chip">Roa Test</span>
+            <span class="chip">New Test</span>
+          </div>
+        </div>
+
+        <div class="mt-auto"></div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="mm-footer">
+      <button class="btn btn-primary w-100" style="background: var(--link); border-color: var(--link);">Close</button>
+    </footer>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
