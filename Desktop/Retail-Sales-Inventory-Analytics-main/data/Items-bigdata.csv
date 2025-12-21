@@ -1,0 +1,1851 @@
+Iteam-Number,Iteam-Name,Stock Balance,Iteam-type,Purchase Price,Selling Price,Production Date,Expiry Date
+2,Gillette Mach3 Razor Blades � Regular (1�10) (011-100),247,Inventory Item,46.2,57.42,9/30/2023,10/30/2025
+3,Gillette Venus Smooth Razor Blades � 4 Blades (014-100),51,Inventory Item,114.18,172.18,1/6/2023,5/17/2024
+4,Gillette Fusion Power Razor Handle (025-102),1,Inventory Item,88.38,135.28,5/27/2023,2/28/2025
+5,Miasi Pistachios � Small Pack,1341,Inventory Item,72.64,110.65,7/3/2023,3/10/2026
+6,Israeli Date Paste (Al-Nakhla) (1�36),27.5,Inventory Item,20.41,31.83,1/28/2023,3/16/2025
+7,Ariel Laundry Detergent Powder � 3 kg (1�4),1378.25,Inventory Item,20.41,25.03,7/3/2024,5/30/2027
+10,Flour � 30 kg Sack,1426,Inventory Item,8.85,13.08,4/29/2023,3/17/2026
+15,Ariel Laundry Detergent � 8 kg Colored (1�2),1281,Inventory Item,104.21,138.63,10/20/2023,8/1/2025
+17,Ariel Laundry Detergent � 8 kg,1740.5,Inventory Item,72.93,110.93,1/6/2024,8/28/2024
+18,Raid Liquid Refill � 45 Nights (32.9 ml),22,Inventory Item,85.55,125.27,9/1/2023,11/13/2025
+23,Union Luncheon Meat � Small 200 g (1�48),54.438,Inventory Item,4.43,6.59,8/2/2024,2/10/2025
+24,Union Luncheon Meat � Large (1�48),10.813,Inventory Item,116.45,166.3,12/26/2024,9/6/2026
+25,Bonbon Wafer Fingers (1�8),387,Inventory Item,100.23,119.14,8/6/2023,2/19/2024
+27,Marina Mushrooms � 3 kg (1�6),7,Inventory Item,27.06,37.14,6/26/2023,11/15/2025
+29,Makkah Halva � 250 g (1�12),3.083,Inventory Item,23.46,37.36,10/26/2023,8/13/2024
+31,Diet Halva � 350 g,16.25,Inventory Item,23.64,37.08,11/6/2024,12/19/2025
+37,Medjool Dates � 1 kg (Grade A),140,Inventory Item,37.9,42.51,2/27/2023,2/12/2024
+43,Qamar El-Din (Sheikh Al-Arab) � 400 g (1�25),1.08,Inventory Item,63.92,75.58,9/26/2023,1/12/2025
+44,Halibna Fresh Cream (1�48),313.75,Inventory Item,52.97,61.76,11/4/2023,11/6/2024
+45,Halibna Plant-Based Milk � 350 g,244.292,Inventory Item,36.37,53.21,7/23/2024,3/20/2026
+46,Halibna Plant-Based Milk � 750 g (1�12),451.667,Inventory Item,74.2,111.96,10/15/2023,6/29/2024
+48,Seven Soap Bars,1714.813,Inventory Item,18.46,22.28,4/15/2023,7/30/2025
+50,Palm Brand Instant Soup � Economy (12�800 g),227.333,Inventory Item,36.47,49.34,8/16/2023,8/11/2024
+55,Gillette 2 Disposable Razors (1�24) (5 DIS) (101-009),10673,Inventory Item,45.23,68.77,9/4/2023,7/13/2025
+59,Heinz Ketchup � Medium (10�700 g),165.6,Inventory Item,55.82,81.85,11/30/2024,8/4/2027
+60,Al-Taza Premium Economy Tuna (1�48),5.083,Inventory Item,94.65,129.78,5/8/2024,12/5/2026
+62,Tunas Jam � Small Jar 380 g (1�12),22,Inventory Item,25.56,35.66,3/24/2023,2/1/2026
+63,Marina Sweet Corn � Medium 340 g (1�24),22.708,Inventory Item,62.68,84.88,7/5/2023,4/5/2026
+64,Vimto Glass Bottle � 1 Liter (1�12),3.417,Inventory Item,71.9,89.79,9/9/2023,2/12/2026
+65,Cappy Juice � Four Pack Offer (1�4),6,Inventory Item,7.48,10.34,12/21/2023,9/30/2026
+70,Gillette Fusion Shaving Gel � 200 ml (1�6),112,Inventory Item,73.69,106.44,1/19/2025,9/26/2025
+72,Al-Rabee Green Tea (1�12),173.667,Inventory Item,22.12,33.99,5/21/2025,7/22/2026
+75,Asala Date Paste (Ajwa) (1�12),250.167,Inventory Item,9.68,13.73,11/26/2024,10/17/2025
+76,Al-Rajeh Chlorine Cleaner � 4 Liters (1�6),908,Inventory Item,113.97,168.74,3/6/2025,5/12/2027
+77,Hammerkaz Tomatoes 28/30 (1�24),39.583,Inventory Item,115.94,136.81,6/15/2025,1/25/2028
+78,Amanda Triangle Cheese (1�45),1477.089,Inventory Item,97.39,129.6,7/29/2023,11/15/2024
+83,OK Oven Cleaner � 750 ml (Single) (1�12),28.333,Inventory Item,37.94,41.91,3/26/2025,4/26/2027
+84,Dove Soap Promo Pack � 100 ml (1�4�12),233.25,Inventory Item,13.53,16.55,3/18/2025,12/27/2026
+91,Plastic Coffee Cups,17,Inventory Item,82.74,121.07,8/31/2024,7/17/2026
+93,Palm Brand Freekeh � Economy (1�10),88.1,Inventory Item,53.94,86.08,3/22/2024,3/29/2025
+96,Peter Brill Rice � 5 kg (1�5),137.2,Inventory Item,16.4,18.85,4/4/2024,12/7/2024
+100,Nutella � Large Jar 600 g (1�6),122,Inventory Item,60.43,78.6,4/16/2024,2/18/2026
+101,Merci Chocolate Gifts � Large Box (1�6),31.167,Inventory Item,6.06,9.09,12/20/2024,9/12/2027
+103,Raffaello Chocolate � 150 g (1�6),7.667,Inventory Item,109.3,131.38,1/5/2024,8/23/2024
+105,Arwa Water � 1.5 Liter (1�8),484,Inventory Item,32.54,44.83,6/18/2025,5/14/2028
+107,Al-Marai Tuna (1�48),46.625,Inventory Item,80.18,117.59,5/6/2024,10/30/2025
+112,Smart Hobby Chocolate (1�6),31,Inventory Item,38.78,54.6,5/17/2023,1/17/2026
+113,Vileda Shoe Sponge with Liquid � Cream 60 ml (1�12),23.25,Inventory Item,63.37,75.66,1/2/2024,10/16/2025
+114,Vileda Shoe Liquid Polish � Self Shine 80 ml (1�6),4.833,Inventory Item,66.51,84.98,6/30/2025,4/20/2028
+115,Vileda Instant Shine Shoe Sponge (1�4),21,Inventory Item,23.81,35.52,7/3/2023,6/2/2025
+116,Vileda Shoe Paste � Regular 50 ml (1�12),14.667,Inventory Item,116.41,160.31,8/10/2024,3/10/2027
+118,Doritos � 45 g (2 Shekel Pack) (1�48),329,Inventory Item,93.47,103.06,10/14/2023,6/15/2025
+121,Naama Luncheon Meat � 200 g (1�24),42,Inventory Item,112.86,167.09,4/16/2024,2/3/2027
+122,Peas with Carrots � Canned (1�24),23.167,Inventory Item,107.59,120.25,1/10/2024,5/1/2025
+124,Marina Sweet Corn with Spoon (1�24),24.5,Inventory Item,72.55,106.86,10/15/2024,6/21/2026
+129,Mentos � 30 g (1�12),3052,Inventory Item,110.78,133.07,1/18/2025,6/12/2027
+130,Vimto Can � 250 ml (1�30),8,Inventory Item,12.44,19.64,6/20/2024,11/7/2026
+131,Rani Juice � Glass Bottle (1�24),0.542,Inventory Item,25.13,32.27,5/25/2024,6/6/2025
+134,Americana Mushrooms,18.375,Inventory Item,7.34,9.27,3/12/2025,1/13/2026
+136,Sineora Luncheon Meat Promo (2 Large + 1 Small) (1�6),225.333,Inventory Item,40.39,47.44,8/1/2024,7/13/2026
+137,Nescaf� Al-Eit � 200 g (1�12),3.5,Inventory Item,47.86,59.96,9/7/2023,4/19/2025
+138,Lazeeza Hummus Tahini � 370 g (1�24),18,Inventory Item,34.02,52.33,5/24/2024,3/9/2027
+139,Pop Cake � 24 Pieces (1�6),292.667,Inventory Item,99.79,159.48,9/21/2024,5/23/2025
+143,Jenan Tea (1�36),77.972,Inventory Item,44.1,56.63,3/14/2023,8/3/2025
+146,Marina Sweet Corn with Spoon � Large (1�48),5,Inventory Item,35.15,46.55,10/9/2023,12/2/2024
+149,Ferrero Rocher Gift Box (1�4),46.75,Inventory Item,66.04,96.49,12/26/2023,6/26/2025
+153,Latex Cleaning Gloves,8.25,Inventory Item,18.63,28.75,1/10/2023,12/25/2024
+159,Merci Chocolate Gifts � Small Box 400 g (1�8),69.875,Inventory Item,96.66,134.99,7/30/2023,2/12/2025
+161,Khair Baladi Tomatoes � Medium 700 g,333.222,Inventory Item,10.8,13.99,4/14/2025,12/15/2026
+171,Taama Tomatoes (1�4),0.25,Inventory Item,118.45,154.73,6/1/2023,2/18/2024
+173,Shaqha Rice � 27.5 kg,144,Inventory Item,93.12,134.82,1/5/2023,10/11/2025
+174,Brill Rice � 1 kg (1�10),58,Inventory Item,25.45,28.04,7/14/2023,12/6/2025
+184,"Najjar, Al-Khairat & Merryland Fava Beans � 400 g (1�24)",6,Inventory Item,2.65,3.74,10/10/2023,7/13/2026
+186,Marina Mackerel Sardines � Economy (1�50),24.54,Inventory Item,98.22,125.5,4/8/2024,6/7/2026
+190,Economy Wet Wipes � New (1�24),0.667,Inventory Item,85.41,127.87,4/23/2023,5/15/2025
+193,Diamond Rice � 25 kg,30,Inventory Item,88.02,100.91,9/28/2023,1/5/2025
+198,Maamoul New � 35 g,52,Inventory Item,93.01,129.67,6/12/2023,5/25/2025
+199,Safi Sunflower Oil � 1 Liter,16.583,Inventory Item,10.74,14.4,4/4/2024,1/2/2026
+201,Sangrit Tuna,52.229,Inventory Item,44.3,62.96,4/15/2023,5/10/2024
+202,Lifebuoy Soap Bar,144,Inventory Item,15.67,17.75,11/23/2024,9/24/2025
+208,Fluffy Fine Napkins (3�5),36,Inventory Item,103.85,144.35,7/9/2024,2/21/2026
+213,Sliced Almonds + Almond Halves (1�10),1213,Inventory Item,75.55,104.32,10/9/2023,8/17/2025
+215,Al-Eit Coffee � 1 kg,115.5,Inventory Item,41.05,56.66,11/17/2024,7/14/2026
+216,Sineora Luncheon Meat � Medium Promo,6.5,Inventory Item,9.5,13.32,6/11/2023,6/13/2025
+217,Chocolate Spread � Bucket 22 kg,86,Inventory Item,38.7,55.66,12/17/2023,2/13/2026
+218,Choco Pack Breakfast Cereal (1�12),29,Inventory Item,40.37,60.66,3/9/2024,3/1/2026
+219,Ajawi Nescaf� � 200 g (1�12),0.5,Inventory Item,88.09,108.78,5/1/2025,4/3/2026
+220,Sahtain Ghee � Tin,28,Inventory Item,77.23,116.81,5/20/2023,3/6/2024
+221,Red Kidney Beans,3.125,Inventory Item,106.69,143.94,4/15/2024,11/17/2025
+222,Chocolate Spread � 3 kg (Chocotella),163,Inventory Item,57.72,65.72,5/12/2023,12/5/2025
+224,Zadna Pickles � 18/25,554.292,Inventory Item,16.11,18.19,3/28/2023,1/23/2024
+225,Khayal Cooking Oil � Tin 16 kg,224,Inventory Item,86.16,109.17,11/18/2024,2/13/2026
+226,Maxi Care Sanitary Pads,31.25,Inventory Item,91.77,136.96,7/2/2023,10/17/2024
+227,Almond Juice (1�24),5,Inventory Item,68.23,99.2,1/3/2024,8/2/2025
+232,Khair Baladi Rice � 3 kg,91,Inventory Item,92.97,138.93,5/9/2023,2/17/2025
+236,Gillette Fusion ProGlide Styler Power � Promo,4,Inventory Item,60.27,81.88,9/3/2023,9/23/2024
+237,Oral-B Toothpaste � Premium (121-114),63,Inventory Item,63.68,84.06,8/23/2024,6/8/2025
+238,Oral-B Complete + Clean Toothpaste (114-113),1298,Inventory Item,52.45,61.56,7/31/2024,4/11/2026
+241,Caroli Mayonnaise,372.667,Inventory Item,5,6.32,10/31/2024,1/31/2026
+243,Cappy Juice � 330 ml,2320,Inventory Item,14.73,19.4,6/17/2025,7/4/2027
+245,Oral-B Toothbrush � Economy (123) (013-112),38,Inventory Item,5.71,6.53,1/13/2024,12/14/2026
+247,Huggies Newborn Diapers � Size 1,75.333,Inventory Item,77.1,93.31,5/29/2023,5/27/2026
+251,Soy Sauce (1�12),422,Inventory Item,39.09,54.69,5/1/2025,5/19/2027
+252,Gillette Mach3 Razor Handle (100-029),95,Inventory Item,62.01,91.02,3/8/2024,12/29/2025
+254,Chocolate Blocks / Confectionery Chocolate,32,Inventory Item,109.09,174.45,9/19/2024,5/29/2027
+255,Gillette Colgate Toothpaste � 100 ml (1�48),5,Inventory Item,31.42,49.22,12/26/2024,10/15/2025
+256,Orbit Gum � Card Pack (5 Shekel),14,Inventory Item,50.43,71.68,4/13/2024,3/21/2027
+258,Harvest Chickpeas,12,Inventory Item,91.16,119.48,3/21/2024,3/2/2027
+259,Fayrouz Can,213.792,Inventory Item,29,41.12,4/25/2024,1/19/2027
+265,Mach3 Promo Pack,3,Inventory Item,11.08,16.54,6/2/2025,3/30/2028
+272,Ginger with Honey (1�24),74.333,Inventory Item,36.19,41.95,10/21/2023,8/7/2025
+282,Taco Laundry Freshener,10.833,Inventory Item,21.02,27.43,2/3/2025,7/12/2027
+283,Fairy Dishwashing Liquid � 1.05 Liter (1�8),150,Inventory Item,111.7,169.77,5/23/2023,10/4/2024
+285,Turko Chocolate � 70 g (1�8),3,Inventory Item,97.36,125.78,9/7/2023,8/30/2024
+289,Cola Club 330 ml (1�24),26,Inventory Item,76.74,106.36,5/27/2025,5/7/2028
+294,Awsam Chili Ketchup (1�9),118.667,Inventory Item,104.83,146.12,10/29/2023,11/30/2024
+302,Harpic Toilet Block Twin Pack (1�6),963,Inventory Item,96.83,115.44,1/25/2023,9/19/2025
+309,Sazon BBQ Spices (33�36),235,Inventory Item,24.02,30.77,2/27/2025,2/4/2027
+310,Yellow Cheese 1 kg (1�12),156.917,Inventory Item,107.32,136,6/7/2025,4/9/2027
+311,Yellow Cheese 500 g (1�24),1761.458,Inventory Item,65.64,73.06,6/8/2025,5/13/2028
+312,Al-Hilal Halawa Sliced Bar (1�10),12.4,Inventory Item,97.28,108.18,6/19/2025,2/14/2026
+314,Vitrak Jam Large 900 g (1�12),162.5,Inventory Item,107.74,163.32,3/11/2023,10/30/2023
+315,Vitrak Jam Small 340 g (1�12),0.333,Inventory Item,39.52,48.87,9/16/2024,1/23/2027
+324,Caroli Soybean Oil Tin 17.4 L,2,Inventory Item,14.99,20.37,5/24/2025,5/11/2027
+326,Tunas Tuna 700 g (1�12),1,Inventory Item,28.9,36.11,4/22/2023,2/12/2026
+327,Safi Sunflower Oil 10 L Tin,5,Inventory Item,52.4,82.29,12/30/2023,8/30/2024
+328,Safi Sunflower Oil 16 L Tin,2,Inventory Item,98.53,121.16,10/30/2023,12/29/2025
+331,Awsam Soup Bowl (1�10),121.6,Inventory Item,103.57,136.18,4/15/2024,5/20/2026
+334,Heinz Tuna (1�48),46.5,Inventory Item,2.82,4.33,4/1/2023,8/31/2025
+335,Diamond Rice 10 kg,24,Inventory Item,62.27,94.71,6/13/2024,5/29/2025
+336,Khair Baladi Tomatoes 19 kg,57,Inventory Item,51.25,61.14,10/22/2024,1/17/2026
+338,Hawaii Shampoo (1�12),3,Inventory Item,28.21,42.35,1/8/2025,12/12/2027
+348,Maharaja Rice 5 kg (1�4),23,Inventory Item,16.14,21.45,12/26/2024,5/23/2027
+349,Maharaja Rice 10 kg (1�4),234,Inventory Item,41.84,56.13,5/21/2025,5/5/2027
+351,Americana Corn Small (1�12),7,Inventory Item,113.26,132.14,10/24/2024,5/17/2026
+353,Blue Energy Drink Mint + Regular (1�24),1451.042,Inventory Item,40.14,45.77,7/11/2023,11/29/2025
+359,Marina Whole Mushrooms (1�24),70.625,Inventory Item,63.22,92.55,7/5/2024,11/23/2025
+362,Poker Biscuits 45 g � 1.5 Shekel (1�4),63.25,Inventory Item,84.96,114.55,8/30/2023,6/12/2024
+363,Pampers Carton,1850,Inventory Item,44.91,59.21,5/18/2023,3/9/2026
+365,Molit Toilet Paper (1�48),979,Inventory Item,116.67,170.89,12/11/2023,11/16/2024
+369,Marina Tuna 340 g (1�24),55.292,Inventory Item,115.57,171.36,6/29/2023,3/18/2026
+370,Alite Chocolate Round 500 g (1�12),14.667,Inventory Item,31.71,37.4,12/12/2024,9/4/2026
+371,Sirin Juice Cans (1�24),266,Inventory Item,60.68,85.26,5/17/2024,6/6/2025
+374,Abu Shanab Mackerel (1�50),254.6,Inventory Item,37.5,43.79,7/22/2023,8/29/2025
+375,Vivien Water 1.5 L (1�6),627,Inventory Item,35.61,52.55,7/26/2024,2/6/2025
+377,Cruz Al-Shalla Flour (1�10),1830.5,Inventory Item,6.35,9.07,7/11/2023,11/28/2024
+378,Cruz Al-Shalla Salt (1�10),0.6,Inventory Item,73.93,116.68,1/5/2023,3/2/2025
+379,Gillette Mach 3 Blades 8 pcs (017-100),176,Inventory Item,61.32,69.57,6/8/2025,9/24/2027
+383,KitKat 2-Finger Multipack Bars (1�48),7.521,Inventory Item,8.07,9.11,8/25/2023,2/22/2024
+387,Al-Ard Olive Oil 1 L (1�12),305.167,Inventory Item,34.88,43.29,11/23/2024,5/31/2025
+388,Amazon Smart Up Cola (1�30),477,Inventory Item,109.18,134.38,11/7/2023,7/12/2025
+389,Jericho Wafer (1�6�24 pcs),29.5,Inventory Item,30.27,37.04,7/2/2024,5/2/2025
+390,Flavored Nescaf� (1�10),28.7,Inventory Item,19.1,29.66,2/25/2023,11/12/2023
+391,Nescaf� Cappuccino (1�12),22.417,Inventory Item,59.76,73.19,3/18/2024,1/11/2026
+393,Torabika Cappuccino (1�12),1228.583,Inventory Item,118.31,146.23,8/25/2023,12/3/2025
+395,Sliced Almonds + Almond Halves 11.34 kg,578.036,Inventory Item,30.56,45.22,5/19/2025,3/1/2028
+396,Johnson�s Soap,71,Inventory Item,81.31,107.73,5/10/2025,4/4/2026
+397,Kitchen Paper Rolls White 8 Rolls (1�6),71,Inventory Item,91.87,136.74,7/16/2023,3/21/2026
+398,Diamond Rice 5 kg,11,Inventory Item,30.04,34.03,8/7/2024,6/25/2027
+399,Cheesecake 360 g (1�12),5.167,Inventory Item,87.93,118.16,7/24/2024,12/25/2025
+401,Fine Collection Toilet Paper Regular (1�4),17,Inventory Item,45.4,50.7,1/21/2025,11/25/2025
+403,Carefree Feminine Pads Large + Cotton & Aloe (1�6 + 1�5),405,Inventory Item,76.61,86.67,5/28/2024,2/4/2026
+409,Gillette Fusion ProGlide Power Handle 1 Blade (014-102),34,Inventory Item,76.76,119.23,3/24/2024,10/10/2026
+410,Gillette Venus Women Handle + 2 Blades (017-102),7,Inventory Item,65.22,76.28,12/26/2023,11/5/2025
+411,Gillette Two Disposable Razors 10 pcs (011-101),234,Inventory Item,12.65,17.28,11/30/2024,7/25/2025
+412,Union Meat 800 g (1�12),0.083,Inventory Item,100.57,131.3,3/29/2025,4/10/2026
+413,Union Meat Medium 500 g (1�24),0.5,Inventory Item,39.85,50.76,1/30/2023,2/24/2024
+418,Colored Pasta (1�24),76.333,Inventory Item,24.01,37.21,2/17/2025,2/15/2028
+419,Oral-B Cross Expert Animal Toothbrush (014-112),1,Inventory Item,6.81,7.57,4/18/2023,4/3/2026
+420,Oral-B 3D Toothbrush Duo Pack (106+107-112),18,Inventory Item,71.73,102.71,4/23/2025,12/3/2025
+421,Lasagna (1�15),1481,Inventory Item,81.95,129.62,8/24/2024,5/27/2025
+423,Gillette Blue II 10 Blades + 2 Free,1,Inventory Item,3.96,5.47,12/17/2024,3/20/2026
+426,Al-Rajeh Smooth Tissues 1 kg (1�10),13.7,Inventory Item,62.43,97.92,6/9/2025,5/24/2027
+427,Oral-B Mouthwash 500 ml (1�6),138,Inventory Item,28.73,32.35,3/20/2024,10/30/2025
+430,Haribo Mixed Candy 100 g,4,Inventory Item,78.13,102.3,6/11/2025,3/13/2027
+436,Coco Pops Cereal 375 g (1�20),34,Inventory Item,22.58,27.78,3/13/2024,10/4/2025
+437,Coco Pops Choco Cereal 375 g (1�18),34,Inventory Item,83.53,122.41,1/1/2025,10/24/2027
+438,All Bran Raisins Cereal 500 g (1�10),1.3,Inventory Item,47.63,75.76,6/8/2025,1/17/2026
+439,Rice Krispies Cereal 375 g (1�12),28.786,Inventory Item,112.53,138.22,8/28/2024,3/22/2025
+443,Awsam Na�ameh Wafer 250 g (1�24),24.75,Inventory Item,18.23,26.02,4/1/2024,11/30/2026
+444,Founty Sardines + Al-Awafi Sardines (1�50),23,Inventory Item,42.25,50.66,9/6/2024,6/9/2025
+448,Shakha Oil 3 L (1�6),3,Inventory Item,15.39,21.28,1/4/2025,1/1/2027
+449,Baby Doll Lollipops (1�48),101,Inventory Item,111.11,147.99,11/28/2024,2/6/2027
+450,Crispy Coconut Biscuits (1�4),181.25,Inventory Item,105.53,167.37,11/26/2024,12/12/2026
+458,Laughing Cow Cheese 8 Portions (1�48),277.104,Inventory Item,32.44,45.55,5/9/2024,10/9/2026
+461,Ferrero Rocher Triple Pack (1�6),72.333,Inventory Item,79.88,101.83,11/4/2024,12/7/2025
+464,Ukrainian Flour Al-Shalla 50 kg,181,Inventory Item,98.43,113.89,9/4/2023,9/2/2024
+471,Crazy Chocolate Bars (24�6),123.833,Inventory Item,67.51,79.37,6/26/2024,3/1/2025
+475,Marina Mayonnaise 500 g (1�12),103.583,Inventory Item,64.5,78.22,7/17/2024,4/21/2027
+481,Terma Freezer Bags 50 pcs (1�6),6.833,Inventory Item,30.54,37.43,5/6/2025,3/11/2026
+487,Fairy New 650 ml (1�16),668.813,Inventory Item,12.99,19.81,8/10/2024,8/26/2026
+488,Nescaf� Nestl� Tester Choice (1�5),24,Inventory Item,107.87,148.93,6/15/2025,5/19/2028
+493,Ukrainian Flour � Sunbul / Haifa Hadar 25 kg,863,Inventory Item,108.25,147.4,3/14/2024,5/11/2026
+495,Al-Zahraa Yellow Food Coloring 10 g,3,Inventory Item,76.71,88.78,10/5/2023,7/28/2026
+498,Extra Extra Pickled Cucumbers 3 kg (1�6),2.333,Inventory Item,42.01,64.28,7/5/2024,8/22/2026
+501,Ritz Salted Crackers 200 g (1�24),23,Inventory Item,43.21,63.15,9/4/2024,5/17/2027
+514,American Walnuts 11.34 kg,4,Inventory Item,87.66,99.39,4/21/2023,7/9/2025
+517,Samosa Dough 500 g �Foshieh� (1�30),11.767,Inventory Item,107.86,156.82,1/20/2024,7/7/2026
+520,Al-Malika Pasta Shapes 500 g,187.15,Inventory Item,106.68,146.34,4/12/2025,9/7/2026
+526,Vivien + Furat + Rital Water Small 0.5 L,742,Inventory Item,94.03,107.28,1/30/2025,12/29/2025
+527,Dairy Milk Bubbly Mini 28 g (1�12),532,Inventory Item,77.76,103.35,7/10/2023,7/5/2025
+529,Pampers Medium New,1599,Inventory Item,11.93,16.01,5/4/2024,1/17/2025
+534,Fella Tuna Chunks 140 g (1�48),5,Inventory Item,21.07,24.92,11/24/2024,12/22/2026
+535,Maltesers 37 g (25 pcs),573,Inventory Item,108.03,169.91,3/1/2024,12/30/2026
+536,Clorox Spray (1�12),2.167,Inventory Item,73.56,112.18,2/9/2024,9/23/2025
+537,Delissio Chili Small 88 g (36 pcs),0.5,Inventory Item,3.09,4.43,12/1/2023,11/25/2025
+540,Heinz Tomato Sauce Glass 370 ml (12 pcs),157.417,Inventory Item,13.97,18.6,7/28/2023,9/23/2025
+542,German Honey 500 g (12 pcs),34,Inventory Item,80.29,104.85,1/22/2023,1/5/2024
+543,M&M�s Brown + Yellow + Blue (1�24),2361,Inventory Item,2.6,3.71,11/8/2024,3/18/2027
+544,Pantene Double 660 ml,5800,Inventory Item,20.98,28.8,9/2/2024,12/23/2026
+545,Americana Chickpeas,78.458,Inventory Item,66.75,75.5,7/27/2023,8/27/2025
+547,Almarai Spread 200 g,7.833,Inventory Item,83.64,113.44,1/8/2023,12/2/2024
+548,Almarai Spread 500 g,72.5,Inventory Item,78.93,118.65,12/2/2024,4/9/2026
+549,Almarai Triangle Cheese 360 g (24 pcs),0.111,Inventory Item,28.46,37.84,11/17/2024,6/16/2025
+550,Almarai Triangle Cheese 120 g (8 pcs),3,Inventory Item,86.04,96.88,2/23/2025,6/4/2026
+551,Comfort Fabric Softener 3 L (1�4),1026,Inventory Item,30,44.79,6/12/2024,7/25/2026
+552,Large Chocolate Spread (1�12),92.833,Inventory Item,40.4,48.51,8/24/2024,4/3/2025
+553,Al-Aqsa Local Thyme,11.9,Inventory Item,90.09,110.75,10/14/2024,10/1/2027
+557,Palmolive Clear 900 ml (1�12),37.583,Inventory Item,78.66,93,10/18/2024,12/23/2026
+560,Oki Dishwashing Liquid 10 L,90,Inventory Item,102.21,129.31,6/15/2023,12/12/2023
+563,Bifa Crackers 400 g (12 pcs),31,Inventory Item,79.6,117.68,4/28/2025,5/20/2027
+564,Dettol Multi-Purpose Cleaner 1.8 L (1�6),73,Inventory Item,69.06,93.9,5/10/2024,8/2/2025
+568,AXE Deodorant 150 ml,3041,Inventory Item,13.05,15.69,8/12/2024,8/6/2025
+570,Coconut Milk Drink 350 ml (1�24),44,Inventory Item,45.39,69.85,3/4/2024,9/5/2026
+576,Al-Walad Tea (1 kg + 500 g + 250 g),27.6,Inventory Item,33.29,51.26,2/12/2025,1/10/2027
+577,Al-Walad Coffee Whitener,9.25,Inventory Item,30.79,47.27,6/12/2023,3/20/2024
+578,Al-Walad Nescaf�,5,Inventory Item,116.82,142.45,1/1/2024,7/8/2024
+579,Al-Walad Herbs (Chamomile + Ginger + Anise),79.417,Inventory Item,48.39,64.15,6/9/2024,7/11/2026
+580,Al-Walad Herbal Mix (1�24),57.917,Inventory Item,107.26,170.81,8/27/2023,5/22/2024
+581,Al-Walad Molokhia,1.75,Inventory Item,76.47,113.63,3/13/2023,4/21/2024
+582,Al-Walad Tea Sachets (1�12),9.833,Inventory Item,95.79,106.67,3/20/2024,7/17/2026
+584,Time Out Chocolate,8,Inventory Item,61.31,69.44,10/16/2024,4/23/2027
+585,Breeq Oven Cleaner 750 ml,266.167,Inventory Item,70.07,93.33,4/1/2025,1/31/2026
+586,Smart Floor Freshener,636.583,Inventory Item,60.12,93.46,5/23/2024,6/15/2025
+587,Breeq Aluminum Foil,532.208,Inventory Item,25.04,34.29,3/5/2025,12/6/2025
+588,Amigo Liquid Soap 500 ml,96.75,Inventory Item,87.25,117.69,9/26/2023,6/5/2024
+589,Accord Liquid Soap 400 ml (1�12),11,Inventory Item,35.13,40.5,1/22/2025,4/8/2027
+590,Fakhouri Bonbon Round Candy (1�40),303,Inventory Item,4.87,6.96,2/19/2024,2/23/2025
+591,Flavored Cappuccino (1�12),12.25,Inventory Item,78.17,118.12,9/2/2023,1/10/2026
+592,Maggi Vegetable Soup Carton (1�12),522,Inventory Item,22.9,29.55,11/5/2024,7/31/2027
+594,Maggi Chicken Soup with Seeds Carton (1�6),226,Inventory Item,112.97,168.08,3/1/2023,8/12/2025
+595,Maggi B�chamel Soup Mix Carton (1�6�12),398,Inventory Item,114.56,181.26,1/6/2023,8/29/2023
+597,Alite Coffee Sticks (1�14),6.143,Inventory Item,109.95,132.15,12/9/2024,5/27/2027
+600,Al-Zahraa Jelly 500 g,71,Inventory Item,45.68,62.2,7/23/2024,7/25/2026
+601,Sliced Yellow Cheese 500 g,13.813,Inventory Item,3.82,4.75,3/27/2025,10/24/2025
+602,Almarai Triangle Cheese 240 g (16 pcs),3,Inventory Item,111.54,166.91,2/11/2024,1/17/2026
+606,Vaseline 120 ml (1�48),942,Inventory Item,52.53,72.95,8/5/2023,8/27/2025
+608,Al-Zaaboub Coconut,46.8,Inventory Item,116.07,164.5,1/26/2023,5/21/2025
+612,Blendax Shampoo 700 ml,0.333,Inventory Item,115.71,173.44,3/25/2025,7/1/2026
+615,Rauch Juice 355 ml (1�24),5,Inventory Item,102.66,133.25,1/5/2023,6/23/2025
+618,Wanted Chocolate (1�6�24),17.833,Inventory Item,36.74,57.22,6/15/2024,3/23/2027
+620,Persil Detergent 8 kg,16,Inventory Item,47.44,64.83,1/25/2024,11/28/2025
+621,Al-Zaaboub Cocoa Powder,74.25,Inventory Item,102.43,120.76,12/10/2024,12/11/2025
+630,Snack Bonbon + Nuts (25 pcs) (1�12),45,Inventory Item,39.4,57.05,7/24/2024,6/1/2026
+632,Chickpeas Sack 25 kg,80,Inventory Item,22,32.93,3/23/2024,12/4/2025
+635,Lail Caramel Chocolate 50 g (1�18 pcs �6),117,Inventory Item,67.7,85.19,1/23/2025,11/28/2025
+637,Target Meat Large (1�24),22,Inventory Item,112.47,171.92,5/26/2023,8/21/2025
+639,Masafi Juice 1 L,36,Inventory Item,84.13,130.66,1/23/2024,5/8/2025
+640,Al-Zahraa Castor Oil,3,Inventory Item,69.27,85.79,2/23/2025,12/13/2025
+641,Vaseline 240 ml (1�24),11,Inventory Item,13.47,21.44,9/6/2023,9/18/2024
+643,No.1 Wafer Chocolate,429.667,Inventory Item,74.57,87.27,6/9/2024,12/18/2024
+645,Rima Compressed Toilet Paper 16 Rolls,25.667,Inventory Item,118.83,142.72,4/6/2024,6/30/2025
+646,Alaa Al-Deen Tissues 800 g (1�10),611.1,Inventory Item,18.53,22.09,1/13/2023,3/3/2025
+648,Awsam Argalot Small 300 g (12 pcs),194.667,Inventory Item,63.16,97.71,6/21/2025,7/20/2026
+649,Tide Liquid Detergent 2.5 L,214.25,Inventory Item,105.53,150.61,1/19/2024,10/3/2025
+651,Poker Biscuits 150 g (5 Shekel),63,Inventory Item,89.41,105.15,7/9/2024,3/5/2027
+654,Varna Juice 250 ml (1�27),50,Inventory Item,84.25,111.22,6/5/2025,4/27/2027
+655,Abu Abda Chili Sauce Large 780 g (1�6),48,Inventory Item,84.89,119.5,2/3/2024,10/21/2025
+656,Abu Abda Chili Sauce Small 300 g (1�12),69,Inventory Item,44.42,50.72,1/19/2023,7/1/2025
+666,XL Small Juice (Mixed Flavors: Apple & Mango),453,Inventory Item,36.64,56.47,7/28/2024,4/7/2025
+676,Active Juice 170 ml (1�48),75,Inventory Item,97.5,146.43,5/5/2024,4/21/2026
+679,Always Biscuits (1�6),126.333,Inventory Item,97.59,132,1/20/2025,10/27/2025
+680,Awsam Pasta 250 g (�40),4,Inventory Item,104.31,165.18,2/23/2024,2/12/2025
+683,Zadna Pickles Size 13�17,129.458,Inventory Item,109.76,143.66,12/3/2023,7/31/2025
+684,Zadna Pickles Bucket Size 30�36 (1�6),185,Inventory Item,62.34,99.25,2/23/2024,12/15/2024
+696,Fettuccine Pasta 500 g (Plastic),1637,Inventory Item,61.18,87.73,9/3/2024,8/14/2025
+698,Al-Zahraa Flour,8,Inventory Item,96.2,136.35,11/5/2024,6/13/2025
+705,Glass Gifts 600 g,44,Inventory Item,78.7,93.1,5/2/2023,12/30/2024
+706,7 Days Croissant Stand 65 g (60 pcs),1,Inventory Item,84.83,130.72,3/7/2024,8/12/2025
+707,First Harvest Tomatoes (1�12),211,Inventory Item,95.9,125.99,2/13/2023,10/8/2024
+709,Lays Chips 18 g (1 Shekel),31,Inventory Item,107.02,126.4,5/21/2025,11/17/2026
+711,Heinz Pizza Sauce 350 g (1�12),64.417,Inventory Item,41.88,46.33,11/13/2023,9/7/2024
+714,Flex Razors (3 Blades) BIG,10.1,Inventory Item,46.32,63.92,1/16/2024,3/14/2026
+715,Ajax Glass Cleaner Single (1�12),157.167,Inventory Item,13.09,17.85,5/25/2023,9/7/2025
+717,Twengo Biscuits (1�12),12.5,Inventory Item,70.24,102.53,11/23/2023,5/18/2026
+723,Cheap Fatafit Tomatoes 400 g,55,Inventory Item,6.24,9.64,12/29/2023,2/9/2025
+726,Cola Cans 150 ml (1 Shekel),9944,Inventory Item,56.94,64.89,2/19/2023,11/19/2025
+727,Fresher Flavored Drink 200 ml (1�24),649,Inventory Item,66.03,96.78,3/6/2023,1/9/2024
+731,Highway Cake 60 g (1�6),86,Inventory Item,35.81,42.75,12/21/2023,6/4/2025
+732,I Caf�,67,Inventory Item,71.72,109.67,3/10/2025,2/11/2028
+734,Awsam Thyme Crackers (1�12),68,Inventory Item,5.6,8.45,6/13/2023,10/22/2024
+736,Al-Rihan Juice (1�24),11,Inventory Item,6.41,8.78,5/21/2023,8/26/2025
+737,Caroli Oil 1 L (1�15),6.8,Inventory Item,99.07,144.16,4/5/2025,1/15/2028
+744,Laziza Whole Mushrooms 400 g (1�24),2,Inventory Item,44.5,55.94,5/8/2023,10/5/2024
+746,Al-Zahraa Gelatin,19,Inventory Item,16.99,22.69,2/2/2024,4/29/2025
+747,Betty Bear Sugar 1 kg (8 pcs),11.25,Inventory Item,63.62,96.12,5/29/2025,3/21/2026
+751,Puck Triangle Cheese 360 g (16 pcs),26.438,Inventory Item,92.86,123.47,4/7/2024,12/30/2026
+752,Twinkies (1�6),89,Inventory Item,27.47,35.13,1/20/2025,7/21/2026
+758,Al-Faisal Rice 1 kg (1�12),696,Inventory Item,75.5,101.71,4/15/2025,1/13/2026
+763,Al-Ard Olive Oil 500 ml (1�12),1,Inventory Item,12.07,18.28,3/18/2025,2/28/2026
+764,Al-Ard Olive Oil 250 ml (1�12),4,Inventory Item,8.1,10.27,7/6/2023,12/16/2025
+765,Diamond Rice 1 kg,26,Inventory Item,64.7,76.79,12/20/2024,5/24/2026
+766,Compressed Semolina,3,Inventory Item,65.79,95.79,1/1/2025,4/21/2027
+777,Canola Oil 5 L,5,Inventory Item,77.22,116.83,6/30/2025,6/27/2028
+778,Al-Wadi Rice 5 kg,62,Inventory Item,87.68,100.86,7/9/2023,11/29/2025
+779,Al-Wadi Rice 1 kg,10,Inventory Item,117.15,142.92,1/23/2024,12/19/2024
+782,Canola Oil 3 L,12,Inventory Item,62.92,73.68,3/4/2024,4/8/2026
+784,Betty Bear Gold Sugar 900 g (Cheap),586.5,Inventory Item,40.11,51.1,5/7/2025,3/28/2028
+785,Mabket Vermicelli 4 kg (Rabbit Brand),508.55,Inventory Item,95.83,126.99,10/11/2023,10/7/2026
+786,Flavored Soda Water,43,Inventory Item,33.96,50.07,5/13/2025,8/9/2026
+791,Pop Cake Small Size (1�12),19.333,Inventory Item,53.8,76.7,8/25/2023,8/27/2025
+792,Juice Cool Drink (1�30),39,Inventory Item,11.26,15.88,7/13/2023,5/18/2025
+793,Mackintosh Plastic Pack 650 g (New),536,Inventory Item,4.99,6.37,10/14/2023,4/4/2026
+794,Raffaello Triple 38 g (1�4),84,Inventory Item,115.59,175.78,2/9/2025,11/16/2025
+796,Venus Snap Advanced Handle (027-102),31,Inventory Item,100.65,134.43,1/27/2025,2/2/2027
+800,Signal Toothpaste 50 ml,75,Inventory Item,84.12,133.71,5/16/2023,2/1/2024
+802,Schweppes Drink,2,Inventory Item,50.26,71.22,3/2/2025,2/8/2027
+804,ProGlide Starter Pack + 3 Blades (018-100),1,Inventory Item,22.45,26.11,2/21/2025,10/31/2025
+807,XL Energy Drink 150 ml Small,582,Inventory Item,20.46,29.42,6/20/2023,12/30/2023
+812,Edam Cheese 1 kg (�12),367,Inventory Item,31.53,39.81,6/8/2023,2/9/2025
+813,Close Up Toothpaste (1�48),181,Inventory Item,66.81,96.42,7/20/2023,6/20/2024
+814,Lifebuoy Shower Gel (�12),180,Inventory Item,86.32,97.96,5/1/2024,11/1/2026
+815,Toddy Croissant Chocolate (80 pcs + Grand Gift),77.75,Inventory Item,79.9,94.88,7/10/2024,5/17/2025
+816,Pistachio Halawa Cake Plate (1�6),2.167,Inventory Item,35.03,53.52,2/14/2025,7/16/2026
+819,Almarai Spread 500 g Promo (�7),5,Inventory Item,114.67,139.16,8/5/2024,3/11/2026
+820,Abu Al-Walad Cheese (�24),559,Inventory Item,89.07,135.25,5/18/2024,11/24/2025
+822,Best Shampoo 700 ml (�12),73,Inventory Item,67.41,83.56,5/25/2025,4/26/2028
+824,Lipton Tea 150 g,827.889,Inventory Item,74.18,105.44,1/6/2024,1/13/2026
+829,Nescaf� Gold 100 g (�12),185,Inventory Item,51.51,74.54,4/13/2023,1/24/2024
+831,Vegetable Ghee 16 kg,77,Inventory Item,31.23,42.36,5/5/2023,7/12/2025
+835,Jowan Water Cups 250 ml,475,Inventory Item,44,55.12,11/9/2023,1/26/2025
+837,Shakka Dates Paste (Al-Baraka) (1�12),793,Inventory Item,91.43,110.29,3/8/2025,3/27/2026
+838,Americana Chickpeas Promo 3+1,58,Inventory Item,3.7,4.13,4/2/2024,12/16/2024
+841,Ulker Soup (1�6),8,Inventory Item,15.7,19.66,8/18/2023,7/17/2024
+842,Wave Up Cocoa Wafer 40 g (�4),57,Inventory Item,7.43,10.6,10/19/2024,6/8/2027
+843,Leon Chips New (50 pcs) + Break Chips,716,Inventory Item,6.81,10.69,5/31/2025,7/31/2026
+848,Ariel Detergent 5 kg (White & Color),11,Inventory Item,102.94,158.07,7/16/2023,6/25/2025
+849,Basmati Al-Diyafa Rice 5 kg (1�4),2934,Inventory Item,85.03,126.1,6/3/2025,4/5/2028
+850,Oral-B Dual Toothbrush Premium (112-109),120,Inventory Item,57.95,86.59,1/2/2025,12/20/2026
+851,OKF Iced Coffee,88,Inventory Item,13.54,19.4,2/27/2024,8/23/2026
+854,Lika Gifts,83,Inventory Item,60.01,73.82,7/25/2024,6/23/2025
+859,Sama / Azhar Small Water,173,Inventory Item,57.87,89.91,9/1/2024,7/31/2025
+861,Twix White (32 pcs),158,Inventory Item,22.44,32.21,6/20/2023,11/1/2025
+864,Al-Mazraa Fava Beans 400 g (1�24),221.833,Inventory Item,53.19,73.41,1/17/2024,10/14/2024
+866,Seven Shampoo (1�12),4273,Inventory Item,49.02,56.64,6/22/2023,2/23/2025
+870,Tiger Chips 0.5 Shekel (1�50),923,Inventory Item,74.67,98.83,10/24/2024,3/25/2026
+875,Laziza Tomatoes 850 g,131,Inventory Item,76.94,102.34,3/28/2024,1/16/2026
+878,Al-Zahraa Cream 500 g (�12),462,Inventory Item,7.35,11.26,12/16/2023,5/6/2026
+880,Awsam Lentil Soup (1�8),234.875,Inventory Item,46.2,63.45,6/20/2025,4/26/2026
+882,Tomato Chips,40,Inventory Item,75.85,97.86,9/25/2024,6/16/2026
+883,Al-Zahraa Cappuccino Sticks (1�6),137,Inventory Item,61.37,97.48,5/8/2024,1/22/2027
+885,Yo-Yo Chips 1 Shekel,8,Inventory Item,103.07,119.08,9/11/2024,5/5/2027
+888,Americana Pineapple Slices 565 g (1�24),8.5,Inventory Item,79.73,104.55,1/4/2023,3/31/2024
+889,Ariel 3 kg Color,120.833,Inventory Item,21.23,23.8,4/3/2023,5/9/2025
+890,Dry Fava Beans 25 kg,1,Inventory Item,10.33,15.18,1/6/2023,12/28/2023
+893,Nutella 750 g (1�12),14,Inventory Item,77.81,121.31,10/15/2023,3/8/2026
+894,Americana Spicy Sardines (1�50),4,Inventory Item,5.13,6.36,9/9/2024,6/16/2027
+895,Abu Al-Walad Biscuits 60 g (72 pcs),8,Inventory Item,71.12,108.75,5/26/2023,8/25/2025
+896,Nescaf� Classic Medium 100 g (1�24),136.083,Inventory Item,112.95,140.75,2/21/2025,1/11/2028
+897,Nescaf� Classic Small 50 g (1�24),208,Inventory Item,69.91,108.74,2/28/2024,10/13/2024
+899,Nescaf� Classic Large 200 g (1�12),5098,Inventory Item,47.8,70.6,6/8/2025,6/24/2027
+900,Clear Shampoo Small 190 ml,582,Inventory Item,77.91,117.06,8/30/2024,12/23/2026
+901,Sahtain Ghee 18 kg,2,Inventory Item,56.07,62.18,4/1/2024,9/17/2025
+904,Star Biscuits (1�6),411,Inventory Item,66.38,104.97,1/10/2025,6/20/2027
+906,Vivien + Rital + Katalia + Jerusalem Water 1.5 L (�8),9109,Inventory Item,113.09,165.49,7/21/2023,11/19/2024
+907,KitKat Chunky New (1�26),27,Inventory Item,47.56,59.56,7/31/2023,6/12/2026
+915,Laziza Sardines (1�50),5.6,Inventory Item,115.42,174.83,1/6/2023,12/5/2025
+916,Al-Manar Starch (1�12),42,Inventory Item,108.83,135.03,9/15/2024,12/3/2026
+920,Totco Etty Biscuits 60 g (1�6),1.667,Inventory Item,25.1,38.56,1/11/2024,8/22/2026
+921,Al-Awafi Tomatoes 580 g (�24),3.625,Inventory Item,10.18,11.77,6/9/2025,1/20/2026
+922,Huggies Newborn NB Carton,238,Inventory Item,13.89,20.17,3/22/2024,7/16/2025
+925,Sibyl Ocean Tuna with Olive Oil (1�48),16.958,Inventory Item,4.15,5.69,4/14/2025,2/25/2028
+927,Colgate Toothpaste 75 g (�48),588,Inventory Item,13.14,15.09,4/16/2023,4/11/2026
+928,Nika Toilet Block � Sabaat,766,Inventory Item,82.59,100.84,10/12/2024,5/22/2026
+930,Glass Soda 250 ml (1�24),232,Inventory Item,10.4,11.5,3/21/2025,3/24/2026
+931,Nesquik Biscuits (1�12),349,Inventory Item,39.64,52.89,2/5/2024,11/2/2026
+933,Ariel Pods 27 pcs (1�4),1968,Inventory Item,101.7,127.19,4/6/2023,1/9/2026
+934,Qamreen Juice (1�6),40,Inventory Item,4.75,6.65,1/23/2024,11/26/2024
+935,Spira Insecticide Spray 630 ml (1�12),300,Inventory Item,98.11,122.5,3/27/2024,4/6/2026
+936,Sunsilk 190 ml (1�36),1394,Inventory Item,35.26,44.07,4/28/2025,4/14/2027
+937,Majhoul Dates 1 kg � Second Grade,8,Inventory Item,15.94,23.46,3/19/2025,6/7/2026
+938,Majhoul Dates 5 kg � Second Grade,1,Inventory Item,84.21,94.66,6/19/2025,4/12/2026
+939,Majhoul Dates 5 kg � First Grade,22,Inventory Item,76.22,118.25,2/20/2024,11/24/2025
+940,Sweetz Samosa Dough (1�30),1859,Inventory Item,105.54,161.07,12/26/2024,11/14/2025
+942,Sabaat Body Foam (1�12),1189,Inventory Item,88.74,127.24,5/18/2024,1/29/2026
+943,Vitrak Syrup (Carob & Tamarind) (1�12),48,Inventory Item,96.81,135.21,3/29/2024,4/12/2025
+944,Al-Walad Cream + Melody + Laziza Cream 150 g (Cheap) (1�48),0.771,Inventory Item,35.28,54.55,10/18/2023,9/18/2024
+945,Tweril Chocolate,240,Inventory Item,22.94,27.36,6/17/2024,4/14/2026
+946,Ferrero Rocher T16 (5�4),37,Inventory Item,90.57,103.2,7/12/2023,5/16/2026
+947,Nutella Go T1 (1�24),792,Inventory Item,97.21,118.57,5/30/2023,4/7/2024
+950,Al-Junaidi Milk (1�12),1364,Inventory Item,118.88,178,5/29/2025,5/24/2028
+951,Fayrouz 1 L (1�6),2466,Inventory Item,50.69,56.64,1/28/2025,12/21/2025
+955,Al-Karmel Corn Oil 5 L,40,Inventory Item,45.9,63.87,2/17/2025,7/17/2026
+962,Nesquik New Can 350 g (�12),8,Inventory Item,93.62,149.58,2/1/2025,10/9/2025
+963,Hop On Energy Drink,78,Inventory Item,42.21,64.49,5/29/2024,7/15/2025
+966,Tiger Bathroom Cleaner 1 L (1�12),55,Inventory Item,111.83,152.17,1/28/2024,6/24/2025
+967,Juhayna Juice Carton 200 ml,12,Inventory Item,103.29,116.91,11/12/2023,7/29/2026
+969,Glass Soda 1 L (1�12),222,Inventory Item,52.62,79.76,3/17/2023,7/9/2025
+970,Coffee Mate 450 g Pouch,1610,Inventory Item,90.6,126.79,8/21/2024,5/17/2025
+971,Bonbon Sweet (1�12),198,Inventory Item,91.04,105.38,9/27/2023,2/21/2025
+972,Ginger Candy (1�12),55,Inventory Item,14.17,16.25,8/13/2023,8/25/2024
+973,Long Chips 75 g,1,Inventory Item,108.5,168.7,6/13/2024,5/19/2025
+974,Coconut Drink,18,Inventory Item,61.62,88.4,4/23/2023,4/9/2025
+976,King Bamba Chips (1 Shekel / 52 pcs),18,Inventory Item,99.52,150.74,9/8/2023,7/4/2024
+979,Al-Joud Sunflower Oil 5 L (�4),546,Inventory Item,39.77,61.23,8/21/2023,12/13/2024
+980,Al-Joud Corn Oil 3 L (�6),9.167,Inventory Item,107.67,149.22,4/20/2025,10/10/2027
+981,Gusto Biscuits Stand (1�4),1,Inventory Item,47.93,65.12,3/1/2025,3/25/2027
+984,Ale Caf�,101,Inventory Item,3.28,4.31,12/14/2024,8/21/2026
+985,Clothes Pegs,52,Inventory Item,108.84,136.97,3/24/2023,11/26/2023
+986,Magic Wipes,3,Inventory Item,12.77,16.82,5/5/2023,12/4/2025
+989,Fairy White 1350 ml (1�9),66,Inventory Item,39.68,59,6/24/2023,3/23/2025
+990,Cappy 1.5 L Octa Pack (1�8),6476,Inventory Item,114.11,159.86,3/10/2023,1/31/2025
+992,Al-Kasih Fava Beans 400 g (1�24),1830,Inventory Item,114.17,176.54,2/16/2023,9/15/2024
+993,Cheap Tuna Mix (Najjar + Fatafit + Alaa Al-Deen) (1�48),5022,Inventory Item,69.67,92.08,6/2/2025,8/10/2027
+994,Al-Kasih Tomatoes 185 g (1�48),5576,Inventory Item,76.56,107.46,9/13/2023,12/21/2024
+995,Al-Zahraa Sahlab Sticks (1�6),752,Inventory Item,54.92,77.75,12/27/2024,1/6/2027
+996,Head & Shoulders 90 ml (1�24),447,Inventory Item,36.6,51.09,1/30/2023,12/15/2023
+997,Fairy Power 515 ml (�16),34,Inventory Item,40.78,59.18,10/8/2023,4/4/2026
+999,Oreo Chocolate Coated 32 g (1�9�16),145,Inventory Item,81.36,99.15,8/25/2023,8/29/2025
+1000,Original Juice 1.5 L (1�6),310,Inventory Item,90.78,123.11,9/5/2023,4/22/2026
+1001,Loacker Bags 250 g (�18),287,Inventory Item,95.41,109.92,1/3/2024,2/10/2026
+1005,Croky Chips (1�12),2,Inventory Item,95.17,122.98,5/9/2024,11/2/2026
+1008,Celebrations Gift Box 550 g (1�10),11,Inventory Item,12.76,17.15,1/25/2023,1/2/2026
+1009,Al-Hilal Halawa Bites (1�12),356,Inventory Item,60.34,86.05,8/8/2024,10/6/2026
+1010,Lush Gifts (1�6),34,Inventory Item,8.79,13.85,12/18/2024,7/3/2027
+1011,Galaxy White,781,Inventory Item,66.84,93.6,5/4/2024,8/8/2025
+1012,Heinz Tomato Paste Sachet 135 g (1�48),4534,Inventory Item,54.1,79.62,5/8/2024,8/26/2026
+1015,Gardina Balls 1 Shekel (1�6),34,Inventory Item,106.75,144.45,11/10/2023,8/1/2026
+1019,Car Tissue Pack,1,Inventory Item,43.41,61.51,8/28/2024,9/24/2026
+1020,Al-Kasih Chickpeas (1�24),10.25,Inventory Item,15.81,17.95,1/10/2024,7/23/2026
+1021,Liquid Vanilla 28 ml (�12),83,Inventory Item,18.87,23.16,9/30/2024,6/28/2026
+1022,Betty Crocker Cream (Vanilla) (1�8),15,Inventory Item,91.86,117.67,1/25/2023,10/18/2023
+1025,Sanaa Tissues 1 kg (1�10),4.6,Inventory Item,74.95,100.15,11/30/2023,8/14/2024
+1026,Tuna Salad with Beans 150 g (1�48),0.5,Inventory Item,13.93,15.64,12/21/2023,1/8/2025
+1027,Al-Zahraa Chocolate Sticks (1�6),170,Inventory Item,11.92,13.95,4/26/2023,12/21/2025
+1029,Heinz Chili Ketchup New 255 g (�10),100,Inventory Item,84.71,104.91,2/17/2023,7/17/2024
+1030,Kinder Maxi (1�36�8),2820,Inventory Item,10.59,16.79,1/7/2025,3/16/2026
+1031,Kinder Country (1�40�6),111,Inventory Item,98.98,125.28,2/16/2025,6/14/2026
+1032,Leviva Chocolate (1�6),526,Inventory Item,85.34,114.44,4/9/2023,10/19/2024
+1033,New Milk Wafer Biscuits 60 g (1�6),81,Inventory Item,11.6,13.9,4/3/2024,2/6/2025
+1034,Yupi Wafer Biscuits 43 g (1�6),3,Inventory Item,12.01,16.88,6/6/2024,7/21/2026
+1036,Large Energy Drink (1�24),11,Inventory Item,118.42,146.88,8/19/2024,11/17/2025
+1038,Al-Hayat Mayonnaise (1�12),23,Inventory Item,46.16,55.55,2/9/2024,7/6/2026
+1039,Soho Etty Caramel Chocolate (Cheap) (1�6),12,Inventory Item,45.74,62.13,8/2/2023,8/8/2025
+1040,Waleema Rice 3 kg (1�6),69,Inventory Item,97.91,107.97,11/15/2024,10/29/2027
+1041,Heinz Mayonnaise Jar 430 g (1�12),181,Inventory Item,113.78,125.59,6/21/2025,6/18/2026
+1042,Heinz Squeeze 400 ml + Mayo Ketchup (1�12),526,Inventory Item,118.35,143.15,5/17/2024,8/7/2025
+1043,Marina Tuna in Vegetable Oil 900 g (1�12),126,Inventory Item,90.9,101.66,12/21/2024,9/4/2027
+1045,Huggies Mega Pack,4,Inventory Item,46.4,53.55,3/23/2024,8/6/2025
+1047,Knorr Soup Cubes 20 g (�24),57,Inventory Item,11.85,15.04,6/12/2025,5/4/2027
+1049,Knorr Soup Powder (1�40) �10,15,Inventory Item,93.7,140.67,7/29/2024,9/28/2026
+1050,Cheap Baker�s Yeast (1�60),148,Inventory Item,67.89,94.1,9/15/2023,5/29/2024
+1051,Grip Time 16 g (1�12),2.75,Inventory Item,52.06,70.61,4/23/2025,12/12/2027
+1052,Super Time Roll 15 g (1�12),28.417,Inventory Item,108.95,135.83,5/1/2023,9/30/2024
+1053,Slim Jofrette Chocolate Biscuits 20 g (1�12),0.5,Inventory Item,15.12,23.68,3/20/2025,7/21/2027
+1054,Triplex Wafer 20 g (1�6),7.167,Inventory Item,60.13,78.08,2/23/2023,2/27/2025
+1055,Junkle 33 g (1�12),5,Inventory Item,3.34,3.82,11/27/2023,10/15/2025
+1056,Iced Tea Drink (1�24),1,Inventory Item,57.3,80.71,2/22/2025,4/15/2026
+1057,Brand Lychee Juice 250 ml (1�24),23,Inventory Item,8.64,10,8/29/2023,7/7/2024
+1059,Pineapple Pieces Sibyl 565 g (1�24),30,Inventory Item,16.02,20.39,1/24/2025,1/30/2026
+1061,Ital Pasta Shapes + Spaghetti 500 g (1�24),4,Inventory Item,15.87,21.48,6/13/2024,11/30/2025
+1062,Flake Biscuits (2 Shekel) (1�12),66,Inventory Item,78.61,120.83,4/27/2024,7/28/2025
+1063,Venus Swirl Blades,30,Inventory Item,90.03,121.25,7/6/2023,1/19/2024
+1064,Swirl Handle,14,Inventory Item,70.84,102.8,5/7/2025,4/10/2027
+1065,Heinz Mayonnaise Jar 215 g (1�12),42.167,Inventory Item,115.54,184.45,10/17/2024,10/11/2025
+1066,Heinz Squeeze 255 ml (Light + Classic + Mayo Ketchup),397,Inventory Item,46.23,53.89,9/19/2023,7/17/2024
+1067,Heinz Squeeze 225 ml Chili + Garlic (1�12),185,Inventory Item,35.71,44.19,12/30/2023,2/27/2025
+1068,Al-Faisal Rice 5 kg (1�4),172,Inventory Item,104.49,135.55,5/5/2024,11/4/2026
+1069,Tio Jo�o Rice 5 kg (1�6),4,Inventory Item,28.38,37.2,3/6/2024,9/9/2025
+1070,Jasmine Flower Rice 5 kg (1�5),2.2,Inventory Item,115.66,151,8/27/2023,4/13/2024
+1071,Alaa Al-Deen Toilet Paper 48 Rolls,56,Inventory Item,3.43,5.33,10/31/2023,7/7/2024
+1073,Three Cows Cheese (1�24),104,Inventory Item,116.45,169.67,10/25/2023,8/14/2025
+1074,Uno Laundry Powder (1�12),0.083,Inventory Item,7.09,9.95,3/17/2023,3/25/2025
+1075,Mama Pads (1�5�8),36,Inventory Item,107.15,134.44,11/30/2024,6/16/2025
+1076,Taks Chips 35 g (1�5�25),90,Inventory Item,64.27,97.17,11/29/2023,7/9/2026
+1080,Mandi Rice 1 kg,5,Inventory Item,119.17,187.99,6/18/2025,3/8/2026
+1081,Five Star Chocolate (1�48),2.25,Inventory Item,10.71,16.18,1/27/2025,12/27/2025
+1083,Istanbul Gifts 600 g (1�8),4,Inventory Item,67.35,74.14,10/3/2024,10/17/2026
+1084,Max Gifts (1�6),18,Inventory Item,116.38,165.05,4/18/2024,6/25/2026
+1085,Coconut Roll Gifts (1�6),6,Inventory Item,63.73,71.73,4/6/2025,9/24/2026
+1086,Al-Malika Dates Paste (1�28),11.071,Inventory Item,76.27,93.72,10/10/2023,7/1/2026
+1087,Toddy Croissant Stand 45 g (3�24),107,Inventory Item,84.1,95.01,8/13/2024,11/17/2026
+1091,Patos Chips 1 Shekel (60 pcs),1,Inventory Item,55.64,78,3/13/2023,11/24/2024
+1092,No.1 Turco Chocolate (1�6),33,Inventory Item,76.05,109.76,9/20/2023,5/25/2024
+1093,Awsam Pea Chips (1�40),19,Inventory Item,70.95,82.11,12/3/2024,11/5/2026
+1094,Sunsilk 600 ml (1�16),9279,Inventory Item,108.34,139.97,5/28/2025,4/15/2026
+1095,Marina Tuna in Water 140 g (1�48),52.25,Inventory Item,7.36,9.77,6/5/2025,6/11/2026
+1096,Jarico Water (1�8),475,Inventory Item,35.15,45.15,7/28/2024,2/14/2026
+1098,Basmati Al-Diyafa Rice 1 kg (�20),206.8,Inventory Item,114.15,132.47,6/10/2025,12/19/2026
+1100,Heinz Ketchup Small 460 g (1�10),115,Inventory Item,107.05,140.18,1/12/2023,2/10/2025
+1101,Wave Up Extra Carton (1 Shekel) (1�6),46.5,Inventory Item,55.77,82.29,5/21/2023,5/4/2025
+1102,Siniora Large Promo with Gift,57,Inventory Item,75.18,85.37,2/4/2025,6/26/2027
+1103,Fruitoria Juice 300 ml (1�24),4,Inventory Item,34.73,39.6,7/8/2024,10/23/2025
+1105,Accord Glass Cleaner 500 ml Cheap (1�12),6,Inventory Item,24.2,30.91,1/17/2023,7/24/2023
+1106,Cadbury Snack Sandwich Chocolate (1�60),2,Inventory Item,56.72,89.1,3/4/2023,5/27/2024
+1107,Lux Soap (24 bars �6),921,Inventory Item,43.7,62.68,9/10/2023,3/29/2025
+1109,VIP Biscuits 112 g (60 pcs),104,Inventory Item,70.87,102.01,4/9/2024,1/6/2025
+1110,Flamingo Air Freshener (1�12),0.667,Inventory Item,11.17,14.31,1/11/2024,12/19/2025
+1113,Turkish Glass Cleaner 1 L (1�12),6,Inventory Item,116.98,163.4,3/14/2025,2/10/2026
+1117,M&M�s Red + Green (1�24),32,Inventory Item,118.37,130.81,6/3/2024,1/8/2026
+1118,Cola 1 L Promo Pack (3+1),49,Inventory Item,84.38,119.65,4/16/2025,1/30/2028
+1123,Laziza Ketchup 340 g (1�24),424,Inventory Item,65.26,101.59,3/31/2023,2/22/2024
+1125,Egyptian Nescaf� Sticks 18 g (1�12),2548,Inventory Item,38.52,54.17,12/20/2024,11/23/2027
+1127,Laziza Tomatoes 580 g (1�12),252,Inventory Item,98.03,150.66,3/14/2025,6/3/2026
+1130,Duracell AA Batteries 4 pcs (1�20),330,Inventory Item,82.8,121.05,3/6/2025,10/28/2026
+1131,Barilla Fettuccine Pasta 500 g (1�12 Carton),640,Inventory Item,21.19,24.59,9/21/2024,7/7/2027
+1138,Halato Lollipops (1�6),5.167,Inventory Item,109.49,169.84,5/10/2025,7/16/2027
+1139,Sweetened Condensed Milk Nestl� 397 g (1�48),263,Inventory Item,99.06,112.26,6/24/2023,4/5/2025
+1140,White Table Vinegar (1�12),45,Inventory Item,114.08,155.95,3/17/2023,2/21/2026
+1141,Kinder Cake (1�14),522,Inventory Item,87.63,102.62,9/4/2024,8/31/2026
+1142,Cinnamon Biscuits (1�6),84,Inventory Item,74.38,82.25,10/24/2024,1/12/2027
+1143,Bonbon Chocolate (12 pcs) Arcor Chocolate + Vanilla,88,Inventory Item,51.35,67.32,2/4/2024,1/9/2026
+1144,Lotus Biscuits White Pack (50 pcs) (1�6),24,Inventory Item,112.06,139.8,2/20/2025,1/3/2027
+1145,One Cake �1KEK� (1�6),12,Inventory Item,104.2,139.94,3/12/2023,9/21/2023
+1147,Cadbury Dairy Milk 26 g (1 Shekel) (�12),12,Inventory Item,7.34,10.19,6/29/2023,2/10/2026
+1148,Choice Baby Wet Wipes (1�24),2316,Inventory Item,5.11,5.73,5/4/2023,8/12/2025
+1149,Bambino Wet Wipes (1�24),2582,Inventory Item,46.42,53.92,1/16/2024,9/27/2026
+1151,Sunri Rice 1 kg (1�12),20,Inventory Item,97.65,134.69,10/20/2023,4/15/2025
+1152,Sunri Rice 2.5 kg (1�6),9,Inventory Item,118.5,150.68,3/7/2025,12/30/2025
+1153,Sunri Rice 5 kg (1�4),4,Inventory Item,19.75,28.93,7/14/2023,9/3/2024
+1154,Pantene Hair Oil 200 ml,777,Inventory Item,72.11,102.84,6/29/2025,6/24/2027
+1155,Pantene Hair Oil 360 ml,560,Inventory Item,46.95,71.5,8/16/2023,7/29/2024
+1156,Black Flour 30 kg,36,Inventory Item,116.45,168.42,3/6/2024,2/5/2026
+1159,Popcorn Carton (60 pcs),4,Inventory Item,101.37,133.3,3/11/2024,6/2/2026
+1160,Diana Shampoo (1�12),12,Inventory Item,100.92,144.97,2/25/2025,2/22/2028
+1161,Lusine Cake � Almarai (1�8),48,Inventory Item,57.31,70.93,4/5/2024,7/20/2026
+1162,Kleenex Toilet Paper 18 Rolls,918,Inventory Item,50.95,63.85,9/9/2024,3/12/2027
+1163,Dido Red (1�6),24,Inventory Item,34.26,51.2,1/21/2023,12/18/2025
+1164,Dido Yellow (1�6),215,Inventory Item,8.65,11.45,3/5/2023,10/8/2025
+1165,Ulker Salt Biscuits,34,Inventory Item,104.04,155.98,6/14/2023,1/28/2026
+1166,Almarai Chocolate Milk 200 ml (1�27),122,Inventory Item,97.92,147.98,1/27/2023,12/12/2025
+1167,Fawzi Mozi Pea Chips 60 g (25 pcs),2,Inventory Item,119.97,183.41,11/7/2023,10/2/2025
+1168,Mana Grilled Pea Chips 40 g (1�60),19,Inventory Item,119.6,186.37,10/12/2023,5/10/2025
+1169,Maggi Soup Cubes (Egyptian),3448,Inventory Item,67.54,88.85,10/21/2024,9/1/2027
+1170,Krouz Sugar (Shalla + Al-Raya + Al-Safi) (1�10),7821,Inventory Item,92.74,116.8,10/8/2023,7/19/2024
+1171,Dondurma Juice Sticks (100 sachets � 10�10),353,Inventory Item,113.48,157.86,4/17/2025,1/6/2026
+1172,Rima Toilet Paper 32 Rolls with Gift (1�4),625,Inventory Item,102.26,131.46,4/10/2025,5/8/2026
+1173,Ganoosh Cake Round (1�6),22,Inventory Item,31.19,43.68,6/13/2023,4/8/2024
+1174,Chicks Biscuits (1�6),380,Inventory Item,55.16,80.14,6/16/2025,4/23/2026
+1175,Fernano 3 kg Barrel,4,Inventory Item,17.24,24.9,8/12/2023,6/6/2026
+1176,Fernano 800 Creamy 1 kg,1,Inventory Item,114.58,147.5,2/22/2025,3/5/2026
+1177,Fernano 700 Rubesco 1 kg,9,Inventory Item,73.53,87.02,5/26/2023,12/10/2023
+1178,Fernano 600 Classico 1 kg,71,Inventory Item,28.98,38.12,5/17/2025,8/16/2027
+1179,Fernano Filter Classic 1 kg,124,Inventory Item,81.26,95.18,1/30/2023,8/9/2023
+1180,Fernano Filter Dark 1 kg,51,Inventory Item,74.94,115.79,2/14/2023,11/1/2023
+1181,Fernano Chocolate Powder 1 kg,89,Inventory Item,44.26,56.34,2/25/2025,7/19/2026
+1184,Al-Faisal Rice 10 kg (1�3),54,Inventory Item,15.4,18.13,4/15/2024,2/24/2027
+1187,Sesame Biscuits (� Shekel) (1�6),12,Inventory Item,81.25,90.41,2/3/2023,9/13/2025
+1188,Yafa Juice 1.5 L,208,Inventory Item,63.4,90.21,10/14/2024,5/8/2026
+1189,Plastic Cola 250 ml (1�24),504,Inventory Item,93.13,132.1,3/2/2024,5/27/2026
+1191,Black Flour 50 kg,8,Inventory Item,63.38,80.51,4/9/2025,8/8/2026
+1194,Cadbury Dairy Milk 5 Star 48.5 g (1�48),9,Inventory Item,102.56,116.49,6/4/2025,8/24/2026
+1197,Original Juice Carton 200 ml Small (1�27),6156,Inventory Item,67.13,87.59,8/9/2023,4/26/2025
+1201,Cola 2 L Promo,315,Inventory Item,68.19,85.62,5/17/2025,1/27/2027
+1202,Al-Awda Date Paste 700 g (1�20),138,Inventory Item,105.45,151.7,6/17/2024,5/27/2027
+1203,Saad El-Din Tea Bags (1�36),106,Inventory Item,49.61,69.6,11/22/2024,3/3/2027
+1206,Marina Mushrooms 290 g (4-pack) (1�48),72.75,Inventory Item,17.81,22.84,1/2/2024,10/18/2026
+1207,Lux Wafer Bags (1�6),2.167,Inventory Item,5.4,6.53,4/20/2025,10/18/2025
+1209,Coffee Joy (1�6),33.167,Inventory Item,91.11,145.23,1/12/2025,12/12/2026
+1213,Zeta Pickled Cucumbers 18�25,0.5,Inventory Item,75.2,99.79,7/3/2024,1/30/2027
+1214,Zeta Ketchup 550 g,62,Inventory Item,85.08,122.87,8/4/2024,11/12/2026
+1215,Pomegranate Molasses 340 g (1�12),245.833,Inventory Item,27.13,31.75,4/26/2023,7/19/2025
+1216,Amazon Tomatoes 400 g (1�24),7,Inventory Item,18.09,24.29,8/27/2023,12/27/2024
+1218,Nido Low-Fat Milk 900 g (1�12),43,Inventory Item,3.72,4.14,12/1/2023,6/7/2026
+1219,Why Not Sugar Candy 450 g (1�12),381.917,Inventory Item,43.37,58.67,3/16/2024,2/15/2026
+1221,Brel Rice 25 kg,17,Inventory Item,71.61,113.29,5/28/2023,3/6/2025
+1222,Freska Biscuits (1�8),328,Inventory Item,48.28,62.38,1/9/2023,2/4/2024
+1224,Al-Alali Hot Chili Sauce 88 ml (1�36),1.611,Inventory Item,53.62,60.03,10/15/2023,8/1/2024
+1225,Turkish Chocolate Gift Tin 500 g (1�8),3,Inventory Item,108.69,121.24,1/23/2024,7/28/2024
+1226,Huggies Newborn Size 2,557,Inventory Item,43.09,55.76,2/19/2023,10/29/2025
+1227,Kinder Chocolate 8 Fingers,287,Inventory Item,62.65,73.93,4/29/2025,2/14/2027
+1228,KI 300 Spray (1�12),77.583,Inventory Item,94.47,105.02,5/31/2024,4/19/2027
+1231,OKI Dishwashing Liquid 1 L (1�12),11,Inventory Item,48.79,72.12,5/4/2025,2/2/2027
+1232,BOX Chips 70 g (24 pcs),36,Inventory Item,75.41,100.24,9/29/2024,12/5/2025
+1235,Tekir Carbonated Drink 250 ml (1�24),774.417,Inventory Item,103.76,129.14,8/9/2024,7/15/2026
+1237,Top One Chocolate Biscuits (1�6),12916,Inventory Item,114.04,176.77,11/7/2024,5/27/2027
+1239,Nesquik Sandwich Biscuits 28 g (Chocolate + Milk) (1�12�16),300,Inventory Item,19.35,22.41,10/5/2023,6/13/2025
+1240,Nesquik Sandwich Biscuits 56 g (Chocolate + Milk) (1�8�12),282,Inventory Item,111.34,175.69,4/15/2025,11/4/2027
+1241,BOX Mix Chips 30 g (1 Shekel),80,Inventory Item,60.07,75.51,10/27/2023,8/25/2026
+1242,BOX Tarabish Chips 30 g (1 Shekel),80,Inventory Item,32.47,50.14,3/12/2025,6/30/2027
+1244,Merit Razor Blades (10 pcs) (1�40),121,Inventory Item,56.18,78.73,8/11/2024,9/30/2025
+1245,Pitos Chips 40 g,228,Inventory Item,117.64,178.03,3/20/2025,7/18/2026
+1247,King Bamba Chips 2 Shekel (25 pcs),55,Inventory Item,60.13,95.73,10/10/2024,7/29/2026
+1249,Arwa Water Small 330 ml (1�24),1098,Inventory Item,40.79,50.75,9/9/2024,1/15/2027
+1251,Comfort Fabric Softener 1.5 L (1�9),144,Inventory Item,76.74,121.29,8/29/2024,3/16/2025
+1253,Fruit Loops Cereal 375 g (1�18),285,Inventory Item,30.34,39.28,5/15/2023,6/13/2024
+1254,Merit Razor Blades (5 pcs) (1�40),45,Inventory Item,10.95,14.16,8/2/2024,6/2/2027
+1255,Snickers Mini 15 g (72 pcs),45,Inventory Item,17.21,21.86,5/27/2023,4/5/2024
+1256,Lipton Extra Strong Tea 100 Bags 220 g (�36),120,Inventory Item,17.11,23.45,5/4/2024,4/23/2027
+1258,Blue Three Razor Stand,77,Inventory Item,19.92,23.45,4/22/2024,2/24/2025
+1259,Pantene Hair Cream 200 ml,3,Inventory Item,18.38,25.31,6/8/2023,1/17/2025
+1260,Marshmallow (48 pcs �5),4,Inventory Item,77.62,106.41,1/19/2024,9/11/2025
+1266,Cheetos Chips,61,Inventory Item,23.46,34.74,6/12/2023,9/27/2024
+1267,Lays Chips 40 g (2 Shekel) (1�48),1,Inventory Item,42.79,64.9,3/16/2024,5/15/2025
+1268,Lipton Tea Small Pack 25 Bags (144 pcs),1174,Inventory Item,107.82,142.35,5/2/2025,9/29/2027
+1271,Lays Chips 3 Shekel (Hot + Regular) (1�56),80,Inventory Item,57.93,72.48,7/8/2023,7/12/2025
+1272,Galaxy Filled Dark + Vanilla 38 g,39,Inventory Item,80.77,99.32,2/19/2024,11/10/2024
+1274,Cr�me Caramel (Zabana),35,Inventory Item,22.33,26.74,12/5/2023,12/9/2025
+1275,Hospitality Tomatoes (Al-Raya) 135 g (1�48),274.167,Inventory Item,24.69,27.87,8/29/2024,6/16/2027
+1276,Hospitality Mushrooms Whole 400 g (1�24),3,Inventory Item,6.82,8.67,6/30/2023,1/4/2025
+1277,Al-Zahraa Powdered Sugar (1�12),9.667,Inventory Item,21.93,27.09,10/15/2023,7/1/2025
+1278,Granulated Sugar 5 kg,10,Inventory Item,34.87,55.21,4/13/2025,10/22/2026
+1279,Kinder Eggs (1�16�9),217,Inventory Item,22.89,31.56,7/6/2023,1/25/2025
+1280,Alito Crocker Rings Corn Snacks 400 g (1�12),557.667,Inventory Item,12.47,15.88,6/2/2025,9/16/2027
+1281,Mathieu Extra Biscuits (1�4),18,Inventory Item,16.24,22.58,5/18/2023,1/3/2024
+1282,Excellent Coffee Whitener 400 g (10�12),220,Inventory Item,56.37,65.93,5/10/2023,7/4/2024
+1283,Excellent Nescaf� 200 g (1�12),168,Inventory Item,26.35,34.84,7/13/2023,10/28/2024
+1284,Bavaria Cans 500 ml (1�24),26.958,Inventory Item,44.98,63.56,11/12/2023,11/23/2025
+1285,Bariq Cleaner 1 L,1,Inventory Item,61.4,82.55,2/23/2025,5/14/2026
+1295,Duck Bathroom Cleaner Liquid 750 ml (1�12),1,Inventory Item,83.47,108.59,5/13/2025,3/8/2026
+1296,Fernano Coffee Capsules (1�12 packs),32.083,Inventory Item,6.64,10.6,5/24/2023,10/31/2025
+1297,Leto Croissant (1�6�24),457.833,Inventory Item,96.33,148.36,1/16/2023,3/18/2024
+1298,White Snickers 49 g (24 pcs),22,Inventory Item,76.09,107.42,10/29/2023,7/4/2024
+1299,Combo Veal Biscuits Round 60 g (1�6�24),12,Inventory Item,11.65,16.13,2/27/2024,12/25/2026
+1300,Sanga Etty Chocolate Biscuits 32 g (1�6�24),41,Inventory Item,105.08,148.2,9/2/2023,4/25/2024
+1301,Senqurt Corn 340 g (1�24),8,Inventory Item,110.66,132.86,4/17/2023,10/29/2024
+1303,Lays Chips 25 g (1 Shekel) (24 pcs),5,Inventory Item,9.21,11.95,3/29/2023,11/2/2023
+1304,Britaim Tomatoes 400 g (1�24),4,Inventory Item,34.67,38.82,5/9/2023,1/13/2026
+1306,Mesli Chips (1 Shekel),62,Inventory Item,97.13,129.94,6/25/2025,3/9/2027
+1307,Pampers Pull-Ups New (1�4�23),2294,Inventory Item,90.29,123.83,6/5/2025,12/19/2025
+1308,Hellmann�s Mayonnaise 394 g (1�12),13.667,Inventory Item,23.77,28.85,12/7/2023,6/5/2026
+1309,Nescaf� Sticks with Extra (1�12),791,Inventory Item,26.7,42.24,1/4/2023,10/4/2025
+1310,Hellmann�s Mayonnaise Large 789 g (�10),8.9,Inventory Item,45.72,71.08,11/23/2023,6/15/2026
+1311,Metro Chocolate 50 g (1�6�18),3.833,Inventory Item,59.17,86.45,2/14/2024,7/29/2025
+1314,Sensodyne Toothpaste 75 ml (Thin),6,Inventory Item,74.95,102.43,5/28/2025,2/17/2028
+1315,Sensodyne Toothpaste 75 ml (Wide),17,Inventory Item,45.53,69.89,11/2/2023,2/21/2025
+1316,Nutella B-Ready (1�16),4016,Inventory Item,56.58,65.93,6/26/2025,10/1/2026
+1317,Kiwi Shoe Liquid Polish 75 ml (1�12),3,Inventory Item,90.2,134.87,8/29/2024,10/3/2026
+1318,Kiwi Shoe Polish Tin 50 ml (1�12),422,Inventory Item,6.33,7.36,12/21/2024,10/6/2025
+1319,Otan Insect Repellent Body Lotion 100 ml,16,Inventory Item,31.79,47.59,8/13/2023,8/6/2024
+1320,Kiwi Shoe Sponge with Oil 7 ml (1�6),13,Inventory Item,86.18,106.68,12/14/2023,12/6/2025
+1321,Goddards Liquid Shoe Polish 125 ml,4,Inventory Item,107.63,165.59,11/17/2023,5/30/2026
+1322,Duck Toilet Gel Single 55 ml,84,Inventory Item,62.38,98.06,7/12/2024,3/12/2027
+1323,Duck Toilet Blocks Quad 37�38.6 g,55,Inventory Item,64.79,76.09,6/30/2023,1/20/2024
+1324,Glade Automatic Machine with Refill 269 ml,77,Inventory Item,14.65,19.5,9/9/2024,6/28/2027
+1325,Glade Gel Air Freshener 70 ml,24,Inventory Item,54.79,87.14,12/11/2024,8/8/2027
+1326,Glade Gel Air Freshener 150 g,13,Inventory Item,64.85,87.01,1/21/2024,7/26/2026
+1327,Glade Liquid Refill 269 ml,42,Inventory Item,30.61,46.89,9/9/2024,5/3/2025
+1328,Al-Hilal Halawa 600 g (1�12),6,Inventory Item,33.77,47.09,3/2/2025,2/24/2026
+1330,Tomatoes Sibyl + Al-Shalla 400 g (1�24),47313,Inventory Item,46.52,59.9,2/10/2025,3/28/2026
+1331,Duck Toilet Blocks Twin 80 ml,575,Inventory Item,4.37,5.43,4/18/2023,3/26/2026
+1332,Digestive Original Biscuits 500 g (1�20),458,Inventory Item,40.01,48.08,6/14/2024,11/18/2025
+1333,Pizza Sauce 680 g (1�12),487,Inventory Item,26.95,39.91,2/14/2024,12/1/2025
+1335,Al-Furat Water Small,130,Inventory Item,40.64,52.56,10/23/2023,6/27/2026
+1336,Al-Furat Water Cups,368,Inventory Item,16.13,21.87,3/28/2025,4/22/2027
+1337,Oats 600 g (1�18),6874,Inventory Item,107.08,144.15,6/20/2023,3/15/2025
+1338,Broken Chickpeas Sack 25 kg,23,Inventory Item,72.04,100.04,11/27/2023,1/11/2025
+1339,Al-Zahraa Balsamic Vinegar (1�12),2.25,Inventory Item,82.13,125.89,5/7/2024,8/18/2025
+1340,Al-Madina Rice 5 kg (1�4),3,Inventory Item,95.12,151.28,7/14/2023,8/9/2024
+1341,Khayal Sunflower Oil 3 L (1�6),8108,Inventory Item,60.82,79.3,1/12/2023,3/24/2024
+1342,Lenor Fabric Freshener 900 ml (1�12),302,Inventory Item,12.26,18.56,7/14/2023,6/22/2025
+1343,Lotus Spread 400 g,1465,Inventory Item,65.38,96.91,5/4/2024,9/17/2026
+1344,Baker�s Yeast Small,3660,Inventory Item,71.25,98.81,3/5/2025,4/17/2026
+1345,Hi-Gel,220,Inventory Item,89.96,141.96,5/30/2025,7/9/2026
+1347,Krouz Sukat Flour,103,Inventory Item,52.94,63.54,7/1/2023,8/14/2025
+1348,Oreo Double Stuffed (9 pcs �16�48 g),154,Inventory Item,17.05,19.69,3/27/2025,12/4/2027
+1349,Delight Chocolate-Covered Biscuits (1�12),68,Inventory Item,35.49,54.19,10/17/2024,6/23/2026
+1351,Family Sugar (1�20),423.25,Inventory Item,44.84,59.17,6/16/2025,5/12/2028
+1353,Faisal Rice 25 kg,51,Inventory Item,78.22,119.17,11/12/2023,6/6/2026
+1354,Head & Shoulders Supreme Shampoo 400 ml (1�6),82.167,Inventory Item,69.35,107.25,11/24/2024,6/28/2026
+1355,Dettol Spray 750 ml,60,Inventory Item,44.02,49.8,1/30/2023,4/10/2025
+1357,Baking Powder Cans (Zabana) (1�12),84,Inventory Item,118.41,182.56,8/18/2024,3/21/2027
+1358,Coco Pops Cereal Bags 360 g (1�12),74,Inventory Item,73.48,97.3,11/8/2024,8/2/2025
+1360,Awsam Vermicelli 400 g (1�12),72,Inventory Item,29.99,40.64,3/6/2025,4/8/2027
+1361,Glade Gas Air Freshener 330 ml (1�12),560,Inventory Item,14.01,19.8,3/3/2025,2/8/2028
+1362,Fresh Syrup 3 L (1�4),554,Inventory Item,20.04,31.33,4/6/2023,3/27/2025
+1363,Raid Liquid Twin + Device (90 Nights),8,Inventory Item,31.02,34.42,1/16/2024,5/28/2026
+1364,Raid Liquid with Device Refill (45 Nights),12,Inventory Item,20.96,28.05,2/16/2025,6/19/2026
+1366,Amanda Vermicelli 250 g (1�20),20,Inventory Item,24.01,34.67,3/19/2024,3/9/2027
+1368,Top Cappuccino 25 g (1�20�9),0.6,Inventory Item,35.64,52.08,10/25/2023,3/30/2025
+1370,Ferro Syrup 500 ml,168,Inventory Item,22.46,32.48,3/18/2025,11/23/2026
+1372,Mabket Supreme Vermicelli 300 g (1�20),219,Inventory Item,107.82,125.85,1/6/2025,12/28/2025
+1375,Shipping Cartons,48,Inventory Item,11.47,14.33,4/24/2025,3/8/2026
+1376,Butter Cookies Heavy Tin 700 g (1�6),13.5,Inventory Item,63.89,81.74,12/27/2023,1/3/2025
+1377,Pampers Wet Wipes Quad Pack (1�3�4),451.667,Inventory Item,50.43,75.76,1/9/2024,1/8/2025
+1381,Raid Device + Tablets Twin (60 Nights),9,Inventory Item,117.92,146.15,7/7/2024,8/8/2025
+1382,Raid Tablets (1�24),44,Inventory Item,15.22,18.35,10/30/2023,10/7/2024
+1383,Raid Lavender Wardrobe Freshener 20 g,10,Inventory Item,48.95,77.28,2/25/2024,1/30/2025
+1384,Ferro Syrup 500 ml (1�12),699,Inventory Item,116.4,128.56,9/3/2023,8/7/2025
+1385,Break Biscuits 24 g (1�6�28),7,Inventory Item,104.13,166.49,12/20/2024,9/3/2027
+1389,Al-Sultan Water 330 ml (1�12),26,Inventory Item,98.41,141.55,8/25/2023,10/13/2025
+1390,Al-Sultan Water 500 ml (1�12),54,Inventory Item,32.43,49.11,6/17/2024,3/29/2027
+1391,Diamond Food Wrap Nylon 100 ft (�24),0.667,Inventory Item,22.16,27.64,7/4/2023,2/10/2024
+1392,Diamond Food Wrap Nylon 200 ft (�24),2.625,Inventory Item,80.9,89.57,4/12/2024,4/11/2027
+1393,Diamond Food Wrap Nylon 300 ft (�24),2.208,Inventory Item,111.67,164.04,1/23/2025,2/16/2026
+1394,Duracell Lithium Coin Battery 3V,70,Inventory Item,67.7,102.71,12/29/2023,7/6/2026
+1395,Diamond Foil Roll No Cutter 5 m (1�24),12.167,Inventory Item,69.45,102.11,10/10/2023,8/16/2026
+1396,Diamond Foil Roll No Cutter 8 m (1�48),2.5,Inventory Item,35.04,41.05,7/6/2024,10/3/2025
+1397,Otan Family Repellent 50 ml,1,Inventory Item,92.8,137.04,12/2/2023,3/4/2025
+1398,Al-Zaaboub Thyme Jar 500 g (1�6),443,Inventory Item,24.07,35.73,6/11/2023,8/14/2024
+1399,Orbit Gum Jar (1�24�6),536,Inventory Item,40.19,57.44,6/9/2023,10/10/2024
+1400,Samad Rice 5 kg (1�4),55.25,Inventory Item,52.2,77.42,4/18/2024,10/4/2026
+1401,Benny Viva Chocolate (1�6�24),3,Inventory Item,61.9,94.27,8/23/2024,6/1/2027
+1403,Hamdan Date Paste 700 g (1�15),12.333,Inventory Item,30.6,43.05,11/18/2023,10/2/2024
+1404,Cadbury Dairy Milk Crispy,24,Inventory Item,15.55,17.79,1/12/2023,9/9/2025
+1405,Brownie Cake Mix 519 g,1,Inventory Item,74.05,99.51,2/28/2024,2/22/2026
+1406,Milo Loops Cereal 375 g (1�16),24,Inventory Item,36.06,41.07,3/14/2023,12/8/2025
+1407,Turkish Sunflower Seeds 100 g (2 Shekel),779,Inventory Item,70.59,92.03,8/10/2024,7/29/2027
+1408,Cadbury Dairy Milk Bar 100 g (1�12),4,Inventory Item,20.21,26.34,5/7/2025,4/16/2027
+1410,Sweetened Condensed Milk (Laziza / Al-Malika / Imam) 390 g,670,Inventory Item,58.77,66.59,7/20/2023,3/12/2024
+1412,Al-Awafi Rice 25 kg,5,Inventory Item,64.85,82.65,6/5/2024,3/23/2025
+1413,Smile Candy,92,Inventory Item,8.12,9.38,5/13/2025,11/13/2025
+1414,Mach 3 Start Blades (100-023),644,Inventory Item,41.72,62.75,5/19/2024,12/29/2025
+1415,Fusion Start Blades (100-024),559,Inventory Item,17.86,28.11,1/7/2025,8/23/2026
+1416,Clear Shampoo 600 ml (�12),24,Inventory Item,9.48,10.77,11/18/2024,11/14/2025
+1418,Pampers Medium New Sizes 1�6 (1�4),10785,Inventory Item,118.82,187.45,2/26/2025,9/6/2025
+1419,Fernano 2.5 kg Barrel,146,Inventory Item,40.04,54.51,2/8/2023,7/10/2024
+1420,Cornflakes + Coco Pops Promo with Gift (1�6),57,Inventory Item,97.57,121.94,3/1/2023,11/1/2025
+1421,Fuze Tea Iced Tea 1.5 L (1�6),6681,Inventory Item,32.05,36.49,7/31/2024,10/12/2025
+1422,Fuze Tea Iced Tea 330 ml (1�24),27392,Inventory Item,82.42,111.29,11/17/2023,8/12/2024
+1423,Rolls Royce Fingers 400 g,414,Inventory Item,91.71,137.31,3/10/2024,5/14/2026
+1424,Ice Rio Coffee 180 ml (1�30),10781,Inventory Item,72.29,105.08,9/27/2024,9/2/2027
+1425,Marina Tuna with Corn Small 95 g (1�48),134.75,Inventory Item,57.65,64.86,11/6/2024,4/2/2027
+1426,Bonbon Chocolate Spread 290 g (1�24),27,Inventory Item,50.6,57.5,2/12/2024,4/16/2025
+1428,Sesame Chick Crackers 100 g (1�24),324,Inventory Item,43.17,56.18,1/21/2024,3/30/2025
+1430,Turkish Sunflower Seeds 40 g (1 Shekel),83,Inventory Item,111.68,139.34,11/1/2024,12/8/2026
+1431,Diamond Heavy Foil 200 ft (1�12),7.083,Inventory Item,100.01,121.63,7/22/2024,7/4/2027
+1432,Cologne 5 kg,64,Inventory Item,115.87,143.74,3/19/2023,12/31/2023
+1434,Break Time + Break Happy + Break Delight + Break Day,1436.5,Inventory Item,16.67,25.03,7/13/2023,11/6/2025
+1435,Vimto Sport Drink (1�24),5,Inventory Item,88.24,138.06,10/12/2023,11/23/2025
+1436,Vimto Glass Bottle 330 ml (1�24),10,Inventory Item,112.72,146.82,6/10/2024,7/18/2026
+1439,Kono Extra Munch Chips (60 bags),53,Inventory Item,23.39,36.33,6/7/2024,4/2/2026
+1441,Leviva Milka Chocolate 35 g (1.5 Shekel) (1�6�24),39.333,Inventory Item,9.85,12.42,9/4/2024,11/15/2025
+1442,Sondos Toilet Paper (1�24),2.667,Inventory Item,89.45,119.7,6/5/2023,8/31/2025
+1443,Head & Shoulders Conditioner 275 ml (1�6),53,Inventory Item,69.79,84.66,12/6/2023,11/22/2026
+1444,Nescaf� Alite 200 g Promo with Jam (1�16),2.25,Inventory Item,101.34,143.93,5/5/2023,8/8/2024
+1447,Belaj Oil 473 ml,1,Inventory Item,18.49,29.39,5/20/2025,2/11/2026
+1448,Pampers Newborn Size 1 (21 pads) (1�4),87,Inventory Item,95.84,134.34,10/7/2023,10/24/2024
+1449,Hype Cool Drink 150 ml (1 Shekel) (1�24),2,Inventory Item,25.79,32.98,6/24/2025,1/5/2026
+1450,Leon Family Chips 55 g (1�15),61,Inventory Item,21.31,30.34,9/13/2024,8/9/2025
+1451,Tami Fava Beans 580 g (1�24),64.5,Inventory Item,21.38,24.83,4/25/2025,7/2/2026
+1452,Pantene Hair Mask 300 ml (1�6),43,Inventory Item,98.12,151.53,5/18/2025,5/20/2026
+1453,Betty Bear Anni Sugar 800 g (1�5),57,Inventory Item,80.49,108.79,10/19/2024,3/11/2026
+1455,Sunsilk 600 ml Natural,184,Inventory Item,63.72,84.41,12/28/2024,12/21/2026
+1456,Luna Black Iced Coffee 190 ml (1�24),122,Inventory Item,44.34,61.76,6/28/2025,2/15/2028
+1457,Dettol Multi-Purpose Cleaner 1.5 L,14,Inventory Item,105.51,149.02,11/4/2024,6/3/2026
+1458,Dettol Brown Liquid 1 L,435,Inventory Item,48.31,54.87,5/8/2023,4/3/2025
+1460,Diamond Foil 5 m Triple Pack,54,Inventory Item,98.36,141.77,11/10/2023,8/9/2025
+1462,Taks Chips 113 g (5 Shekel) (�16),38,Inventory Item,53.82,65.71,11/28/2023,4/20/2025
+1463,Cologne 8 kg,21,Inventory Item,46.48,67.72,5/30/2023,2/22/2026
+1464,Komili Toilet Paper (1�3),5,Inventory Item,56.6,85.54,3/29/2024,1/17/2027
+1465,Heinz BBQ Sauce 200 g (�24),6.458,Inventory Item,37.56,56.41,2/5/2023,1/19/2024
+1466,Heinz Hot Chili Sauce 195 g (�24),17.167,Inventory Item,90.22,124.17,11/15/2024,4/6/2027
+1467,Pampers Old Carton,698,Inventory Item,61.32,83.4,2/24/2024,8/22/2025
+1468,Nestl� Iced Coffee 250 g (1�24),20,Inventory Item,29.4,34.44,1/22/2023,1/14/2024
+1469,Dove Shampoo Large 600 ml,533,Inventory Item,108.15,160.89,7/25/2023,11/5/2025
+1470,Oral-B Stage Toothbrush Triple (101-021),56,Inventory Item,47.3,58.45,9/30/2024,3/25/2026
+1473,Bredo Pads,46.6,Inventory Item,66.14,89.18,4/27/2025,11/22/2027
+1474,Fun Chips 60 pcs (� Shekel),8,Inventory Item,108.96,135.34,12/22/2023,3/19/2026
+1476,Turkish Coffee 100 g (1�51),99.137,Inventory Item,75.66,88.29,3/15/2024,10/25/2026
+1477,Molto Cake (1 Shekel) 24 pcs + Mix,1,Inventory Item,15.79,22.34,12/29/2024,8/5/2025
+1478,Absa Juice 232 ml (1�24),71,Inventory Item,112.9,127.26,4/6/2023,11/21/2024
+1479,Fun Chips 40 pcs (1 Shekel),27,Inventory Item,76.07,112.15,6/13/2023,11/28/2024
+1480,Al-Hana Chili Sauce Large 1 kg (1�6),6,Inventory Item,41.52,52.27,5/28/2023,8/4/2024
+1481,Al-Hana Chili Sauce Small 450 g (1�12),10.5,Inventory Item,18.43,20.27,6/13/2024,5/1/2025
+1483,Ketchup 650 g + Mayonnaise 550 g Promo (1�6),40.667,Inventory Item,95.69,129.71,10/21/2023,5/9/2026
+1485,Halibna Milk Bag 2250 g (1�6),1.833,Inventory Item,75.17,84.45,7/14/2023,1/18/2026
+1487,Fun Chips 25 g (100 pcs),27,Inventory Item,64.95,80.41,10/24/2024,8/22/2027
+1488,Smart Chips (20 pcs),26,Inventory Item,107.48,156.22,4/24/2024,9/30/2026
+1490,ZIPLOC Freezer Bags without Slider (1�12),109,Inventory Item,95.05,107.53,5/26/2025,6/21/2027
+1491,ZIPLOC Freezer Bags with Slider (1�12),17,Inventory Item,19.9,30.24,5/3/2023,4/16/2026
+1492,Al-Kasih Jameed Yogurt 1 kg (1�8),47,Inventory Item,38.78,42.73,2/4/2024,8/12/2024
+1493,Maxima Air Freshener (1�6),2400,Inventory Item,31.32,38.32,11/29/2024,2/6/2027
+1496,"Rima Kitchen Towels 3 Rolls, 3 Ply (1�6)",189,Inventory Item,89.79,132.03,3/27/2024,10/18/2024
+1497,Al-Asala Sunflower Seeds 10 kg (1�2),129,Inventory Item,5.96,7.5,10/22/2024,6/14/2026
+1498,Fakhouri Bonbon Full Mani 45 g (1�30),51,Inventory Item,69.25,79.7,4/14/2023,8/3/2025
+1500,Orbit Pillow Gum Promo (1�20),70,Inventory Item,91.97,117.73,1/24/2025,2/28/2026
+1501,Orbit Regular Gum Promo (1�30),98,Inventory Item,105.46,130.26,4/6/2024,2/2/2027
+1502,Bredo Tissues 800 g (1�10),2.6,Inventory Item,42.37,64.46,1/12/2025,11/18/2026
+1503,Coco Pops Jumbo Cereal Carton (20�375 g),4,Inventory Item,98.91,124.3,12/18/2024,2/7/2026
+1504,Tuya Chili Sauce 473 ml (1�12),10,Inventory Item,15.05,22.49,12/10/2024,1/30/2026
+1508,Tuya Natural Vinegar 473 ml (1�12),5,Inventory Item,101.88,157.5,1/31/2024,3/4/2025
+1509,Tuya Chili Sauce 150 ml (1�18),10,Inventory Item,17.04,22.44,6/30/2025,4/27/2027
+1511,Majhoul Dates 1 kg � Third Grade,35,Inventory Item,48.88,76.01,12/3/2023,9/3/2025
+1512,Majhoul Dates 5 kg � Third Grade,45,Inventory Item,96.08,123.81,8/21/2024,12/11/2026
+1514,Sunabel Semolina Pack (1�10),3,Inventory Item,19.69,31.15,5/22/2023,8/13/2025
+1515,American Cereal,17,Inventory Item,29.05,33.25,11/13/2023,10/1/2024
+1517,Similac Milk,1475,Inventory Item,87.23,125.92,12/11/2024,12/14/2025
+1520,Paper Cups 7 oz,67,Inventory Item,86.96,117.13,7/11/2024,9/18/2025
+1521,Cerelac Wheat Carton 200 g (1�9),72,Inventory Item,77.66,100.48,3/10/2025,11/12/2025
+1522,Fitness Flakes Bags (12�450 g),2,Inventory Item,83.89,118.82,6/10/2024,8/14/2026
+1523,Nesquik Flakes Bags 450 g (1�10),460,Inventory Item,66.04,95.89,7/9/2024,12/6/2025
+1524,Galaxy Jewels Tin 600 g (1�8),3,Inventory Item,31.71,34.95,2/5/2024,6/4/2026
+1526,Doritos 26 g (1 Shekel) (1�108),9,Inventory Item,42.79,50.64,11/11/2024,8/8/2027
+1527,Lahloub Chips 50 g (1 Shekel) (1�48),2,Inventory Item,23.43,34.13,11/6/2023,9/24/2026
+1528,Cheetos 18 g (1 Shekel) (1�76),45,Inventory Item,109.2,156.5,5/9/2024,12/18/2025
+1529,Lays Family Size 104 g (1�23),45,Inventory Item,70.84,112.14,7/9/2024,10/31/2025
+1533,Blue Three Razor Blades 6+2,18,Inventory Item,49.3,72.99,9/1/2024,8/24/2027
+1534,Smacks Cereal (18�375 g),41,Inventory Item,56.52,89.04,2/11/2025,4/3/2027
+1535,Skittles Fruits 38 g (�14),24,Inventory Item,113.78,165.13,4/19/2023,10/6/2024
+1537,Jelly Jar (100 pcs),18,Inventory Item,20.1,25.11,3/5/2025,5/14/2026
+1539,Tamam Biscuits 38 g (1�6�24),195.5,Inventory Item,71.18,82.05,1/7/2024,6/22/2025
+1540,Awsam Qirshla 200 g,7.167,Inventory Item,61.69,91.97,5/4/2025,11/1/2027
+1542,Herbal Shampoo 400 ml (1�6),90.667,Inventory Item,74.15,105.45,9/7/2024,8/8/2026
+1543,Popcorn Chips 75 g (1�9),15,Inventory Item,4.14,4.65,2/6/2025,1/10/2027
+1544,Kotex Sanitary Pads (1�16),67,Inventory Item,104.91,134.29,6/9/2025,3/21/2028
+1545,Mollet Tissues (7 packs �700 sheets) 800 g (1�12),6,Inventory Item,111.99,176.77,7/25/2023,2/14/2026
+1548,Al-Sayyad Tuna (1�48),2,Inventory Item,68.69,92.75,4/26/2025,9/16/2027
+1549,Al-Dar Chickpeas (1�24),67,Inventory Item,84.2,110.84,2/12/2023,5/20/2024
+1550,Raid Liquid 90 Nights,999,Inventory Item,110.85,147.3,5/14/2025,9/17/2026
+1551,Tang Juice Powder 450 g (1�8),155,Inventory Item,85.45,102.92,9/2/2023,6/6/2024
+1552,Newland Mayonnaise 946 g (1�12),12.5,Inventory Item,20,25.69,10/14/2023,10/24/2024
+1553,Raid Device + Tablet 30 Nights,80,Inventory Item,70,89.94,12/21/2023,10/12/2025
+1554,Dettol Multi-Purpose Cleaner 3 L,23,Inventory Item,73.59,82.88,2/23/2025,1/16/2028
+1555,Rivana Turkish Sunflower Seeds 100 g (2 Shekel) (1�24),246,Inventory Item,52.05,77.23,4/20/2024,5/30/2025
+1556,Mr. Chips + Bugles + Falafel + Black Popcorn + Snack Mix + Mr. Cheese (1 Shekel) (48 pcs),180,Inventory Item,88.9,116.3,3/24/2023,1/11/2026
+1557,Freshly Ranch Salad Dressing 473 g,2,Inventory Item,112.26,169.63,4/20/2023,6/22/2025
+1558,Basmati Mandi Rice � Indian 4 kg (1�10),144,Inventory Item,111.22,169.63,7/9/2023,9/13/2025
+1559,Molto Magnum Cake 92 g (2 Shekel) (1�12),16,Inventory Item,55.2,66.57,3/10/2025,9/5/2026
+1562,Colgate Max Fresh Toothpaste 125 g,661,Inventory Item,15.36,21.94,6/27/2025,12/26/2026
+1563,Special K Classic Cereal 375 g,21,Inventory Item,118.21,157.95,9/8/2023,9/26/2025
+1564,Special K with Honey & Nuts 420 g,4,Inventory Item,100.99,155.53,12/24/2024,2/1/2027
+1566,Nestl� Cream 170 g (48 pcs),174,Inventory Item,16.71,20.18,10/18/2023,6/28/2024
+1569,Hibiscus Herbal Drink (1�36),4,Inventory Item,110.66,159.23,10/6/2024,5/15/2025
+1570,Freshly Soy Sauce Large Size 472 g (1�12),1,Inventory Item,104.65,146.92,7/20/2023,3/12/2025
+1572,Barley Biscuits (Al-Walad) 56.5 g (1�48),4,Inventory Item,63.22,78.88,3/7/2025,12/17/2027
+1573,Fajita Bread / Tortilla Wraps 326 g (1�12),5,Inventory Item,71.77,83.85,11/22/2023,11/16/2024
+1574,Taco Shells 12 pcs 156 g (1�8),1,Inventory Item,49.08,69.98,5/25/2024,5/19/2026
+1575,Always Ultra Platinum (1�8),216,Inventory Item,8.46,12.43,2/13/2024,10/20/2024
+1576,Nadec Spread 500 g + Siniora Small 225 g Promo (1�4),33,Inventory Item,41.55,52.26,8/29/2024,9/15/2026
+1579,Coffee-Mate Egyptian 400 g (1�15),118.467,Inventory Item,96.74,137.6,2/28/2025,12/9/2025
+1580,Iced Coffee Carton (1�12),118,Inventory Item,2.55,3.31,4/16/2025,4/30/2026
+1581,Duck Toilet Cleaner + Refill 5�38 g,8,Inventory Item,41.35,60.23,5/22/2024,2/26/2025
+1582,Duck Toilet Capsule Device 10�38 g,1,Inventory Item,48.98,58.76,12/31/2024,8/5/2027
+1583,Amazon Tomatoes Bag (1�4�24),0.5,Inventory Item,65.41,101.07,8/23/2024,12/22/2025
+1584,Coco Pops Fills Cereal 350 g (12 pcs),5,Inventory Item,110.54,137.48,3/13/2023,4/16/2025
+1586,Abu Al-Ragheb Corn Oil 5 L,11.75,Inventory Item,42.87,55.04,9/4/2023,1/13/2026
+1587,Abu Al-Ragheb Corn Oil 3 L (1�6),77.5,Inventory Item,42.94,48.48,10/2/2024,4/11/2026
+1588,"Spring Flowers Herbal Tea (Anise, Chamomile, Tea, Ginger) (1�12)",0.25,Inventory Item,89.03,102.9,12/24/2024,4/7/2027
+1589,Ariel Oxi Washing Powder 6.8 kg,2,Inventory Item,55.36,75.18,5/4/2025,9/8/2027
+1590,Pampers Premium,581,Inventory Item,28.5,35.16,8/30/2024,3/31/2026
+1592,Nesquik Flakes 150 g (1�16),57,Inventory Item,55.39,84.07,8/9/2024,3/19/2027
+1593,Fairy Dishwashing Liquid 1015 ml (1�8),49.625,Inventory Item,18.62,20.62,7/19/2024,8/23/2025
+1594,Heinz Ketchup 1035 g (1�6),0.167,Inventory Item,22.81,29.41,12/10/2023,1/22/2026
+1595,Mollet Toilet Paper (1�40),546,Inventory Item,60.81,77.15,2/23/2023,2/19/2024
+1597,Bamba Stobi Philips Chips 85 g,34,Inventory Item,51.43,57.07,12/30/2024,4/30/2026
+1598,Mr. Chips + Snack Mix + Bugles (2 Shekel) (1�48),780,Inventory Item,109.95,127.78,6/11/2024,5/13/2026
+1599,Paper Coffee Cups 2 oz (1�20),182,Inventory Item,44.76,58.49,9/2/2024,3/31/2026
+1602,Bonbon Chocolate Eggs Arcor (1�27�20),467,Inventory Item,70.51,94.94,6/15/2024,12/15/2024
+1603,Oat Biscuits (1�6�24),87,Inventory Item,76.61,99.76,7/11/2024,5/19/2027
+1604,Hala Chips (Ringo + Cheezer) (1�50),118,Inventory Item,3.55,4.85,7/12/2023,7/9/2026
+1605,Tody Chocolate Sticks Mixed (� Shekel) (1�12),280,Inventory Item,80.3,112.22,6/13/2025,4/5/2028
+1608,HoHos + Tiger Cakes 24 pcs (1�8),1266.75,Inventory Item,23.01,25.43,2/27/2023,11/6/2025
+1609,Laziza Spread 400 g (1�12),71.25,Inventory Item,115.41,153.73,3/12/2024,6/15/2025
+1610,Hipopo Cake (1�6),49.667,Inventory Item,19.54,30.91,4/21/2023,5/19/2024
+1612,Abu Al-Ragheb Sunflower Oil 3 L (1�6),14.333,Inventory Item,50.93,69.24,5/9/2023,7/6/2025
+1614,Brittly Biscuits (1�6),3.167,Inventory Item,12.07,17.37,4/28/2025,12/18/2026
+1615,Puck Milk 400 g (1�24),143.792,Inventory Item,119.63,150.25,12/6/2024,9/12/2025
+1616,Abu Al-Ragheb Corn Oil 1 L,4,Inventory Item,61.26,91.09,5/1/2025,4/1/2027
+1619,Rasaky Chips 40 g (1�20),24,Inventory Item,72.26,107.41,11/22/2023,12/13/2025
+1620,Mustard 227 g (�12),0.75,Inventory Item,9.92,13.5,1/8/2023,5/10/2024
+1621,Lavinal Coconut Rolls 19 g (1�6�24),15,Inventory Item,90.5,143.71,1/29/2023,5/15/2025
+1622,Alite Spread (1�12),1.667,Inventory Item,26.77,31.13,4/22/2023,3/11/2025
+1624,Linkra Chocolate Sprinter (1�6�24),27,Inventory Item,107.97,119.68,11/3/2024,7/3/2025
+1625,Sunbird Rice 4.5 kg (1�5),50,Inventory Item,26.21,38.92,5/11/2023,7/31/2025
+1626,Chocolate Milk Cans (Saudi) 125 ml (1�24),79,Inventory Item,24.5,36.84,7/7/2023,8/15/2024
+1627,OK Drain Opener (1�12),45,Inventory Item,6.31,7.32,11/5/2024,8/16/2025
+1628,Mr. Chips + Bugles + Snack Mix (5 Shekel) (1�20),378,Inventory Item,57.7,71.13,12/9/2024,7/18/2027
+1629,Hill Energy Drink 250 ml (1�24),26,Inventory Item,68.65,76.12,4/19/2024,2/23/2027
+1630,Break Chips (� Shekel) (1�50),2,Inventory Item,9.75,12.15,12/30/2023,8/25/2025
+1631,Al-Hilal Halawa Spread 350 g (1�12),77,Inventory Item,93.51,139.01,7/23/2023,9/29/2024
+1632,"Tahini Squeeze (Spicy, Smooth, Sumac & Onion) (1�12)",172,Inventory Item,55.49,75.41,7/31/2023,3/30/2025
+1633,Al-Hilal Halawa Bites Cans (1�10),739,Inventory Item,63.88,81.39,9/12/2024,5/18/2026
+1634,Fairy Platinum Dishwasher Tablets (1�4�37),768,Inventory Item,54.01,69.45,10/3/2023,10/23/2024
+1635,Heinz Ketchup 460 g Hot + Garlic (1�10),2,Inventory Item,49.29,54.25,3/14/2023,10/7/2023
+1636,Nutella Bucket 3 kg,7,Inventory Item,68.04,85.04,11/9/2024,3/20/2027
+1637,Khayrat Tuna with Corn 140 g (1�48),8652,Inventory Item,20.32,28.92,2/10/2025,7/10/2026
+1640,Turkish White Sunflower Seeds 120 g (1�15),35,Inventory Item,23.47,37.25,8/31/2023,10/6/2025
+1641,Glade Manual Air Freshener with Device 10 ml (�6),107,Inventory Item,103.69,157.97,2/25/2025,5/13/2027
+1642,Glade Reed Diffuser 80 ml (�6),7,Inventory Item,113.64,126.34,4/12/2023,12/16/2023
+1643,Glade Manual Refill with Device 10 ml (�12),78,Inventory Item,46.05,71.34,11/15/2024,9/26/2027
+1645,Laziza Fruit Cocktail 850 g (1�24),5,Inventory Item,33.95,50.64,6/20/2023,12/31/2025
+1646,Al-Awda Pineapple Slices 850 g (1�24),1,Inventory Item,77.99,116.22,10/14/2024,9/6/2026
+1647,Nice Hand Wash Liquid 800 ml (1�12),6.917,Inventory Item,50.23,66.76,6/27/2025,6/8/2026
+1648,Softy Toilet Paper 32 Rolls 3-Ply (1�5),9.4,Inventory Item,5,6.5,7/7/2023,5/15/2026
+1650,Cheetos Chips 35 g (44 pcs),1,Inventory Item,20.43,25.57,3/16/2024,9/11/2026
+1654,Bamba Tasty Chips 40 pcs (1 Shekel),79,Inventory Item,86.48,97.97,3/27/2023,11/15/2025
+1655,Paper Cups 9 oz,720,Inventory Item,79.75,96.83,4/20/2024,10/19/2025
+1656,Fine Toilet Paper 16 Rolls + 2 Free (1�4),592,Inventory Item,5.2,6.36,2/21/2023,4/26/2024
+1657,Komili Kitchen Towels 6 Rolls (1�4),3,Inventory Item,28.19,37.83,4/21/2023,2/22/2026
+1658,Kinder Happy Hippo (1�6�28),50,Inventory Item,29.27,43.14,5/26/2025,3/26/2028
+1659,Abu Al-Ragheb Sunflower Oil 4 L (1�4),346,Inventory Item,81.28,108.66,5/3/2025,9/15/2027
+1660,Awsam Fettuccine Pasta Bags 500 g (1�10),68,Inventory Item,4.33,4.89,2/12/2023,1/27/2024
+1661,Snickers Super 80 g (8�24),87,Inventory Item,14.28,22.55,7/30/2023,2/21/2026
+1662,Walima Rice 4 kg (1�6),125.333,Inventory Item,96.39,151.46,7/19/2023,4/13/2024
+1663,Smile Rice Short Grain 5 kg,100,Inventory Item,23.07,34.43,3/20/2025,3/30/2027
+1664,Al-Khubaiz Samosa Dough 500 g (1�30),0.867,Inventory Item,79.02,126.09,5/7/2025,1/22/2027
+1666,Abu Aita Pasta Shapes 350 g (1�20),4600.85,Inventory Item,30.11,41.32,1/21/2025,5/9/2026
+1667,Bavaria 1 L (1�4),596.25,Inventory Item,13.73,21.71,9/18/2024,8/13/2025
+1669,Awsam Wheat Flour 1 kg (1�10),345,Inventory Item,30.69,34.92,1/26/2023,12/3/2023
+1670,Khayrat Sunflower Oil 900 ml (1�12),10.667,Inventory Item,87.23,111.9,10/26/2023,6/29/2025
+1671,Sweets Samosa with Local Oil (1�30),1,Inventory Item,102.97,124.87,3/18/2023,11/11/2023
+1672,Mastic & Mahlab (1�25),16,Inventory Item,99.97,119.76,5/17/2023,2/25/2026
+1674,Soursop Juice Net 330 ml (1�24),6,Inventory Item,48.87,57.2,1/20/2023,2/2/2024
+1675,King Hazelnuts (2 Shekel),341,Inventory Item,80.83,114.07,3/15/2024,4/13/2025
+1676,Nadec Cream Cheese 500 g (1�6),7.167,Inventory Item,26.19,39.04,7/30/2023,7/11/2026
+1678,Poker Logo Biscuit Pleasure (1 Shekel),4,Inventory Item,36.59,50.83,1/21/2025,1/31/2027
+1682,Jeezy Cheese Chips Regular + Hot 18 g (1�60),37,Inventory Item,107.77,126.47,7/4/2024,4/16/2026
+1683,Novella Croissant Cake (1�6),278,Inventory Item,3.53,5.31,3/10/2024,9/19/2026
+1684,Kinder Happy Hippo T5 (1�4�10),123,Inventory Item,12.09,17.14,2/18/2025,4/20/2026
+1685,Carnation Milk 350 g (1�24),35,Inventory Item,26.53,34.33,7/26/2023,2/6/2025
+1691,Al-Awda Corn with Spoon 184 g (1�24),12,Inventory Item,5.13,7.37,3/14/2024,5/6/2025
+1693,Doritos 45 g (1�56),39,Inventory Item,23.41,28.79,2/17/2025,8/17/2026
+1694,Khayrat Sunflower Oil 3 L (1�6),3.833,Inventory Item,70.8,90.1,10/27/2024,10/9/2025
+1695,Khayrat Sunflower Oil 5 L (1�4),0.25,Inventory Item,51.73,80.63,2/11/2023,2/19/2025
+1696,Sibyl Chickpeas 400 g (1�24),275.208,Inventory Item,107.34,133.67,2/15/2024,10/2/2024
+1698,Omo Fabric Softener 2.5 L (1�4),8,Inventory Item,98.46,131.44,6/6/2024,2/21/2027
+1700,Amazing Ling Chips,27,Inventory Item,42.33,65.4,3/16/2025,5/14/2027
+1701,Wow Wafer Biscuits (1�6),81,Inventory Item,32.61,47.41,9/1/2024,2/25/2027
+1703,XL TEN Sugar-Free + Strawberry XL 250 ml,8556,Inventory Item,46.8,52.94,3/2/2024,7/18/2026
+1705,Al-Awda Medium Corn 340 g (1�24),13.917,Inventory Item,71.65,84.09,10/2/2023,4/13/2025
+1707,Maysi Pistachios Shahbandar 30 g (1�8�36),49,Inventory Item,33.63,37.12,3/23/2024,1/5/2026
+1708,XL Iced Coffee (1�24),8,Inventory Item,75.65,107.08,6/20/2025,3/6/2026
+1710,Nile Cup Water (1�40),1231,Inventory Item,50.31,66.6,6/2/2025,10/26/2027
+1713,Old Spice Shower Gel 400 ml (1�6),460,Inventory Item,67.14,78.36,1/11/2025,7/11/2026
+1714,Old Spice Deodorant Spray 150 ml (1�6),172,Inventory Item,53.46,84.41,1/4/2024,10/5/2025
+1715,Old Spice Stick Soap 50 ml (1�6),137,Inventory Item,36.75,50.16,8/8/2023,8/2/2026
+1716,Diamond Freezer Bags Medium 20 pcs (1�12),8,Inventory Item,113.92,139.09,7/30/2024,7/18/2026
+1717,Diamond Freezer Bags Large 15 pcs (1�12),35,Inventory Item,92.11,124.38,5/16/2025,2/6/2027
+1718,Diamond Storage Bags Medium 25 pcs (1�12),21,Inventory Item,18.53,26.68,8/20/2023,5/24/2025
+1719,Diamond Storage Bags Large 20 pcs (1�12),11,Inventory Item,104.48,118.91,11/24/2023,9/11/2025
+1720,Diamond Sandwich Bags Small 50 pcs (1�12),5,Inventory Item,59.52,73.65,3/18/2024,11/7/2025
+1721,Diamond Sandwich Bags Large 100 pcs (1�12),7,Inventory Item,107.56,161.71,2/21/2023,7/26/2025
+1723,Nadec Chocolate Milk 125 ml (1�18),39.889,Inventory Item,96.38,128.17,6/4/2025,7/2/2026
+1724,Luna Cream Cheese 500 g (1�6),0.167,Inventory Item,52.18,71.66,1/11/2024,7/12/2025
+1727,Pictol Candy (1�12�24),501,Inventory Item,4.65,6.12,9/20/2023,7/19/2026
+1728,M&M�s 100 g (1�16),35,Inventory Item,33.7,37.81,9/24/2023,7/13/2024
+1730,Ranch + Thousand Island Mayonnaise 225 ml (1�12),19,Inventory Item,65.91,77.96,12/25/2023,7/15/2026
+1731,Caesar Dressing Mayonnaise 225 ml (1�12),26,Inventory Item,76.75,101.52,11/13/2023,9/25/2025
+1732,Caesar Dressing Mayonnaise 400 ml (1�12),42,Inventory Item,32.43,39.06,11/20/2023,2/12/2026
+1733,Ranch + Thousand Island Mayonnaise 400 ml (1�12),45,Inventory Item,18.44,20.74,6/26/2025,3/18/2028
+1734,Gozal Wafer Fingers 250 g (1�24),16,Inventory Item,100.52,152.97,10/27/2024,12/3/2026
+1736,Fairy Dishwashing Liquid White 1.5 L (1�9),11.444,Inventory Item,118.16,187.94,5/19/2025,9/21/2026
+1738,Cool Carbonated Drink 250 ml (1�24),1.25,Inventory Item,64.03,95.83,5/27/2025,3/6/2027
+1740,Indomie Kellogg�s Pack (1�40),39,Inventory Item,22.26,33.99,10/13/2024,7/13/2027
+1741,Head & Shoulders 400 ml New (1�6),419.833,Inventory Item,34.13,41.67,7/16/2024,12/20/2026
+1742,Fresher Soda 200 ml (1�24),9,Inventory Item,4.17,6.59,9/20/2024,7/29/2027
+1743,Nadec Chocolate Milk 185 ml (1�18),877,Inventory Item,109.89,131.7,2/25/2024,10/5/2024
+1744,Enjoy Juice Glass 250 ml (1�24),13,Inventory Item,15.89,25.04,2/15/2023,10/1/2024
+1745,Pampers Pull-Ups (1�3�34),104,Inventory Item,70.03,111.87,3/31/2025,8/25/2027
+1748,First Harvest Tomatoes Small 135 g (1�48),351,Inventory Item,34.34,49.99,8/22/2024,6/22/2027
+1749,Oral-B Kids Toothpaste 75 g,16,Inventory Item,67.39,107.19,12/20/2024,2/18/2026
+1750,Oral-B Toothpaste 100 ml (114-123),233,Inventory Item,78.87,109.22,6/7/2025,2/25/2026
+1751,Adamas Velvet Gifts 400 g (1�6),10,Inventory Item,99.91,122.87,9/26/2023,10/16/2024
+1752,Leviva Gourmet Biscuits (1�6),388,Inventory Item,26.36,34.76,8/23/2024,7/19/2025
+1753,Java Cake 75 g (1�28),8,Inventory Item,3.3,4.61,1/16/2024,5/12/2026
+1754,Betty Bear Awsam 500 g (1�12),8,Inventory Item,18.15,20.63,4/28/2023,4/4/2025
+1755,Pampers Premium S0 (0�3 kg) (1�4),353,Inventory Item,108.2,152.69,7/19/2024,6/28/2025
+1756,Etty Combo 33.5 g (1�3),10,Inventory Item,105.12,167.2,4/26/2023,3/15/2024
+1757,Super Blue Drink 180 ml (1�30),67,Inventory Item,72.49,86.63,9/21/2024,4/25/2025
+1760,Mr. Chips + Crocodile + Pizza + Cheese Popcorn + Disco (1 Shekel) (40 pcs),49,Inventory Item,72.86,109.02,9/17/2023,2/10/2025
+1761,Trito Cake (1�6),1,Inventory Item,80.47,125.05,3/16/2023,10/18/2024
+1762,Fairy Double Power 1190 ml (1�9),1717.111,Inventory Item,22.69,35.67,4/24/2024,12/8/2025
+1763,Al-Zahraa Cream Caramel 500 g (1�12),8,Inventory Item,109.9,173.65,11/1/2023,6/12/2024
+1764,Al-Shannar Cappuccino 750 g (1�12),1.75,Inventory Item,51.41,69.96,1/7/2023,8/10/2024
+1766,Betty Bear 1 kg ZDCO (1�8),12,Inventory Item,47.21,75,1/1/2024,1/20/2025
+1767,Royal Regime Tea (1�36),2.5,Inventory Item,63.23,93.5,9/25/2024,5/24/2025
+1768,Familia Toilet Paper 2-Ply (1�3�20 Rolls),3,Inventory Item,7.54,8.9,6/6/2024,1/26/2026
+1769,Fine Paper Towels 20 Rolls (10�2),5,Inventory Item,21.62,28.94,12/14/2023,10/26/2026
+1770,Gift Stand Dress 120 pcs,1,Inventory Item,89.09,130,3/13/2024,12/20/2025
+1771,Dress Wafer (1�6),8,Inventory Item,11.77,14.4,8/3/2023,4/28/2026
+1772,Quick Oven Cleaner 1 L (1�6),9.5,Inventory Item,73.17,103.92,3/4/2024,9/18/2024
+1773,Sonar Sunflower Oil 3 L (1�6),8,Inventory Item,30.95,44.36,3/1/2025,8/27/2026
+1774,Al-Faisal & Al-Talhama Sunflower Oil 5 L (1�4),1221,Inventory Item,47.94,56.63,5/12/2024,9/3/2025
+1775,Cerelac Rice 400 g (1�24),35,Inventory Item,36.07,49.87,6/23/2024,12/26/2024
+1776,Halawa Pieces with Aleppo Pistachio 400 g (1�12),75,Inventory Item,43.97,65.33,1/16/2025,8/14/2027
+1777,Egyptian Sugar Sack 25 kg,275,Inventory Item,86.85,117.2,1/2/2024,8/31/2025
+1778,Trax Chips 50 g (1�40),77,Inventory Item,37.06,40.99,11/9/2023,8/31/2024
+1780,Gummy Candy Eyes + Strawberry (50 pcs),345,Inventory Item,68.84,76.04,6/21/2024,7/20/2026
+1781,Red Heart Gummy Candy (40 pcs),4,Inventory Item,58.17,74.37,2/23/2023,1/9/2025
+1782,Halawi Dates 5 kg,35,Inventory Item,80.31,125.53,6/24/2024,6/19/2026
+1783,Halawi Dates 1 kg,5,Inventory Item,112.55,136.67,4/11/2024,9/13/2026
+1785,Al-Najjar Qamar Al-Din 400 g (1�25),147.48,Inventory Item,88.44,125.34,5/14/2025,9/30/2026
+1786,Al-Awda Chocolate Spread 400 g (1�12),15,Inventory Item,27.36,33.13,6/13/2023,2/2/2024
+1787,Tasco Hot Sticks 3-in-1,0.667,Inventory Item,5.68,7.16,2/20/2025,10/5/2027
+1789,Awsam Soup Jar (1�10),0.2,Inventory Item,32.95,50.22,11/30/2023,7/8/2024
+1792,Macintosh 871 g (1�8),490,Inventory Item,72.22,105.76,6/30/2024,10/19/2025
+1793,Bavaria Cans 150 ml (1�24),507.458,Inventory Item,8.07,9.26,3/8/2025,4/22/2026
+1794,Half Time Chocolate 15 g (1�24�24),19.875,Inventory Item,60.57,79.61,12/14/2023,9/6/2025
+1798,Lusine Cup Cake 450 g (1�8),1,Inventory Item,72.43,80.73,9/30/2023,9/3/2026
+1799,Datoo Maamoul (1�5),675,Inventory Item,41.44,55.55,12/20/2024,7/16/2026
+1800,Mori Biscuits (1�5),2,Inventory Item,92.97,133.06,1/19/2025,12/21/2026
+1801,Al-Awda Wafer Biscuits Gifts (1�5),60,Inventory Item,14.58,16.9,2/18/2024,8/8/2025
+1803,Rosso Biscuits (1�5),25,Inventory Item,10.87,13.53,5/14/2024,1/27/2026
+1805,New Gifts (1�12),23.167,Inventory Item,87.93,114.21,4/3/2023,2/4/2024
+1806,New Vanilla Biscuits 68 g,6,Inventory Item,60.47,94.32,11/15/2024,4/4/2027
+1807,Sydney Tissues 200 g (�10),3,Inventory Item,83.23,132.89,3/20/2023,10/24/2024
+1808,Sydney Tissues 300 g (�10),5,Inventory Item,53.31,59.84,9/13/2024,4/7/2026
+1809,Fairy Dishwasher Tablets 84 Tabs (3 packs),15,Inventory Item,31.08,46.01,8/5/2023,8/11/2024
+1811,Fairy Dishwasher Tablets 39 Tabs (5 packs),2.4,Inventory Item,98.65,126.85,12/24/2023,2/14/2026
+1812,Diamond Foil 37 ft + Diamond Nylon 91 m (�8),12.5,Inventory Item,96.33,124.87,9/9/2024,8/5/2027
+1813,Lambda Croissant Sibyl,23.95,Inventory Item,83.97,124.03,5/21/2024,11/29/2026
+1814,Marina Tuna with Tomato 150 g,21,Inventory Item,34.11,53.18,7/12/2024,3/26/2025
+1815,Wafix Biscuits (� Shekel),31,Inventory Item,71.65,112.88,6/30/2023,3/20/2024
+1816,Wafix Milky Biscuits (0.5 Shekel) (1�12),2.083,Inventory Item,44.59,61.92,7/29/2024,2/23/2025
+1817,Wafix Biscuits (1 Shekel) (1�12),35.083,Inventory Item,12.81,16.38,9/3/2023,2/23/2026
+1818,Al-Awda Cake,1.833,Inventory Item,110.24,164.67,9/1/2023,4/16/2024
+1819,Nadec Cream Cheese 240 g (1�12),35,Inventory Item,18.14,22.23,5/20/2024,1/1/2027
+1820,Nadec Cream Cheese 140 g (1�12),2,Inventory Item,114.13,157.73,2/26/2024,1/15/2025
+1821,Sultan Carbonated Drink 250 ml (1�24),13,Inventory Item,54.63,69.89,11/16/2023,7/21/2024
+1822,Betty Bear Etty 800 g (1�6),27.167,Inventory Item,23.85,34.07,3/28/2023,11/20/2023
+1823,KitKat Yellow (1�12),706.5,Inventory Item,65.94,80.46,8/5/2023,12/28/2025
+1824,Oral-B 3D Toothpaste 75 ml (114-124),9.333,Inventory Item,105.01,125.57,5/4/2024,5/27/2026
+1825,Blue Mary Tuna 140 g,2,Inventory Item,88.4,137.83,6/2/2024,3/22/2026
+1826,Nutella Biscuits T3 (1�28),155,Inventory Item,97.17,111.83,10/5/2023,6/30/2026
+1827,Coco Frite Biscuits 38 g,5.333,Inventory Item,79.74,107.89,4/28/2025,1/12/2027
+1828,Seyour Corn Oil 3 L,5,Inventory Item,83.69,101.3,12/22/2024,4/11/2026
+1830,Siniora Large 800 g Promo + Nadec 240 g (3�2),13.5,Inventory Item,102.21,114.42,6/18/2023,10/22/2025
+1831,Christmas Chips 35 g (1 Shekel),346,Inventory Item,31.46,35.17,11/26/2023,11/10/2024
+1833,Mammoth Energy Drink,867,Inventory Item,59.75,70.96,10/11/2024,11/4/2026
+1834,Freshly BBQ Sauce 510 g (1�12),78,Inventory Item,28.1,43.09,3/16/2024,2/5/2025
+1835,Mogi Chips (1�60),78,Inventory Item,118.54,147.14,1/26/2024,11/19/2025
+1836,Go Time + Gold Time + Live Time (1�24�12),8,Inventory Item,113.4,178.63,5/10/2024,9/7/2025
+1838,Indian Super Star Rice 1 kg,0.75,Inventory Item,6.65,9.25,1/16/2024,5/17/2026
+1839,KitKat Cereal 330 g (14 pcs),1.143,Inventory Item,85.26,112.4,11/2/2023,2/11/2026
+1840,Water Assorted (Birin / Adhari / Al-Quds / Huna / Shat) 200 ml (1�24),682,Inventory Item,111.18,154.55,1/11/2025,11/2/2027
+1841,Kyiv Coffee 250 ml (1�24),123,Inventory Item,23.31,31.66,3/30/2025,5/27/2027
+1843,Brihan Tomatoes 580 g (1�24),36,Inventory Item,69.02,102.11,11/3/2024,7/21/2026
+1844,Nutella Biscuits T20 (1�12 packs),24,Inventory Item,110.03,136.57,5/27/2024,7/1/2025
+1845,Sticks Chips Cans (1�8�6 / 48 pcs),0.625,Inventory Item,6.01,7.67,1/17/2025,1/21/2027
+1846,Swiss Roll + Torta 70 g (1�6�24),355,Inventory Item,84.3,130.42,7/7/2023,3/16/2026
+1847,Choco Milk Castle (1�24),2,Inventory Item,37.09,58.35,5/30/2024,12/8/2025
+1849,Man Shaving Cream 140 g (1�12�4),9.333,Inventory Item,111.08,171.76,10/5/2024,12/13/2026
+1851,Bondi Rice 5 kg,177,Inventory Item,116.58,152.69,3/2/2024,5/21/2025
+1852,Nadec Juice 125 ml,11,Inventory Item,113.42,169.02,5/16/2024,2/14/2025
+1853,Oreo Biscuits (1�24�6),337.833,Inventory Item,57.96,77.56,12/30/2024,3/16/2026
+1854,Artesana Fruit Pieces Juice 330 ml (1�24),11,Inventory Item,103.72,139.89,9/17/2023,6/17/2026
+1855,Saudi Vanilla Choco Milk (1�18),29,Inventory Item,101.66,122.23,5/27/2024,5/8/2027
+1856,V-NET Juice (1�24),35,Inventory Item,39.65,55.33,3/12/2023,11/17/2023
+1857,Bella Fava Beans (1�24),7,Inventory Item,99.81,119.08,4/22/2024,5/25/2025
+1858,Bella Corn (1�24),1.792,Inventory Item,6.37,8.06,6/27/2023,6/8/2025
+1859,Finish Quantum Dishwasher Tablets 60 Tabs (1�6),633,Inventory Item,72.36,110.53,4/1/2024,12/28/2024
+1860,Finish Classic Dishwasher Tablets 100 Tabs (1�4),151,Inventory Item,29.14,35.07,7/8/2023,5/9/2024
+1862,Harvest Tomatoes 375 g,54,Inventory Item,16.23,18.43,10/18/2023,7/3/2024
+1863,Frosties Cereal 470 g (1�16),16.313,Inventory Item,11.08,12.57,6/3/2024,3/3/2027
+1864,Fairy Dishwasher Tablets (48�4),4.5,Inventory Item,84.16,132.16,2/3/2025,3/27/2026
+1865,Al-Kawakeb Ghee Tin 15 kg,54,Inventory Item,42.11,56.99,10/19/2023,4/22/2025
+1866,Signal Toothpaste 2+1 Promo (1�16),34,Inventory Item,87.52,114.19,1/25/2025,1/25/2028
+1867,Vanish Kalia Spray 750 ml (1�12),28.333,Inventory Item,9.71,14.62,9/26/2024,7/23/2026
+1868,Al-Awda Transparent Biscuits 400 g (1�12),40.083,Inventory Item,39.2,59.5,3/21/2025,8/11/2027
+1869,Melody Chocolate (2 Shekel),45,Inventory Item,65.66,83.13,10/10/2023,5/1/2024
+1870,Betty Bear Sibyl 800 g (1�6),376.667,Inventory Item,95.31,137.9,6/27/2024,5/28/2025
+1871,Cracker Bagela 300 g (1�12) Promo 3 for 10,1008,Inventory Item,39.61,58.84,4/25/2025,3/22/2027
+1872,Snickers Stand (1 Shekel),31,Inventory Item,75.86,108.28,1/12/2024,4/2/2026
+1873,Dilmah Tea,720,Inventory Item,106.55,125.28,10/19/2024,6/14/2027
+1874,Dairy Milk Bubbly 13 g (1�24),23.958,Inventory Item,74.67,114.84,6/5/2023,5/14/2025
+1875,Choco Didi 500 ml (1�12),3,Inventory Item,29.49,40.39,5/22/2024,10/28/2026
+1876,Harpic Twin Promo (�6),3.667,Inventory Item,4.88,6.06,2/17/2024,10/10/2024
+1877,Harpic Triple Promo (�4),5,Inventory Item,104.67,137.39,6/11/2024,8/4/2026
+1878,Nadec Chocolate Milk 1 L (�12),2,Inventory Item,4.51,5.05,12/21/2023,7/6/2024
+1880,Chocolate Spread 750 g (�12),21.917,Inventory Item,105.21,122.46,7/12/2024,1/26/2026
+1881,Oreo Cake (1 Shekel) (�12),34,Inventory Item,64.41,95.51,2/1/2025,12/12/2027
+1883,Cadbury Hot Chocolate (�8),31,Inventory Item,112.81,124.09,7/6/2023,7/12/2024
+1884,Grandery Juice 1 L (�12),12,Inventory Item,96.26,125.94,1/31/2023,3/22/2024
+1885,Global Tomatoes 380 g (�24),28.5,Inventory Item,119.76,163.02,9/17/2023,4/5/2025
+1886,Whole Mushroom Bondi / Al-Malika 400 g (�24),64,Inventory Item,43.38,48.9,2/25/2024,10/22/2025
+1887,Dairy Milk Marvelous (�12),324,Inventory Item,92.53,146.8,6/12/2024,9/11/2025
+1888,Lotus Biscuits 250 g (1�10),1580.9,Inventory Item,49.43,59.96,7/4/2024,8/14/2025
+1889,Wave Detergent Powder 7 kg,369,Inventory Item,58.63,73.41,10/31/2023,5/12/2026
+1890,Star Detergent Powder 1 kg Automatic (1�10),17,Inventory Item,76.05,95.21,2/8/2023,2/8/2025
+1891,Global Corn (1�24),25.125,Inventory Item,105.09,127.71,5/3/2024,9/17/2025
+1892,Kinder Tronky 5 Fingers (1�20),1.1,Inventory Item,118.12,130.02,10/5/2024,9/2/2025
+1893,Kinder Tronky Single (1�8),23.75,Inventory Item,92.66,135.72,6/25/2024,9/21/2026
+1895,Amanda Biscuits (1�6�24),546,Inventory Item,51.3,81.23,10/31/2024,12/21/2025
+1896,Al-Zahraa Lentil Sticks (1�6),8.833,Inventory Item,51.72,62.69,10/5/2023,5/26/2024
+1897,Najd Tuna (1�48),8,Inventory Item,89.03,127.45,7/22/2023,3/28/2025
+1898,Harvest Tomatoes 800 g (1�24),546,Inventory Item,30.18,44.39,3/7/2023,7/17/2025
+1899,Indian Mixed Spices 400 g,565,Inventory Item,15.04,22.92,4/18/2023,1/31/2024
+1900,Donut Cake + Bite Cake + Mozzarella Cake (1�6),7,Inventory Item,43.85,57.5,9/25/2023,8/5/2026
+1901,Al-Aqsa Tea Bulk (1�10 kg),7,Inventory Item,35.89,44.92,8/10/2023,8/7/2024
+1902,Bondi Rice 1 kg (�20),53.1,Inventory Item,36.96,46.67,3/14/2025,9/12/2026
+1904,Break Soba 2 Fingers + Break 2 Fingers (1�24),584.125,Inventory Item,29.57,43.06,6/13/2024,6/25/2025
+1905,Cola Plastic Bottle 500 ml,256,Inventory Item,6.97,10.51,3/31/2023,10/1/2024
+1906,Vitrac Jam 650 g (1�12),23.083,Inventory Item,4.11,4.89,11/23/2024,5/29/2026
+1907,Samosa Dough + Baklava + Borek 500 g,762.5,Inventory Item,118.55,152.39,9/12/2023,7/19/2025
+1908,Triangle Dough 360 g,0.917,Inventory Item,52.48,81.39,3/30/2024,5/17/2026
+1909,Siniora Large Promo + Global (1�3),8,Inventory Item,47.35,71.18,9/10/2023,9/24/2024
+1910,Ital Pasta Sticks + Shapes 500 g (1�24),35,Inventory Item,82.2,130.9,9/14/2023,7/8/2026
+1911,Ital Pasta Spaghetti No.14 500 g (1�20),7,Inventory Item,27.75,40.99,1/18/2024,12/6/2025
+1912,Jovial Rice 5 kg (1�4),3,Inventory Item,114.1,147.94,3/17/2024,7/31/2025
+1913,Global Rice 4 kg (1�4),169,Inventory Item,94.79,132.26,5/7/2025,8/4/2026
+1914,Global Rice 900 g (1�20),47.8,Inventory Item,12.55,17.95,8/21/2024,9/15/2025
+1915,Small Salt Biscuits (1�6),70.167,Inventory Item,51.27,58.41,3/31/2023,2/11/2025
+1916,Digestive Biscuits Small (1�4),0.5,Inventory Item,105.74,145.1,1/18/2025,1/5/2028
+1919,Ariel Scented Dishwasher Tablets Extra Power 23 Tabs (1�4),5,Inventory Item,113.48,165.07,1/25/2024,11/17/2024
+1920,Ariel Dishwasher Tablets Extra Power 41 Tabs (1�3),2,Inventory Item,57.15,67.65,8/4/2024,1/3/2027
+1921,Ariel Liquid Detergent Regular & Color (1�5),57,Inventory Item,74.38,110.85,2/13/2023,2/15/2025
+1922,Cherry Kitchen Towels (1�6),6.333,Inventory Item,21.71,30.22,12/12/2024,7/21/2025
+1923,Textak Chips (1�80),27,Inventory Item,118.96,187.49,10/25/2024,3/3/2026
+1924,Nextra Cake (1�12),107.5,Inventory Item,29.34,32.9,8/20/2024,4/14/2027
+1925,Finish Quantum Dishwasher Tablets 72 Tabs (1�5),109,Inventory Item,113.24,139.59,1/19/2023,6/10/2024
+1926,Al-Zahraa Food Coloring Pink 10 g,7,Inventory Item,78.66,110.19,4/11/2023,10/24/2023
+1927,Plastic Shrink Wrap,206,Inventory Item,73.71,92.01,8/29/2024,12/4/2025
+1928,Molto Magnum (2 Shekel) (1�24),14,Inventory Item,62.5,91.08,2/4/2025,4/17/2026
+1929,VIP Biscuits (1�6�24),147,Inventory Item,29.22,43.23,12/23/2023,1/15/2026
+1930,Shat Cola 250 ml (�30),1223.133,Inventory Item,22.83,26.28,6/25/2024,7/18/2026
+1931,Zadna Eggplant Pickles (1�24),16,Inventory Item,28.02,38.02,1/30/2025,4/1/2027
+1932,Head & Shoulders 620 ml (�6),435.333,Inventory Item,24,32.51,2/2/2023,8/19/2023
+1933,Sunsilk 1 L (�6),9.833,Inventory Item,93.99,120.74,8/17/2023,7/25/2025
+1937,Kinder Choco Bons (1�16),26,Inventory Item,43.31,67.84,6/7/2024,3/20/2027
+1938,Global Pickles 7�9 (�24),27.875,Inventory Item,8.83,13.37,9/21/2024,5/16/2026
+1939,Global Pickles 25�18 (�24),25.208,Inventory Item,116.35,168.55,5/11/2025,2/15/2027
+1940,Al-Raed Corn Cans (1�24),6.5,Inventory Item,106.29,154.88,6/4/2023,12/7/2024
+1941,Abu Gharbia Tuna Chunks (1�48),436,Inventory Item,111.47,148.35,2/27/2024,9/21/2026
+1942,Cola Club 250 ml (�30),36,Inventory Item,119.4,186.32,6/23/2025,1/21/2028
+1943,Syrup + Pancake Promo,78,Inventory Item,22.52,32.59,9/3/2023,5/20/2024
+1944,Biscuit Flour (1�12),78,Inventory Item,48.76,71.41,2/9/2024,2/8/2026
+1945,Abu Kass Rice 5 kg (1�4),133,Inventory Item,91.47,140.03,4/23/2025,4/20/2027
+1946,Eja Juice 200 ml (1�36),18,Inventory Item,84.13,104.07,1/28/2025,9/23/2026
+1947,Global Triple Promo (Mushroom + Corn + Tomato) (1�6),4,Inventory Item,20.16,30.31,6/24/2024,2/22/2026
+1948,Soft Industrial Paper,87,Inventory Item,98.27,117.69,6/10/2023,12/28/2024
+1949,Amigo Chips (1�48),15,Inventory Item,28.48,36.25,1/16/2025,6/23/2027
+1950,Ariel Liquid Gel 2.5 kg (1�4),175,Inventory Item,28.41,36.02,12/2/2024,3/31/2027
+1951,Zeta / Zadna Vinegar 4 L (1�4),140.25,Inventory Item,65.36,103.87,4/27/2023,5/14/2024
+1952,Sibyl Corn 400 g (1�24),2509.5,Inventory Item,71.97,109.99,9/28/2023,10/7/2024
+1953,Saudi Full Cream Milk (1�12),777,Inventory Item,70.45,102.19,2/8/2025,8/4/2027
+1954,Global Mushrooms 400 g (1�24),55.5,Inventory Item,12.8,18.73,11/22/2024,3/1/2026
+1955,Shat Cola 150 ml,18,Inventory Item,105.54,145.75,5/1/2024,5/11/2025
+1956,Florida Juice 350 ml (1�24),2,Inventory Item,33.34,52.46,6/3/2025,10/2/2026
+1957,Golda Iced Coffee 200 ml (1�12),56,Inventory Item,17.28,23.3,6/21/2023,10/11/2025
+1958,Tic Tac Gum,108,Inventory Item,106.87,137.89,10/1/2023,4/11/2024
+1959,Tody Juice (1�24),21,Inventory Item,114.77,135.6,9/16/2023,6/28/2026
+1960,Lotus Biscuits 125 g (1�20),15,Inventory Item,103.73,154.88,5/15/2023,4/4/2024
+1962,Wave Up Gold (1�6),1,Inventory Item,97.52,143.08,11/13/2024,7/7/2025
+1963,Cola Cans 330 ml Promo (1�24),64,Inventory Item,79.32,102.5,12/22/2024,6/12/2027
+1964,Heinz Ketchup Food Service (1�1000),67,Inventory Item,67,74.54,1/17/2025,9/3/2027
+1965,Blue Shat 250 ml (�30),9,Inventory Item,12.26,18.63,2/26/2024,3/21/2025
+1966,Yoyo Peas Snacks (1�60),1,Inventory Item,50.2,55.51,2/25/2024,2/2/2026
+1967,Saad Al-Din Tea (1�36),67,Inventory Item,45.98,66.76,7/5/2023,3/8/2026
+1968,Man Shaving Cream 100 ml,67,Inventory Item,32.65,51.75,12/30/2023,6/5/2025
+1969,Smart Fabric Freshener 500 ml,6,Inventory Item,87.36,115.21,8/29/2024,2/9/2027
+1971,Dishwasher Salt M5 2 kg,1,Inventory Item,60.51,73.67,1/13/2024,3/13/2026
+1972,Al-Khayrat Tuna with Corn 95 g,32,Inventory Item,11.56,16.79,6/6/2024,9/7/2025
+1973,Sarour Chocolate Spread 700 g (1�12),0.333,Inventory Item,27.98,42.21,8/2/2024,8/25/2025
+1974,Pasta 200 g Any,1152.6,Inventory Item,82.62,113.46,6/9/2025,9/7/2027
+1975,Najjar / Khayrat Chickpeas Cans 400 g,105.5,Inventory Item,10.98,17.39,12/22/2024,5/20/2026
+1976,Good Day Cappuccino Sticks (1�40�20),2,Inventory Item,102.44,115.33,7/15/2023,10/24/2024
+1977,Cheap Palm Soup 1 kg,887,Inventory Item,60.43,81.73,5/30/2025,8/4/2026
+1978,Sun Oil 1 L (1�12),31,Inventory Item,58.71,85.67,4/8/2023,6/25/2024
+1979,Luna / Khayrat Beans (1�24),74,Inventory Item,71.9,110.1,8/27/2024,11/20/2025
+1980,Date Maamoul Biscuits (1�6),46.667,Inventory Item,99.31,118.14,1/22/2023,6/19/2025
+1981,Short Grain Rice 1 kg,22904,Inventory Item,43.04,64.56,3/25/2024,11/13/2025
+1982,Al-Alloul Halawa 350 g,546,Inventory Item,82.01,112.87,6/21/2023,12/12/2025
+1983,Sarour Halawa 400 g (�12),75.833,Inventory Item,68.76,89.27,1/18/2024,9/18/2026
+1984,Kiri Cheese 12 Pieces (1�36),136.972,Inventory Item,33.51,39.07,5/14/2023,6/7/2024
+1985,Lotus Stuffed Biscuits 150 g (1�9),10,Inventory Item,105.68,161.97,3/1/2024,8/27/2025
+1986,Al-Aqsa Basmati Rice 5 kg (1�4),62,Inventory Item,96.1,113.27,1/25/2023,10/7/2023
+1987,Peas Chips Promo Date,56,Inventory Item,79.7,100.02,5/17/2024,9/3/2026
+1989,Zeta Sweet Chili + BBQ + Hot Sauce 280 g (1�12),3.833,Inventory Item,102.37,127.45,7/4/2023,11/15/2024
+1990,Charcoal Lighter (1�25),41.76,Inventory Item,104.34,160.24,3/26/2023,9/15/2025
+1991,Smurfs Shampoo (1�15),45,Inventory Item,85.59,122.94,7/20/2024,3/24/2026
+1992,Almarai Juice 235 ml (1�27),48.852,Inventory Item,100.77,150.99,2/1/2025,11/16/2025
+1993,Fairy Dishwasher Tablets 71 Tabs (�4),2,Inventory Item,84.3,103.29,5/24/2023,8/21/2025
+1994,Fairy Dishwasher Tablets 66 Tabs (�4),9.5,Inventory Item,82.26,116.19,5/12/2025,4/13/2027
+1995,Abu Taj Tomatoes (Al-Awda) + Abu Ragheb (1�4),164.75,Inventory Item,75,103.94,6/28/2025,2/9/2026
+1996,Heinz Ketchup Sachet 285 g (1�12),3,Inventory Item,90.82,137.72,11/9/2024,5/21/2026
+1997,Cheap Toothpaste (1�18�12),45,Inventory Item,20.72,32.18,2/16/2024,11/18/2026
+1998,Prima Fava Beans,3,Inventory Item,105.94,117.18,8/12/2023,5/13/2024
+1999,Zeta Pickles 7�9,3,Inventory Item,104.88,150.71,8/8/2023,5/16/2024
+2000,Zeta Pickles 18�25,19,Inventory Item,5.45,6.14,6/28/2023,6/3/2026
+2001,Zeta Pickles 30�36,38,Inventory Item,99.45,136.69,9/22/2024,7/22/2027
+2002,Bambel Pads (1�4),2130,Inventory Item,17.21,21.41,3/8/2024,1/27/2025
+2004,Bambel Wet Wipes (�24),91,Inventory Item,41.54,52.07,9/22/2023,8/16/2026
+2005,Spaghetti Pasta 400 g (1�20),478,Inventory Item,89.73,114.54,3/4/2024,9/26/2024
+2006,Zadna Pickled Peppers (1�24),24.167,Inventory Item,20.97,29.58,10/23/2024,4/22/2027
+2007,Number One Promo Date,24,Inventory Item,98.52,124.83,2/20/2024,1/29/2026
+2008,Vita Chocolate Spread 400 g,24,Inventory Item,100.19,146.91,3/28/2024,8/3/2026
+2009,Lentils Sack,1760,Inventory Item,61.88,80.58,12/27/2024,9/14/2025
+2010,Nescafe Gold Brandy (1�6),1.667,Inventory Item,2.75,3.12,7/16/2023,3/14/2025
+2011,Royal Chips (1�50),24,Inventory Item,35.87,53.51,7/7/2024,8/9/2026
+2012,Mesli Chips,12,Inventory Item,74.8,92.97,2/22/2023,11/19/2025
+2013,Cadbury Dairy Milk (1�18 + 1�12),770.417,Inventory Item,117.78,155.04,4/24/2024,2/11/2026
+2014,Kinder Kinderini (1�10),7,Inventory Item,76.55,110.44,3/18/2024,10/19/2026
+2015,Ariel 7 kg White,8099,Inventory Item,32.66,41.36,11/26/2023,11/1/2024
+2016,Camara Cake (1�6),798,Inventory Item,76.81,86.66,9/8/2023,6/22/2026
+2018,Cadbury Delight (1�9�16),238.188,Inventory Item,65.72,84.58,3/17/2025,10/19/2026
+2019,Maher Hazelnuts (1�26),2.667,Inventory Item,94.02,147.82,6/8/2025,4/26/2027
+2020,Cheap Rice 10 kg,3175,Inventory Item,14.62,20.77,2/21/2025,9/26/2025
+2021,Celebrations Gifts Carton 500 g (1�12),2.5,Inventory Item,91.8,131.8,5/3/2023,3/23/2025
+2022,Moto Biscuits (1�6),56.667,Inventory Item,65.87,93.28,5/28/2025,12/21/2026
+2023,Digestive Biscuits 17 g (1�12),1,Inventory Item,115.63,138.7,1/22/2024,7/2/2026
+2024,Diamond Foil 37.5 ft Double Promo (1�24),134,Inventory Item,42.34,55.43,12/5/2023,10/8/2025
+2025,Ariel 50 Tablets (1�3),9,Inventory Item,76.65,113.09,2/16/2025,3/2/2026
+2026,Ariel 7 kg Color,609,Inventory Item,111.98,128.85,12/14/2023,2/20/2025
+2027,Tiger Chips (1 Shekel) (1�40),43,Inventory Item,14.1,17.47,1/29/2023,1/22/2024
+2028,Marina Sunflower Oil 5 L (1�3),58,Inventory Item,112.59,139.4,2/4/2023,1/30/2025
+2029,Larch Cake (1�24),79,Inventory Item,83.17,109.45,6/1/2024,7/14/2026
+2030,Finish Salt 2 kg (1�10),18.8,Inventory Item,10,15.9,1/31/2024,8/21/2025
+2031,Foil 1 kg (1�12),43.417,Inventory Item,37.51,42.53,9/14/2024,4/14/2026
+2032,Russian Butter Biscuits (1�18),35,Inventory Item,85.56,116.31,10/21/2023,4/19/2026
+2033,Russian Stuffed Butter Biscuits (1�18),53,Inventory Item,9.95,11.84,8/11/2024,7/14/2025
+2034,Freshly White Vinegar 946 ml (1�12),787,Inventory Item,70.7,112.08,12/15/2023,6/15/2024
+2035,Finish Dishwasher Tablets 40 Tabs (1�5),76.6,Inventory Item,42.81,49.52,5/27/2023,5/7/2024
+2036,Blue Mary Tuna with Corn 150 g (1�48),56,Inventory Item,75.27,97.99,3/8/2023,12/14/2024
+2037,Top Cappuccino (1�20),56,Inventory Item,7.4,10.87,6/22/2025,1/31/2027
+2038,Choco Break (1�24),113.708,Inventory Item,104.84,152.26,6/3/2024,1/15/2026
+2039,Barrel Tomatoes 235 kg,9336,Inventory Item,116.87,153.26,5/2/2023,5/19/2024
+2040,Heinz Mayonnaise Glass Jar 315 g (1�12),1,Inventory Item,116.33,148.12,12/6/2023,12/13/2024
+2041,Nutella B-Ready Mini (�) (�10),1,Inventory Item,90.46,117.49,6/24/2023,8/11/2024
+2043,Tiger Chips Jumbo Family 85 g (3.5 Shekel) (�12),4,Inventory Item,17.35,21.38,6/18/2025,12/2/2027
+2044,Tiger Chips 50 g (2 Shekel) (�12),35,Inventory Item,91.48,110.02,11/21/2024,10/16/2025
+2045,Souffl� Cake (1�6),6,Inventory Item,4.9,6.57,8/19/2024,7/23/2025
+2046,Cornet Cones (1�6),119.667,Inventory Item,4.61,5.69,3/26/2024,6/27/2025
+2047,Vitrac Jam 450 g (1�12),47.667,Inventory Item,40.19,49.99,7/10/2024,4/1/2027
+2048,Tago Roll (1�30),65,Inventory Item,59.66,85.22,5/16/2023,12/19/2024
+2049,Palm Molokhia 400 g (1�8),16,Inventory Item,92.91,147.19,5/4/2025,4/10/2028
+2050,Palestinian Seeds 90 g (1�24),1,Inventory Item,82.63,115.83,1/16/2023,5/22/2025
+2051,Turkish Pasta Shapes 400 g (�20),1,Inventory Item,54.62,62.18,11/29/2023,4/2/2025
+2052,Turkish Lasagna (�16),234,Inventory Item,34.29,39.01,7/14/2023,3/17/2024
+2053,Gum Zazi (1�48),35,Inventory Item,119.66,188.55,5/10/2024,2/11/2026
+2054,Mini Cups Wafer Biscuits 125 g (1�24),5,Inventory Item,52.29,65.29,1/9/2023,10/3/2023
+2055,Todo Cake (1�8),65,Inventory Item,55.26,63.33,4/7/2025,5/8/2026
+2056,Marshmallow (� Shekel) (1�12),340,Inventory Item,21.31,29.82,11/30/2023,5/28/2024
+2057,Lollipop Jar (� Shekel),81.667,Inventory Item,95.79,135.24,11/29/2023,10/8/2024
+2058,Agoura Lollipops (1�12),70,Inventory Item,83.85,119.42,11/23/2023,4/17/2026
+2059,Nougat Fruity (1�16),268.75,Inventory Item,28.05,34.61,1/15/2023,6/28/2024
+2060,Niso Biscuits (1�6),45,Inventory Item,11.72,12.98,4/18/2025,3/3/2026
+2061,Global Sliced Olives (1�24),7,Inventory Item,82.3,130.24,9/5/2024,11/11/2026
+2062,Global Pitted Olives (1�24),10.5,Inventory Item,79.23,97.09,8/14/2023,6/21/2024
+2063,Lollipop Stand (1�6),50,Inventory Item,34.24,49.24,2/29/2024,5/8/2026
+2064,Ricoco (1�6),1050,Inventory Item,114.2,165.97,2/28/2025,2/20/2026
+2065,Aloha Biscuits (1�6),585,Inventory Item,19.82,27.85,2/12/2024,10/28/2026
+2066,Tody Biscuits (1�6),1178,Inventory Item,53.02,66.62,4/23/2023,10/11/2024
+2067,Lasheef Kitchen Towels (1�6),41.333,Inventory Item,113.35,140.05,3/3/2024,9/13/2025
+2068,HD (1�6),90,Inventory Item,51.53,72.08,1/1/2023,12/23/2025
+2069,Snowball Cake (1�6),2,Inventory Item,77.35,118.58,9/23/2023,8/8/2026
+2070,Niso + Mr Bite Clif (1�6),99.667,Inventory Item,48.92,76.97,5/5/2024,8/20/2026
+2071,Ammar Dark Chocolate (1�12),679,Inventory Item,34.36,39.62,7/27/2023,4/16/2025
+2072,Go Time Cake (1�6),336,Inventory Item,118.11,139.06,9/13/2024,10/18/2026
+2073,Best One Biscuits (1�6),168,Inventory Item,50.3,79.09,12/12/2024,9/15/2026
+2074,Prince Biscuits (1�6),359,Inventory Item,107.5,157.84,1/4/2024,10/17/2024
+2075,Tody Cake Bar,2320,Inventory Item,29.13,44.9,11/2/2023,8/29/2024
+2076,Marshmallow Rope (1�12),160,Inventory Item,27.15,32.62,1/12/2023,7/27/2023
+2077,Jelly Cake (1�12),36,Inventory Item,5.67,7.9,12/11/2023,12/20/2024
+2078,Lavira Biscuits (1�6),70,Inventory Item,78.9,114.45,4/9/2024,8/28/2025
+2079,Jelly Pudding (1�10),324,Inventory Item,45.49,65.51,11/30/2024,4/11/2026
+2080,Captain Chocolate (1�6),105,Inventory Item,103.99,135.61,10/27/2024,7/12/2027
+2082,Dance Milk Biscuits (1�6),64,Inventory Item,57.84,64.07,5/8/2024,2/25/2026
+2083,Chicken Wings Sauce 354 g (1�12),20,Inventory Item,116.25,161.76,1/3/2024,3/9/2025
+2084,Coconut Cookies (1�12),144,Inventory Item,23.89,29.3,4/25/2025,3/8/2027
+2085,Love You Gum (1�24),220,Inventory Item,104.5,138.48,2/24/2024,12/18/2024
+2086,Firstek Biscuits (1�6),422,Inventory Item,93.64,147.84,6/7/2025,10/8/2027
+2087,HoHos Strawberry (1�6),15,Inventory Item,92.97,120.82,3/1/2025,8/7/2027
+2088,Biscapy Chocolate (1�12),210.75,Inventory Item,101.68,154.54,6/20/2023,4/27/2025
+2089,Like Home Cake (1�6),355.167,Inventory Item,91.8,109.63,5/14/2023,3/9/2025
+2090,Chocolate Nougat (1�12),96,Inventory Item,75.89,109,3/2/2024,10/12/2024
+2091,Delfina Biscuits (1�6),90,Inventory Item,17.49,27.78,1/25/2023,6/1/2024
+2092,Paper Cups 4 oz (1�20),20,Inventory Item,5.84,6.72,6/13/2024,6/6/2025
+2093,King Kat Chocolate (1�12),780,Inventory Item,110.66,122.19,7/9/2023,6/16/2026
+2094,Al-Aqsa Corn Starch Mabkat (1�16),11,Inventory Item,74.76,98.44,5/21/2023,1/7/2025
+2095,Tao Tao Chocolate (1�12),168.583,Inventory Item,95.99,110.03,7/8/2024,7/13/2026
+2096,King Man Chocolate (1�12),140,Inventory Item,58.82,86.71,4/25/2025,12/13/2027
+2097,Aldor Lollipops 80 pcs (1�6),8.5,Inventory Item,15.84,24.67,3/6/2025,11/18/2025
+2098,Gold Day Cappuccino (1�20),1,Inventory Item,16.77,22.09,10/19/2024,3/8/2026
+2099,Mini Cups Wafer Biscuits 250 g (1�12),1,Inventory Item,82.9,101.91,11/11/2023,3/29/2026
+2100,Zadna Pickles Mixed Promo (Pepper + Tomato + Eggplant + Pickles) (1�3),42,Inventory Item,52.78,69.52,3/19/2024,9/6/2025
+2101,Club Soda (1�24),79,Inventory Item,25.66,37.51,11/15/2023,7/2/2025
+2102,Fairy Clear 900 ml (1�8),90.75,Inventory Item,60.01,66.28,3/16/2024,2/8/2026
+2103,Fairy Clear 1450 ml (1�9),28,Inventory Item,9.58,13.36,4/2/2023,4/29/2024
+2105,Rima Paper Towels 150 g (1�20),14,Inventory Item,70.67,99.41,6/28/2023,4/26/2026
+2106,Vitrac Jam 240 g Promo (1�4),19,Inventory Item,33.74,47.87,2/25/2023,11/5/2023
+2107,Coco Coconut + Strawberry + Banana (1�6),3,Inventory Item,96.11,117.35,6/4/2023,6/15/2025
+2108,Fury Chocolate (1�24),245,Inventory Item,38.62,56.27,11/2/2024,11/30/2026
+2109,Morino + Nobi + Sing Song (1�6),35,Inventory Item,55.72,63.84,4/21/2023,3/9/2025
+2110,Puck Mozzarella Cheese 2.3 kg (1�8),140,Inventory Item,3.37,4.04,5/17/2023,10/9/2024
+2111,Family Rice (1�4),325,Inventory Item,10.55,16.23,8/20/2023,5/18/2024
+2112,Nutella Biscuit Bag (1�18),11.5,Inventory Item,48.31,70.98,4/12/2024,8/27/2026
+2113,Ariel 7 kg Turkish,168,Inventory Item,58.63,64.9,1/1/2025,4/17/2027
+2114,Ariel 5 kg Turkish,3003,Inventory Item,72.8,89.12,4/25/2024,3/24/2026
+2115,Vita Grape Drink 200 ml (1�40),45,Inventory Item,36.42,43.97,3/9/2023,5/30/2024
+2116,Abu Taj Ketchup + Mayonnaise Promo (1�12),63,Inventory Item,84.01,103.79,3/24/2025,9/30/2026
+2117,Vermicelli Bulk Sack,168,Inventory Item,103.49,126.65,9/6/2023,6/15/2026
+2118,Olive Oil 15 g,1200,Inventory Item,94.02,106.36,11/19/2023,5/20/2024
+2119,Bambel Pads No.7 (1�5),50,Inventory Item,6.68,8.88,6/22/2025,5/5/2026
+2120,Bavaria 1 L Promo 3+1,658,Inventory Item,58.7,86.08,6/1/2024,7/16/2025
+2121,Kiri Cheese 6 Pieces (1�60),6.7,Inventory Item,14.38,20.18,3/2/2025,4/20/2027
+2122,Foil 7 m (1�24),18,Inventory Item,30.56,43.9,3/7/2024,2/13/2026
+2123,Rolana Gifts 400 g (1�6),52.5,Inventory Item,118.43,135.08,5/1/2024,12/18/2024
+2124,Nutella 825 g (1�6),2,Inventory Item,18.81,29.64,8/28/2024,12/1/2026
+2125,Zeta Vinegar 1 L (1�12),4,Inventory Item,60.87,92.48,3/4/2024,8/23/2026
+2126,Zeta Lemon Juice 1 L (1�12),35,Inventory Item,74.94,112.6,9/26/2023,2/11/2025
+2127,Qaymar Cream,46,Inventory Item,84.89,128.31,12/9/2024,11/28/2027
+2128,Fine Toilet Paper 24 Rolls (1�4),5.5,Inventory Item,68.04,106.57,6/20/2024,12/17/2026
+2129,American Walnuts 10 kg,7.5,Inventory Item,3.15,4.32,5/28/2023,11/9/2025
+2130,Finish Quantum Dishwasher Tablets 15 Tabs (1�7),346,Inventory Item,40.52,48.63,4/28/2023,10/16/2025
+2131,Queen Pineapple Slices + Cocktail 830 g (1�24),25.167,Inventory Item,63.09,88.86,4/29/2025,7/29/2026
+2132,Al-Awda Ajwa Dates 500 g (1�24),0.917,Inventory Item,12.37,18.2,1/2/2024,12/17/2025
+2133,Global Beans 400 g (1�24),23.5,Inventory Item,43.37,63.71,4/29/2025,2/23/2027
+2134,Shteibel Semolina (1�10),2,Inventory Item,5.92,8.06,3/7/2023,1/30/2025
+2135,Snickers + Mars Bar (1�17),0.118,Inventory Item,11.27,12.78,3/23/2025,2/17/2026
+2136,Del Monte Pineapple Slices 235 g (1�48),0.333,Inventory Item,48.84,62.79,1/5/2024,10/28/2025
+2137,Bredox Detergent Powder 9 kg,67,Inventory Item,17.66,27.56,6/24/2023,9/4/2024
+2138,Saeed Chocolate (1�4�36 pcs),46.5,Inventory Item,68.97,96.02,4/10/2025,8/26/2026
+2139,Silpak Toilet Paper 32 Rolls (1�3),96.667,Inventory Item,83.36,114.13,8/10/2024,6/24/2027
+2140,Marina Sunflower Oil 3 L (1�6),78,Inventory Item,96.47,119.09,5/9/2024,4/21/2025
+2141,Tissue Rolls 4 kg,78,Inventory Item,25.62,32.9,4/24/2023,9/7/2025
+2142,Kitchen Tissue Rolls 600 g (1�6),56,Inventory Item,21.76,33.68,4/21/2023,8/22/2024
+2143,Fairy Dishwasher Tablets 41 Tabs (1�5),75,Inventory Item,14.34,20.55,1/30/2025,10/9/2027
+2144,Pleasure Chocolate (1�24),31,Inventory Item,77.1,115.16,3/14/2024,1/1/2026
+2145,Sarli Chocolate (1�6),45,Inventory Item,85.36,113.29,12/15/2024,8/7/2025
+2146,Del Monte BBQ Sauce 510 g (1�12),318,Inventory Item,5.73,8.11,5/27/2023,8/3/2025
+2147,Tekritos Chips (1�12),5.917,Inventory Item,112.47,137.68,2/4/2023,11/17/2024
+2148,Oxi Detergent Powder 8 kg,2098,Inventory Item,8.13,11.81,11/5/2023,2/22/2025
+2149,Oxi Detergent Powder 5 kg (1�3),133,Inventory Item,65.87,86.54,6/21/2024,3/23/2026
+2150,Oxi Gel 3 L (1�4),28,Inventory Item,85.67,113.19,1/19/2025,6/6/2026
+2151,Tims Dishwasher Tablets 36 Tabs (1�6),78,Inventory Item,104.77,149.26,1/14/2023,10/3/2025
+2152,Tims Dishwasher Tablets 56 Tabs + Dish Liquid (1�5),170,Inventory Item,86.26,135.27,1/9/2024,10/30/2026
+2153,Kinder Mini Friends (T20�15),24,Inventory Item,96.6,109.35,7/10/2024,5/26/2025
+2154,Kinder Bueno Pistachio Eggs (T8�12),54,Inventory Item,42.06,63.61,3/3/2024,6/27/2026
+2155,Two Bite Biscuits (1�8),16,Inventory Item,98.15,122.31,12/28/2024,3/14/2026
+2156,Chocolate Snack Biscuits,55,Inventory Item,11.45,15.14,8/21/2023,4/11/2026
+2157,Pringles (1 Shekel) (1�50),113.02,Inventory Item,107.59,119.53,12/5/2024,7/27/2026
+2158,Cheap Triangle Cheese (1�36),0.917,Inventory Item,66.62,83.31,7/16/2024,1/25/2027
+2159,Smurfs Shampoo 4 L,32,Inventory Item,98.44,133.02,6/5/2025,7/30/2026
+2160,Nana Daily Pads (Medium 1�4 + Long 1�5),67,Inventory Item,55.37,62.46,12/26/2024,6/13/2026
+2161,Nana Double Pads,5,Inventory Item,77.94,104.87,10/24/2024,8/18/2027
+2162,Comfort Fabric Softener 2 L (1�6),67,Inventory Item,64.12,100.26,3/15/2024,10/20/2026
+2163,Azhaiman Coffee Ounce,67,Inventory Item,88.33,101.82,5/16/2024,12/12/2026
+2164,Molto King (2.5 Shekel) (1�12),17,Inventory Item,11.63,17.24,10/2/2023,11/8/2025
+2165,Spark Deodorant (1�12),1525,Inventory Item,9.12,11.9,4/29/2025,4/23/2026
+2166,Al-Mawarid Semolina (1�10),45,Inventory Item,31.16,44.48,3/17/2023,11/17/2023
+2167,Ferrero 8 Fingers,34,Inventory Item,20.83,25.62,3/14/2024,12/8/2026
+2168,Zadna Sliced Green Olives (1�24),1,Inventory Item,104.87,123.72,1/1/2025,6/12/2026
+2169,Zadna Pitted Green Olives (1�24),15,Inventory Item,27.87,32.89,5/9/2025,4/24/2026
+2170,Zadna Green Olives with Pit (1�24),17,Inventory Item,117.15,132.99,11/29/2024,9/13/2026
+2171,Tiger Chips (1 Shekel) (1�30),11,Inventory Item,41.75,49.8,10/16/2023,9/28/2025
+2172,Bredo Double Pads (1�4),7,Inventory Item,23.49,33.64,6/23/2024,12/21/2025
+2173,Bredo Underwear Pads (1�5),4,Inventory Item,95.18,146.66,6/9/2025,3/22/2026
+2174,Oki Fabric Freshener 500 ml,71,Inventory Item,79.73,120.16,11/22/2024,8/2/2026
+2175,Finish Quantum Dishwasher Tablets 80 Tabs (1�5),268,Inventory Item,60.79,87.69,9/10/2023,6/20/2026
+2176,Zad Flour 1 kg (1�10),243,Inventory Item,67.53,78.01,5/6/2023,6/15/2024
+2177,Herbal Conditioner 250 ml (1�6),11,Inventory Item,86.87,108.12,6/26/2023,3/10/2025
+2178,Marina Tuna Promo (4/12) 120 g (1�48),92,Inventory Item,28.96,36.34,2/6/2023,10/19/2024
+2180,Betty Bear Magico 800 g (1�8),332.25,Inventory Item,119.57,146.47,2/14/2024,9/11/2025
+2181,Storm Insecticide Spray 630 ml (1�12),2.5,Inventory Item,117.03,158.87,9/2/2024,2/26/2027
+2182,Rolana Gift Carton 700 g (1�6),20,Inventory Item,78.74,107.7,9/1/2024,10/1/2026
+2183,Kinder Country (1�4�20),8.75,Inventory Item,25.55,32.66,5/7/2023,1/25/2024
+2184,Indomie Fried Noodles (1�40),65,Inventory Item,82.27,105.05,4/27/2024,6/30/2026
+2185,Al-Zahraa Sugar-Free Jelly (1�12),25,Inventory Item,10.52,15.93,6/17/2023,6/16/2025
+2186,Betty Bear Gold 600 g (1�8),56,Inventory Item,5.62,8.4,8/14/2024,2/22/2025
+2187,Vida Drink 325 ml (1�24),182,Inventory Item,32.41,40.64,10/21/2023,7/5/2026
+2188,Almarai Chocolate Milk Promo Date 200 ml (1�27),10,Inventory Item,56.59,88.1,4/24/2025,1/23/2028
+2189,Zadna Sliced Black Olives (1�24),60.5,Inventory Item,104.46,164.67,9/29/2024,2/18/2027
+2190,Hermann Chili Sticks 88 ml (�36),20.917,Inventory Item,87.81,110.94,12/9/2023,10/11/2025
+2191,Oxi Detergent Powder 3 kg (1�4),3,Inventory Item,89.64,114.49,11/6/2023,1/26/2025
+2192,Bariq Cleaner Bucket 3.5 kg,34,Inventory Item,52.21,70.63,10/23/2024,9/27/2026
+2193,Shteibel Flour (1�10),3,Inventory Item,42.82,67.25,6/11/2024,4/6/2025
+2194,Al-Afiya Tuna Chunks 160 g,43,Inventory Item,45.78,70.42,6/23/2024,12/7/2025
+2195,Siniora Chicken Mortadella Large 800 g (1�12),5,Inventory Item,118.54,136.47,2/23/2024,10/16/2024
+2196,Siniora Turkey Mortadella Double 800 g,3,Inventory Item,6.73,8.72,3/19/2024,10/24/2024
+2197,Finish Ultimate Dishwasher Tablets 48 Tabs (1�6),33,Inventory Item,104.31,143.6,11/15/2024,10/16/2027
+2198,Blue Tutti Frutti Drink (1�24),25,Inventory Item,70.28,94.99,7/11/2024,12/8/2025
+2199,Marina Sultan Tuna with Corn 160 g,285,Inventory Item,53.76,64.35,4/19/2025,7/17/2027
+2200,Laverds Biscuits (1�12),22,Inventory Item,87.58,133.95,8/24/2023,8/10/2024
+2201,Al-Faisal Sunflower Oil 3 L,6,Inventory Item,59.43,85.49,3/14/2024,3/10/2026
+2202,Galaxy Flutes (2 Shekel) 22.5 g (1�12),64,Inventory Item,105.06,159.58,8/2/2023,10/13/2024
+2203,Canary Juice 330 ml (1�24),80,Inventory Item,108.28,165.6,3/26/2023,2/25/2026
+2204,Bariq Fabric Softener 3 L,34,Inventory Item,51.76,76.3,3/4/2025,1/29/2027
+2205,Original Juice Carton (1�28),5,Inventory Item,34.67,45.75,1/13/2025,7/11/2027
+2206,Safety Milk 350 g (1�24),3,Inventory Item,71.9,101.04,3/26/2023,2/25/2025
+2207,Safety Milk 750 g (1�12),34,Inventory Item,109.66,129.42,5/3/2024,4/11/2027
+2208,Mr. Bite Strike Dark (1�6),1,Inventory Item,26.86,38.59,3/6/2023,12/18/2025
+2209,Chocolate Spread 350 g (1�12),55.333,Inventory Item,75.51,89.83,10/7/2024,7/30/2025
+2210,Rice Mortadella 200 g,693,Inventory Item,76.52,110.72,10/24/2024,10/22/2025
+2211,Oki Dishwashing Liquid 4 L (1�4),13.5,Inventory Item,88.51,107.52,9/18/2024,9/8/2027
+2212,Bambel Wet Tissues (1�12),31,Inventory Item,17.52,20.3,3/5/2023,1/21/2026
+2213,Laziza Tomatoes 400 g (1�24),34,Inventory Item,86.47,102.26,12/9/2023,9/29/2024
+2214,Jumbo Kitchen Towels (1�8),10,Inventory Item,109.27,120.31,5/24/2025,4/30/2026
+2215,Piros Detergent Powder 9 kg (1�2),3,Inventory Item,23.2,33.86,12/18/2023,1/14/2026
+2216,Brihan Tuna 140 g (1�48),1308,Inventory Item,30.03,44.03,6/7/2023,11/14/2025
+2217,Za�atar Sack 25 kg,67869,Inventory Item,116.62,158.31,8/11/2024,8/3/2026
+2218,Sage 1 kg,2579,Inventory Item,23.36,27.58,5/5/2024,6/10/2026
+2219,Piros Detergent Powder 1.5 kg (1�12),1140,Inventory Item,102.82,117.4,10/19/2024,12/9/2025
+2220,Digestive Biscuits 400 g (1�20),210,Inventory Item,60.09,66.67,5/4/2025,2/16/2028
+2221,Iced Tea Cans 330 ml (1�24),20,Inventory Item,31.17,36.87,4/7/2024,12/8/2024
+2222,Amigo Juice 480 ml (1�15),21,Inventory Item,104.75,161.88,8/13/2023,4/18/2024
+2223,Ariel 3 kg Turkish (1�6),486,Inventory Item,54.55,66.59,11/9/2023,7/24/2026
+2224,Chocolate Nuts Boy (1�6),1,Inventory Item,62.75,80.14,9/6/2024,5/25/2026
+2225,Pepsi Cans + 7UP 150 ml (1�30),440,Inventory Item,44.39,51.17,5/8/2025,12/24/2026
+2226,Oats Bundle (1�18),267,Inventory Item,71.97,87.17,3/23/2025,3/4/2027
+2227,Cream Rolls (1�24),67,Inventory Item,21.3,28.96,4/10/2024,12/21/2025
+2228,Global Pasta Shapes 500 g (1�24),13,Inventory Item,48.15,67.6,3/29/2023,10/1/2025
+2229,Global Spaghetti Pasta 450 g (1�20),17.35,Inventory Item,116.39,142.31,6/1/2025,3/6/2027
+2230,Betty Bear 1 kg (1�6),324,Inventory Item,32.46,36.64,10/30/2023,5/27/2025
+2231,Al-Aqsa Za�atar Jar (1�16),3,Inventory Item,79.49,102.98,11/10/2024,4/19/2027
+2232,Ibon Candies (1�8),578,Inventory Item,40.37,49.13,3/10/2024,3/10/2026
+2233,Dubai Trend 35 g (1�6),67,Inventory Item,93.27,112.84,11/12/2024,2/26/2027
+2234,Dubai Trend Coconut 35 g (1�12),56,Inventory Item,17.44,27.55,5/15/2023,5/20/2025
+2235,Moriyo Coconut 20 g (1�12),56,Inventory Item,116.44,163.97,2/19/2023,9/15/2024
+2236,Look Me Chocolate Bulk 5 kg,8,Inventory Item,55.55,76.57,3/7/2024,7/25/2025
+2237,Look Me Chocolate 35 g (1�6),335,Inventory Item,29.85,39.04,12/6/2023,11/12/2026
+2238,Maggi Chicken Stock Powder (1�12),3.583,Inventory Item,10.67,14.03,12/13/2023,9/8/2024
+2239,Sanou Puff Snacks (1�12),46,Inventory Item,22.03,30.19,10/7/2024,4/24/2027
+2240,Sanou Gas Cleaner (1�12),46,Inventory Item,63.33,91.72,12/13/2023,8/18/2024
+2241,Jacobs Green Nescafe (1�6),3,Inventory Item,41.77,60.61,10/10/2024,9/20/2025
+2242,Al-Khayrat Iced Coffee (1�30),16,Inventory Item,99.81,118.36,9/2/2023,12/1/2025
+2243,Al-Rajeh Bleach Concentrated 4 L (1�6),63,Inventory Item,52.84,71.34,4/19/2023,5/16/2024
+2244,Clever Shampoo 700 ml (1�12),10,Inventory Item,31.35,40.94,4/4/2025,1/30/2028
+2245,Del Monte Pineapple Slices 840 g (1�24),16,Inventory Item,74.82,114.87,3/9/2025,4/28/2027
+2246,Pepsi 330 ml (1�24),6,Inventory Item,85.4,120.9,6/16/2024,11/12/2025
+2247,Al-Aqsa Soup (1�10),10,Inventory Item,21.71,29.66,3/31/2023,10/29/2025
+2248,Pantene 220 ml 3mm (1�6),27,Inventory Item,21.78,25.21,10/23/2023,4/23/2025
+2249,Pantene 300 ml Pump,24,Inventory Item,6.33,8.88,4/22/2023,2/25/2026
+2250,Pantene Keratin Oil 100 ml,12,Inventory Item,88.9,103,3/23/2025,4/25/2027
+2251,Pantene Conditioner 275 ml,12,Inventory Item,80.33,101.91,8/11/2024,12/15/2026
+2252,Pantene 400 ml (Premium),13,Inventory Item,58.01,67.95,6/26/2023,2/9/2024
+2253,Pantene Hair Mask 500 ml,12,Inventory Item,101.61,146.93,12/9/2023,7/27/2024
+2254,Farida Floor Freshener 490 ml (1�12),4356,Inventory Item,97.07,116.79,10/21/2024,2/1/2026
+2255,Farida Air Freshener Spray 460 ml (1�6),45,Inventory Item,71.07,92.1,4/11/2023,12/5/2025
+2256,Badeen Fabric Freshener Spray 500 ml (1�12),345,Inventory Item,104.46,161.69,1/27/2025,4/12/2027
+2257,Verran Adhesive Bandage (1�100),5,Inventory Item,26.29,31.6,9/20/2024,11/12/2025
+2258,Cotton Ear Swabs (1�24),5,Inventory Item,15.21,20.59,8/26/2024,7/4/2025
+2259,Johnson�s Oil 300 ml (1�12),216,Inventory Item,33.83,44.3,2/5/2024,9/27/2026
+2260,Gillette Blue II Plus Razors 6 Blades (1�120),90,Inventory Item,8.74,9.69,1/28/2023,1/8/2024
+2261,Listerine Mouthwash (1�12),120,Inventory Item,64.68,96.79,6/20/2024,12/25/2025
+2262,Vaseline 100 ml (1�144),56,Inventory Item,112.52,127.66,2/27/2023,9/1/2024
+2263,Women Razors 10 Blades (1�240),456,Inventory Item,6.64,8.88,5/12/2024,1/21/2027
+2264,Johnson�s Baby Powder 100 g (1�96),34546,Inventory Item,16.41,22.65,10/24/2023,8/11/2025
+2265,Tax Blue Heat (1�125),45,Inventory Item,55.36,78.29,5/14/2023,12/3/2025
+2266,Cotton Ear Swabs (1�30),45,Inventory Item,112.2,162.05,11/27/2023,9/15/2025
+00000PRS3,Persil Liquid 2.7 L (1�6),132.333,Inventory Item,39.31,48.22,9/6/2023,6/13/2026
+0000BBINJ,Bengal (1�60),1254,Inventory Item,61.85,68.34,7/3/2024,10/10/2026
+0000BCO10,Cologne 10 kg (2�1),275,Inventory Item,6.91,10.1,6/20/2025,7/30/2027
+0000BCOC3,Cologne 3 kg (6�Carton),565,Inventory Item,19.5,26.67,3/16/2023,7/24/2025
+0000BDETO,Dettol Spray 500 ml,245,Inventory Item,118.42,179.77,10/15/2024,1/7/2027
+0000BDL50,Dettol Liquid 500 ml (1�24),329,Inventory Item,115.88,175.06,4/13/2025,8/28/2027
+0000BDL75,Dettol Liquid 750 ml (1�12),209,Inventory Item,2.58,3.93,6/17/2023,10/8/2024
+0000BDS72,Dettol Soap (1�72),482,Inventory Item,114.31,153.47,2/9/2025,10/28/2025
+0000BFBGA,Finish Dishwasher Powder 2.7 kg Super Finish,140,Inventory Item,77.42,98.08,5/17/2024,2/7/2025
+0000BFHDD,Huggies Double Pads,4816,Inventory Item,104.41,156.17,6/3/2025,7/12/2026
+0000BFL50,Finish Rinse Aid Liquid 800 ml (1�12),703,Inventory Item,55.66,73.79,12/21/2023,7/3/2024
+0000BFO44,Finish Dishwasher Tablets 44 Tabs (7�1),72,Inventory Item,62.84,74.89,8/13/2023,5/10/2026
+0000BFS02,Finish Dishwasher Salt 1.5 kg (1�9),6,Inventory Item,59.68,91.16,10/25/2024,4/15/2026
+0000BHARB,Harpic (1�12),1585.25,Inventory Item,80.69,124.37,6/14/2024,5/22/2025
+0000BID00,Aproik Refill,235,Inventory Item,18.48,24.64,5/26/2023,7/23/2025
+0000BKBTH,Calenda Triple Powder,0.6,Inventory Item,5.54,6.3,8/29/2023,12/23/2025
+0000BKL03,Kalia Pink Liquid 3 L (1�6),1006,Inventory Item,38.34,49.61,6/2/2025,4/26/2027
+0000BMH03,Huggies Medium Red,433.667,Inventory Item,85.15,127.88,6/11/2025,11/22/2026
+0000BMHMM,Huggies Wet Wipes,14539,Inventory Item,25.82,40.04,12/10/2023,12/2/2026
+0000BMKBA,Balco Nicole Kitchen Towels,209.833,Inventory Item,81.47,97.91,1/18/2025,5/28/2027
+0000BQA00,Diamond Aluminum Foil 75 ft (1�24),114,Inventory Item,116.45,131.99,2/4/2023,11/8/2024
+0000BQA01,Diamond Aluminum Foil Small 25 ft (1�24),2.5,Inventory Item,13.08,20.13,12/2/2024,9/4/2027
+0000BQA02,Diamond Aluminum Foil Large (1�24),80.708,Inventory Item,81.37,105.35,1/1/2023,10/13/2025
+0000BREDB,Red Bull (1�24),103,Inventory Item,54.36,74.52,6/2/2023,12/7/2024
+0000BSA60,Spira Tablets (1�30),236.375,Inventory Item,104.44,165.44,3/4/2024,11/30/2024
+0000BSD30,Spira Device 30 + Tablets (1�24),1,Inventory Item,22.9,25.95,5/22/2024,5/17/2025
+0000BSL45,Spira Single Liquid 45 Nights (1�30),4240,Inventory Item,83.73,119.24,5/6/2023,11/13/2025
+0000BSLM0,Spira Liquid + Machine (1�24),7,Inventory Item,100.9,114.73,5/5/2024,8/28/2025
+0000BSOLD,Spira Double Liquid Promo (1�24 Twin Pack),1149,Inventory Item,113.46,146.11,4/26/2024,8/13/2026
+0000BSOML,Spira Tablet + Machine + Liquid Promo (1�24),762,Inventory Item,82.62,124.09,12/11/2023,8/8/2026
+0000CC025,Cola Cans 250 ml (1�30),1387,Inventory Item,60.67,79.89,6/30/2025,7/3/2026
+0000CCA15,Cappy 1.5 L,1470,Inventory Item,74.91,119.75,1/7/2025,11/11/2027
+0000CCO01,Cola 1 L,2673,Inventory Item,104.53,144.2,8/9/2023,6/15/2026
+0000CCO02,Cola 2 L,282,Inventory Item,69.33,87.4,12/23/2024,4/30/2026
+0000CCO33,Cola Cans + Glass Bottles 330 ml,1126,Inventory Item,5.59,6.76,1/25/2023,11/27/2024
+0000CWATE,Small Water 0.5 L,254,Inventory Item,111.85,142.64,6/11/2024,4/14/2025
+0000LAAB1,Uncle Ben�s Rice 1 kg,82,Inventory Item,83.36,107.22,7/1/2023,5/29/2025
+0000LAAB5,Uncle Ben�s Rice 5 kg,51,Inventory Item,81.83,92.82,5/13/2024,1/8/2026
+0000LBA58,Bounty Bar 58 g (3 Shekel),3221,Inventory Item,27.45,35.27,4/20/2025,4/28/2027
+0000LGAJ7,Galaxy Jewels 650 g,452,Inventory Item,79.75,106.24,10/2/2024,10/16/2026
+0000LGAJ9,Galaxy Jewels 900 g,9,Inventory Item,48.48,70.85,2/11/2023,2/12/2024
+0000LGAL3,Galaxy Chocolate (3 Shekel),617,Inventory Item,78.85,112.63,4/25/2024,4/24/2026
+0000LGALJ,Galaxy Jewels 1.4 kg,8,Inventory Item,14.58,21.2,4/27/2025,1/19/2027
+0000LGAMR,Galaxy Dark Chocolate,817,Inventory Item,79.63,87.93,1/17/2025,10/29/2026
+0000LMARI,Mars Gifts + Snickers Gifts 522 g,36.667,Inventory Item,119.93,144.98,5/21/2025,11/24/2027
+0000LMM00,M&M�s Blue,69,Inventory Item,7.69,11,3/14/2024,3/28/2026
+0000LMR50,Mars Bar 50 g (3 Shekel),2493,Inventory Item,117.31,157.43,2/6/2024,1/31/2027
+0000LSN62,Snickers Bar 57 g (3 Shekel),5101,Inventory Item,50.02,55.15,6/29/2024,8/6/2025
+0000LSNI1,Snickers Gift Pack 342 g (1�12),36.583,Inventory Item,104.75,157.36,12/11/2023,11/8/2024
+0000LTW58,Twix Chocolate 58 g,2764,Inventory Item,94.32,140.2,6/11/2025,6/20/2027
+0000NC170,Coffee Mate 170 g,125,Inventory Item,68.91,94.7,2/14/2023,7/28/2024
+0000NC400,Coffee Mate 400 g Plastic (1�15),97.867,Inventory Item,89.14,101.02,10/7/2024,8/29/2025
+0000NC450,Coffee Mate Light 450 g,39.8,Inventory Item,105.66,156.72,1/21/2023,1/9/2026
+0000NC900,Coffee Mate Carton 900 g,63.833,Inventory Item,49.69,69.16,9/25/2024,10/20/2026
+0000NCOR4,Cerelac Wheat 400 g,442,Inventory Item,40.59,60.52,3/11/2023,8/20/2024
+0000NKARN,Carnation Milk 800 g,7,Inventory Item,80.78,119.22,5/13/2025,5/9/2026
+0000NKI2F,KitKat 2 Fingers (1�16),139,Inventory Item,97.33,146.14,5/22/2025,8/16/2027
+0000NKI4N,KitKat 4 Fingers (1�12),325,Inventory Item,91.95,124.96,2/17/2023,2/10/2024
+0000NKKSH,KitKat Chunky (1�8),6,Inventory Item,96.14,112.5,5/5/2024,12/9/2024
+0000NM900,Macintosh Toffee 900 g (1�4),102,Inventory Item,53.4,76.66,7/4/2024,2/10/2027
+0000NN020,Nescafe 3-in-1 Sticks 20 g (1�12),1723,Inventory Item,98.5,138.91,10/14/2023,9/21/2026
+0000NN022,Nescafe Green Stick 22 g (1 Shekel),293,Inventory Item,16.18,23.8,1/10/2023,7/11/2023
+0000NN050,Nescafe Red Mug Small 50 g,5.625,Inventory Item,66.25,78.5,6/25/2024,2/23/2025
+0000NN100,Nescafe Red Mug Medium 100 g,3.833,Inventory Item,2.68,3.21,1/25/2025,8/21/2025
+0000NN200,Nescafe Red Mug Large 200 g,5.167,Inventory Item,40.3,62.27,10/1/2023,4/4/2025
+0000NN450,Nesquik Chocolate Powder 450 g,55,Inventory Item,45.24,66.73,8/22/2024,7/25/2026
+0000NND25,Nido Milk Powder Large 2500 g,80.833,Inventory Item,48.75,75.76,1/25/2025,10/28/2025
+0000NND40,Nido Milk Powder Small,410.958,Inventory Item,84.07,124.37,1/16/2024,11/30/2026
+0000NNEST,Nesquik Cereal 375 g (1�14),761,Inventory Item,47.85,66.92,11/25/2023,8/7/2025
+0000NNG20,Nescafe Gold 200 g,13.667,Inventory Item,54.95,78.42,4/23/2024,5/10/2025
+0000NNS20,Nesquik Sticks (1 Shekel),133,Inventory Item,30.03,46.38,1/15/2023,8/27/2024
+0000NSF14,Fitness Wheat Cereal Honey & Almonds 375 g (�14),187,Inventory Item,46.04,63.97,5/30/2024,12/16/2024
+0000NSF16,Fitness Cereal Fruits & Chocolate 375 g (�16),808,Inventory Item,28.82,40.81,7/10/2023,7/9/2025
+0000NSFRO,Cerelac Fruits 400 g,105,Inventory Item,10.64,12.54,6/17/2023,12/17/2025
+0000NSNI5,Cheerios Honey & Almonds (1�12),358,Inventory Item,73.21,97.88,6/4/2024,3/12/2025
+0000NSSHO,Choco Puffs Cereal 375 g (1�14),33.214,Inventory Item,80.85,117.9,9/12/2024,4/25/2025
+0000NTRIX,Trix Cereal 480 g (1�14),14.583,Inventory Item,75.1,92.78,5/17/2023,1/17/2024
+0000PAD01,Small Lentils Pack (1�10),68.5,Inventory Item,56.69,68.09,6/3/2023,7/24/2025
+0000PADA2,Large Lentils Pack (1�10),80.9,Inventory Item,46.81,58.84,1/23/2024,12/31/2024
+0000PADSM,Crushed Lentils Pack (1�10),321.5,Inventory Item,103.87,126.8,7/28/2023,5/13/2024
+0000PAJA1,Ajax 1 L,79.667,Inventory Item,63.25,76.37,9/29/2023,2/27/2025
+0000PAJA2,Ajax 2 L,262.333,Inventory Item,58.54,76.83,5/23/2023,3/20/2024
+0000PAJAX,Ajax Glass Cleaner,236.833,Inventory Item,5.03,7.82,9/2/2024,2/3/2027
+0000PAKTA,Tasco Iced Coffee (1�30),1168,Inventory Item,42.27,57.21,6/7/2025,2/23/2027
+0000PAKWA,Aquafresh Toothpaste (1�24),4546,Inventory Item,46.86,55.95,3/30/2025,5/29/2027
+0000PALMA,Kaf Al-Ma Wafer,4,Inventory Item,49.06,55.85,3/10/2023,6/22/2024
+0000PAN01,Marina Pineapple & Cocktail Slices Small,32.104,Inventory Item,70.46,102.03,9/4/2023,1/1/2026
+0000PAN85,Marina Pineapple Slices 850 g (1�12),84.5,Inventory Item,64.97,83.9,9/18/2023,5/1/2025
+0000PANDK,Indomie Cups,951,Inventory Item,73.73,111.4,2/26/2025,5/1/2027
+0000PANDO,Indomie Noodles,3045,Inventory Item,92.26,131.91,3/20/2023,2/28/2026
+0000PANG1,Uncle Yeast Small (1�60),5376,Inventory Item,97.93,146.71,10/19/2024,1/22/2026
+0000PANGL,Uncle Yeast Large,1343,Inventory Item,86.74,107.21,9/14/2024,4/24/2025
+0000PAR20,Walima Rice 20 kg,159,Inventory Item,114.75,165.95,2/8/2025,12/5/2026
+0000PAR25,Rice 25 kg Shaqha,1881,Inventory Item,4.15,5.11,8/27/2024,10/11/2026
+0000PARWA,Arwa Water 500 ml,1621,Inventory Item,25.1,39.4,6/8/2024,11/7/2026
+0000PARYA,Jasmine Rice 5 kg,98.2,Inventory Item,2.89,4.1,2/10/2025,9/28/2025
+0000PARZ1,Shaqha Rice 1 kg,550.667,Inventory Item,78.4,98.96,9/12/2024,8/25/2027
+0000PARZ5,Shaqha Rice 5 kg,894.667,Inventory Item,107.97,133.32,11/26/2023,12/19/2024
+0000PASTO,Store Razors,37.625,Inventory Item,30.73,36.74,7/8/2023,5/8/2024
+0000PAZ10,Shaqha Rice 10 kg,2164,Inventory Item,111.39,161.22,4/5/2023,2/4/2025
+0000PB250,Round Sabla Biscuits 200 g (1�24),149.083,Inventory Item,9.11,11.02,9/8/2024,7/28/2026
+0000PBA12,Ali Baba Biscuits (1�12),647.25,Inventory Item,112.26,156.9,1/8/2023,2/6/2025
+0000PBA25,Bavaria Glass Bottle 330 ml,682,Inventory Item,43.49,53.59,3/8/2023,10/19/2025
+0000PBAG6,Ali Baba Biscuits Gifts (1�6),40,Inventory Item,13.97,19.99,5/10/2024,7/21/2025
+0000PBAL2,Palmolive Large (1�15),149.2,Inventory Item,59.33,89.44,7/10/2023,7/11/2024
+0000PBARK,Barbican,22,Inventory Item,32.3,48.1,1/1/2024,2/13/2025
+0000PBAVA,Bavaria Cans 330 ml (1�24),55,Inventory Item,35.62,52.73,2/6/2025,2/9/2026
+0000PBAZO,Canned Peas (1�24),15.417,Inventory Item,38.26,45.68,6/4/2024,1/19/2026
+0000PBBKH,Betty Bear Cake Mix (1�12),161.083,Inventory Item,96.76,110.71,4/27/2023,11/2/2023
+0000PBEST,Best Shampoo (1�4),143,Inventory Item,65.62,95.11,9/24/2023,7/13/2024
+0000PBF18,Flake Biscuits 18 g (1�4),314.25,Inventory Item,38.73,49.74,9/2/2024,5/15/2025
+0000PBIPO,Betty Bear Awsam,46,Inventory Item,74.02,97.42,4/29/2024,9/1/2026
+0000PBIZR,Muslimani Seeds,940,Inventory Item,86.51,96.51,5/23/2024,4/4/2026
+0000PBJUM,Jumbo Round Biscuits 1.8 kg,178,Inventory Item,34.17,42.02,10/25/2023,7/15/2024
+0000PBKBK,Betty Crocker Pancake Mix (1�15),163,Inventory Item,50.8,56.74,6/27/2025,2/10/2026
+0000PBKIA,Pancake Syrup 680 g (1�12),401,Inventory Item,16.38,25.22,6/13/2023,4/17/2025
+0000PBMIX,Pancake Mix (1�15),334,Inventory Item,23.38,28.56,1/11/2024,10/24/2026
+0000PBNIC,Nice Biscuits (1�48),56,Inventory Item,82.37,113.56,10/14/2024,3/1/2027
+0000PBONG,Bon Bon Gifts (1�12),113.417,Inventory Item,23.41,26.21,9/25/2023,4/13/2025
+0000PBORK,Coarse Bulgur (1�10),28.9,Inventory Item,63.97,91.7,7/2/2024,1/21/2026
+0000PBOSA,Awsam Bagela (1�12),139.333,Inventory Item,85.67,108.07,3/15/2023,4/15/2024
+0000PCA10,Al-Zahraa Cocoa Tin 100 g (1�12),113.083,Inventory Item,14.61,22.63,5/22/2024,10/19/2026
+0000PCAB1,Al-Zahraa Cocoa Sachet 100 g (1�12),4567,Inventory Item,68.94,106.45,3/14/2023,8/20/2024
+0000PCLOK,Oki Scented Bleach (1�6),14.667,Inventory Item,32.27,40.75,11/4/2023,12/17/2024
+0000PCLUB,Plastic Cups,262.833,Inventory Item,115.63,179.28,7/18/2023,9/24/2024
+0000PCO75,Al-Deek Cornflakes 750 g (1�12),1118,Inventory Item,59.06,94.38,5/10/2023,6/28/2024
+0000PCOFA,Alete Coffee 100 g,12.38,Inventory Item,97.11,146.9,1/27/2025,8/20/2025
+0000PCOKN,Oki Regular Bleach,488.5,Inventory Item,66.93,101.9,4/3/2025,5/6/2027
+0000PCOR2,Eden Canned Corn (1�24),269.167,Inventory Item,7.12,8.72,7/25/2024,10/8/2025
+0000PCORB,Popcorn Kernels (1�10),171.1,Inventory Item,76.71,106.5,3/1/2025,10/2/2027
+0000PCOUR,Corn Flour (1�24),1.583,Inventory Item,114.27,129.54,9/6/2024,11/30/2025
+0000PCP24,Puck Cream Cheese 240 g (1�24),1.042,Inventory Item,72.99,83.75,3/18/2025,1/14/2026
+0000PCP50,Puck Cream Cheese 500 g (1�6),185.833,Inventory Item,98.66,157.8,4/11/2025,7/25/2027
+0000PCRAZ,Crazy Snacks 30 g (1�6),111.333,Inventory Item,106.34,134.34,5/1/2024,7/11/2025
+0000PCSPO,Nablus Cola Cans 330 ml (1 Shekel) (1�24),169,Inventory Item,28.91,42.62,5/2/2025,8/15/2027
+0000PDA00,Alete Spread (1�6),465,Inventory Item,27.02,40.62,5/31/2023,1/20/2025
+0000PDIMA,Dima Maamoul (1 Shekel) (1�24),7,Inventory Item,74.1,113.3,10/30/2024,1/11/2026
+0000PDOV0,Dove Shampoo Small,18,Inventory Item,50.5,80.74,7/25/2023,3/7/2024
+0000PEDIN,Eden Wafer Biscuits 33 g (40 pcs),11,Inventory Item,101.1,123.42,6/28/2023,5/5/2026
+0000PEORB,Orbit Gum Pillows (1�20),517,Inventory Item,108.2,121.2,7/16/2023,6/19/2025
+0000PEROU,Airwick Refill,567,Inventory Item,43.7,57.05,1/4/2025,12/7/2027
+0000PFASO,Canned Beans (1�24),123.833,Inventory Item,29.95,34.89,3/30/2023,4/20/2024
+0000PFAYR,Fayrouz Glass Bottle,204,Inventory Item,94.1,104.57,3/9/2025,7/12/2026
+0000PFINA,Vanilla + Baking Powder Tins (1�24),32,Inventory Item,34.43,44.08,3/9/2024,9/21/2026
+0000PFL40,Luna Fava Beans with Key 400 g (1�24),46,Inventory Item,99.07,147.8,2/26/2025,1/20/2026
+0000PFLAS,Flash Cleaner (1�12),26,Inventory Item,52,71.92,1/17/2025,10/27/2027
+0000PFLYX,Flakes (1�12),144,Inventory Item,80.77,101.48,7/2/2023,3/10/2025
+0000PFNAW,Nouam Original Pads,142.5,Inventory Item,13.27,18.94,7/28/2023,6/26/2024
+0000PFOLH,Harvest Fava Beans (1�24),198.458,Inventory Item,75.62,91.95,5/7/2024,9/11/2026
+0000PFREK,Al-Aqsa Freekeh (1�10),14.6,Inventory Item,55.31,61.24,5/10/2023,2/3/2024
+0000PFREN,Al-Nasr Freekeh (1�10),111.5,Inventory Item,71.22,105.56,10/26/2024,3/22/2027
+0000PGA01,Ghazaleen Ghee 1 kg (1�12),418.333,Inventory Item,21.83,30.82,1/13/2023,10/18/2025
+0000PGA1K,Ghazaleen Ghee 2 kg (1�8),145,Inventory Item,88.95,131.75,9/25/2024,3/16/2026
+0000PGHAZ,Al-Aqsa Ghazaleen Tea,436,Inventory Item,103.81,116.21,5/20/2025,5/8/2026
+0000PH350,Choco Halawa 350 g (� kg) (1�24),78.25,Inventory Item,27.58,41.88,1/1/2025,2/1/2026
+0000PHA13,Halawa 1300 g (1�6),25.167,Inventory Item,13.29,18.74,4/16/2023,4/6/2026
+0000PHALA,Al-Hilal Halawa 700 g (1�12),42.833,Inventory Item,4.79,6.62,1/10/2024,10/6/2025
+0000PHALE,Halibna 500 g,41.375,Inventory Item,77.75,109.81,8/4/2024,3/17/2027
+0000PHALS,Halls Candy (2 Shekel),9,Inventory Item,73.64,112.83,12/7/2024,2/3/2027
+0000PHALW,Al-Hilal Halawa Fingers,713.667,Inventory Item,66.51,92.68,11/28/2024,2/14/2027
+0000PHAWY,Hawaii Soap (1�12),2.583,Inventory Item,29.37,40.84,4/9/2023,4/21/2024
+0000PHAZA,Al-Zahraa Citric Acid (1�12),94.583,Inventory Item,48.13,76.78,8/16/2024,5/24/2027
+0000PHLAS,Shami Halawa 700 g (1�12),38.75,Inventory Item,72.15,106.66,8/9/2024,6/5/2026
+0000PHOMS,Bulgari Chickpeas Sack,45,Inventory Item,60.62,80.09,6/4/2025,5/17/2027
+0000PHUMB,Beiruti Chickpeas,19.833,Inventory Item,118.56,172.35,5/1/2025,5/15/2026
+0000PHUMR,Whole Chickpeas Pack (1�10),471.2,Inventory Item,18.1,23.43,7/11/2023,1/11/2025
+0000PHYBI,Hiby Energy Drink Cans,852,Inventory Item,84.03,102.05,11/21/2023,9/18/2026
+0000PIKZE,X-IT Candy (1 Shekel) (1�20),60,Inventory Item,49.71,69.52,12/26/2024,9/14/2026
+0000PJIZA,Al-Zahraa Jelly,504,Inventory Item,52.53,82.16,4/6/2025,6/7/2026
+0000PKADY,Kadiyah Drink 330 ml (1�24),2.292,Inventory Item,86.68,135.62,4/11/2024,12/4/2026
+0000PKARB,Al-Zahraa Baking Soda (1�24),19,Inventory Item,83.71,106.39,6/12/2025,8/29/2026
+0000PKART,Blue Ice Cream Cones (1�18),45.722,Inventory Item,118.97,162.26,1/2/2024,8/26/2024
+0000PKAST,Al-Zahraa Custard (1�24),6.75,Inventory Item,17.15,20.68,11/14/2023,3/9/2025
+0000PKATK,KitKat Yellow (1�6),57,Inventory Item,14.28,22.82,5/24/2023,12/20/2023
+0000PKATO,Awsam Ketchup (1�9),46.444,Inventory Item,87.47,139.13,1/19/2024,11/26/2025
+0000PKAZK,Cappuccino + Al-Zahraa Cocoa � kg Bag (1�12),38.5,Inventory Item,70.25,100.09,8/4/2023,10/5/2024
+0000PKF85,Fruit Cocktail 850 g (1�12),36,Inventory Item,34.35,51.6,12/27/2023,2/18/2026
+0000PKINA,Kinder 4 Fingers (1�8),901,Inventory Item,11.37,16.57,11/20/2023,7/3/2026
+0000PKINB,Kinder Bueno (1�4),2319,Inventory Item,12.11,16.91,1/15/2023,4/9/2024
+0000PKINW,Kinder Bueno White (1�4),497,Inventory Item,107.51,121.13,8/5/2023,9/28/2025
+0000PKKZA,Al-Zahraa Mixed Vinegar (1�12),109.583,Inventory Item,24.64,32.71,5/6/2024,8/29/2026
+0000PKM45,Completa 450 g (1�12),47.833,Inventory Item,40.16,57.73,6/30/2024,1/24/2026
+0000PKR60,Al-Zahraa Cream 60 g (1�6),551,Inventory Item,28.75,41.36,7/2/2023,3/4/2026
+0000PKRKA,Cr�me Caramel (1�10),339,Inventory Item,43.89,56.47,9/27/2023,8/8/2025
+0000PKVIK,Baking Powder + Vanilla 1 kg Sachet (1�10),631,Inventory Item,10.19,16.01,4/11/2024,5/22/2026
+0000PLAFA,Laughing Cow Cheese 12 Portions (1�48),72,Inventory Item,63.25,74.87,5/19/2025,1/27/2028
+0000PLBAL,Baladna Dishwashing Liquid Concentrate 12% (1�6),237.333,Inventory Item,9.98,13.47,9/3/2024,5/24/2025
+0000PLFRS,Fang Rust Remover Liquid,5467,Inventory Item,96.44,139.4,6/2/2024,11/28/2025
+0000PLJ04,Al-Rajeh Dishwashing Liquid 4 L (1�4),1574,Inventory Item,29.58,42.85,6/25/2024,5/26/2027
+0000PLO30,Loacker Wafer 30 g (1.5 Shekel) (1�6),2170,Inventory Item,65.72,93.61,4/11/2024,4/9/2026
+0000PLOK4,Loacker Wafer (4 Shekel),57,Inventory Item,105.85,131,11/1/2023,4/5/2025
+0000PLUXD,Lux Shampoo 400 ml (1�30),54,Inventory Item,78.8,92.83,5/24/2023,3/7/2026
+0000PM036,Eden Eggplant Pickles Bucket 36/30 (1�6),243.333,Inventory Item,64.89,92.01,4/21/2023,11/27/2024
+0000PM500,Moonlight Mayonnaise 500 g (1�12),14.167,Inventory Item,40.27,56.36,8/20/2023,4/15/2025
+0000PM900,Halwani Jam 750 g (1�12),256.667,Inventory Item,41.29,49.12,11/21/2024,6/2/2027
+0000PMAJ2,Floor Paste Large (1�6),597,Inventory Item,81,117.66,8/6/2024,5/5/2025
+0000PMAJO,Floor Paste 1 L (1�12),105.5,Inventory Item,119.31,158.39,12/22/2024,10/15/2027
+0000PMAKA,Mabkat Pasta (1�20),876.4,Inventory Item,80.1,114.85,1/1/2025,3/5/2027
+0000PMAR4,Marina Mushrooms 400 g (1�24),24.125,Inventory Item,67.82,103,8/14/2024,3/28/2026
+0000PMASH,Cheap Mushrooms (Zalom + Laziza + Al-Awda),62.875,Inventory Item,88.22,104.53,5/14/2024,1/15/2026
+0000PMAYA,Meyasi Pistachios Large,13,Inventory Item,56.89,63.12,8/17/2024,12/22/2026
+0000PMB01,Eden Eggplant Pickles (1�24),23.833,Inventory Item,9.1,13.55,7/7/2024,6/10/2025
+0000PMEX2,Extra Meat (1�24),41.083,Inventory Item,68.35,96.02,9/30/2023,4/10/2024
+0000PMI01,Materna Milk Small,43,Inventory Item,115,166.73,12/3/2024,6/8/2026
+0000PMI02,Materna Milk Double Box (1�12),184,Inventory Item,22.69,34.47,6/22/2023,7/30/2024
+0000PMIFL,France Lait Milk Sachet (1�12),529.333,Inventory Item,83.42,125.25,1/7/2023,11/21/2024
+0000PMKAL,Eden Pickles 13�17,66.375,Inventory Item,25.71,40.63,6/4/2023,2/11/2024
+0000PMO01,Molto (� Shekel) 60 pcs,350,Inventory Item,65.23,89.23,6/5/2024,8/7/2025
+0000PMO25,Eden Pickles 18/25 (1�24),266.5,Inventory Item,13.41,18.03,6/29/2024,5/20/2026
+0000PMOAA,Eden Pickles 7/9 (1�24),82,Inventory Item,55.14,71.73,7/1/2024,8/22/2026
+0000PMODH,Al-Rajeh Wonder Cleaner (1�12),325,Inventory Item,91.23,107.36,6/1/2024,7/1/2025
+0000PMR1K,Nataly Tissues 1 kg Red (1�10),38,Inventory Item,43.01,59.62,8/3/2023,9/22/2025
+0000PMR75,Cheap Tissues 800 g (1�10),677,Inventory Item,80.46,99.65,5/14/2023,5/3/2025
+0000PMREE,Rayhana Bleach (1�12),18.833,Inventory Item,95.86,149.6,10/12/2023,7/4/2026
+0000PMRIN,Marina Bleach,36.833,Inventory Item,111.41,155.04,5/6/2023,6/8/2024
+0000PN350,Nutella 350 g (1�15),40.867,Inventory Item,29.69,41.46,3/14/2024,12/28/2026
+0000PNISM,Marina Nescafe,0.167,Inventory Item,49.12,62.75,4/28/2025,10/21/2027
+0000PORBI,Orbit Gum,3,Inventory Item,19.99,22.51,11/16/2024,12/21/2025
+0000PP150,Betty Bear 150 g (1 Shekel),161,Inventory Item,119.11,132.91,6/1/2023,12/20/2024
+0000PPAPO,Al-Taybeh Chamomile (1�36),0.611,Inventory Item,111.39,146.11,11/27/2023,11/29/2025
+0000PPE40,Betty Bear Etty 400 g,1,Inventory Item,65.71,75.06,6/21/2024,9/25/2026
+0000PPEAN,Eden Chickpeas Cans (1�24),185.292,Inventory Item,101.36,142.25,1/18/2024,8/26/2024
+0000PPEAS,Beans Pack (1�10),182.6,Inventory Item,63.47,97.77,4/25/2023,8/27/2025
+0000PPESB,Persil Black Liquid Detergent 3 L (1�6),41,Inventory Item,75.58,116.5,6/12/2025,4/29/2028
+0000PPLIG,Baladji Furniture Polish (1�12),24.083,Inventory Item,12.52,17.9,4/26/2024,8/1/2025
+0000PPOJU,Bon Juice,65,Inventory Item,91.12,109.86,10/11/2023,6/4/2024
+0000PPORG,Fine Bulgur Pack (1�10),64.4,Inventory Item,17.07,26.14,6/17/2025,3/6/2028
+0000PPRO2,Progress Large + Promil Large + S26 Large,1404,Inventory Item,99.48,153.5,3/16/2023,12/23/2025
+0000PPROP,Progress + Promil + S26,1033,Inventory Item,94.28,112.98,6/15/2023,5/31/2025
+0000PPRS4,Persil 4 kg Bag (1�4),77,Inventory Item,85.63,125.77,7/8/2023,3/16/2024
+0000PQPUK,Puck Cream (1�48),48.354,Inventory Item,6.27,7.8,3/19/2023,2/15/2026
+0000PR100,Rima Tissues 1000 g (1�10),204.8,Inventory Item,37.77,56.7,8/24/2024,6/28/2025
+0000PR750,Remix Tissues 750 g (1�10),13.7,Inventory Item,33.05,52.83,11/18/2024,1/5/2027
+0000PRANY,Rani Juice Cans 240 ml (1�24),394,Inventory Item,44.5,49.62,1/21/2023,11/7/2025
+0000PRE1K,Remix Tissues 1 kg (1�10),117.7,Inventory Item,12.34,19.11,7/19/2024,3/16/2026
+0000PRE40,Raid Regular 400 ml Extra Spray (1�12),23.833,Inventory Item,112.56,158.86,7/3/2023,10/24/2025
+0000PRES5,Persil 4 L (1�4),44.25,Inventory Item,67.35,106.86,5/20/2025,10/10/2027
+0000PREXO,Rexona Deodorant,68,Inventory Item,38.05,50.7,8/10/2023,6/9/2024
+0000PRIMZ,Al-Zahraa Rice Flour (1�24),165,Inventory Item,48.84,74.42,4/6/2025,12/8/2025
+0000PROHK,Al-Zahraa Vinegar Spirit,22.417,Inventory Item,54.77,61.96,11/24/2023,5/27/2024
+0000PS60R,Al-Zahraa Sahlab 60 g (6 cartons �12 pcs),151,Inventory Item,72.87,92.37,6/28/2023,9/21/2025
+0000PS750,Softy Tissues 750 g,13.667,Inventory Item,62.85,71.24,2/26/2025,7/4/2026
+0000PSA1K,Vegetable Ghee 1 kg (1�12),67.833,Inventory Item,110.49,175.42,4/22/2023,9/8/2024
+0000PSA2K,Vegetable Ghee 2 kg (1�8),16.625,Inventory Item,60.64,91.47,1/5/2025,1/19/2027
+0000PSAHE,Arrow Gum,502,Inventory Item,119.07,181.73,12/26/2024,1/22/2027
+0000PSALS,Pasta Sauce (1�12),7.083,Inventory Item,102.47,160.77,2/28/2023,11/29/2025
+0000PSALT,Krouz Sillet Salt,734.25,Inventory Item,26.6,30.39,11/23/2023,10/8/2025
+0000PSAND,Cinderella Pads,44.35,Inventory Item,111.81,144.55,6/23/2025,3/11/2026
+0000PSASO,Snagrout Sardines (1�50),284.02,Inventory Item,15.73,17.86,9/12/2024,10/30/2026
+0000PSAZ1,Al-Zahraa Sahlab Jar 1 kg (1�6),16.333,Inventory Item,98.46,118.68,6/15/2025,12/13/2025
+0000PSCHT,Cheap Sardines (Marina + Delimenko),65.84,Inventory Item,46.91,56.98,10/30/2024,11/17/2025
+0000PSEVE,7 Days New (1.5 Shekel),4,Inventory Item,105.6,140.93,7/10/2023,10/28/2025
+0000PSH01,Small Chocolate Spread (1�24),221.75,Inventory Item,104.43,128.9,7/19/2023,3/29/2026
+0000PSH50,Al-Zahraa Sahlab 500 g (1�12),72.167,Inventory Item,97.1,111.71,11/8/2023,6/13/2025
+0000PSHAZ,Herbal Drink Ginger + Ginger & Cinnamon (1�36),5.667,Inventory Item,95.22,112.72,12/8/2024,9/16/2025
+0000PSHFR,Kruger Syrup Strawberry & Chocolate (1�12),47,Inventory Item,37.95,44.54,2/4/2023,1/19/2025
+0000PSHOK,Oki Shampoo 1.5 L (1�8),141.625,Inventory Item,11.55,18.32,1/14/2024,7/14/2025
+0000PSHTA,Mabkat Vermicelli (1�20),6855,Inventory Item,49.55,73.32,1/22/2024,2/16/2025
+0000PSHZA,Al-Zahraa Liquid Detergent 4 L,410,Inventory Item,22.48,35.61,1/27/2025,2/22/2027
+0000PSM20,Marina Sardines Tray 200 g,20.167,Inventory Item,84,110.87,8/25/2023,9/16/2024
+0000PSMAJ,Maggi Vegetable Soup Awsam,31,Inventory Item,42.84,53.09,9/7/2024,4/7/2027
+0000PSMED,Semolina Pack,3579,Inventory Item,117.12,175.58,6/2/2024,5/14/2027
+0000PSMON,Moonlight Soup (1�12),19.25,Inventory Item,77.63,98.06,10/10/2023,8/1/2024
+0000PSODK,Oldug Glass Soda,308,Inventory Item,99.05,123.78,1/1/2023,3/18/2025
+0000PSOPA,Awsam Vermicelli Soup Sachet (1�12),51,Inventory Item,17.64,21.45,12/31/2024,7/17/2027
+0000PSR75,Super Rima Softy Tissues 750 g (1�10),142,Inventory Item,103.72,120.82,4/8/2024,1/25/2026
+0000PSTOR,Storm Insecticide 400 ml (1�12),2.083,Inventory Item,110.89,136.2,8/18/2023,5/28/2024
+0000PSU10,Krouz Sugar Sack 10 kg,6080,Inventory Item,59.47,75.98,6/21/2023,4/25/2025
+0000PSUBR,Bariq Super Floor Cleaner,20.833,Inventory Item,73.54,105.68,3/28/2023,11/2/2025
+0000PSUGS,Sugar Sack 50 kg,688,Inventory Item,92.25,104.36,7/6/2024,2/16/2025
+0000PT150,Marina Tuna Salad with Corn 150 g (1�48),6,Inventory Item,22.63,27.27,5/3/2023,1/29/2026
+0000PT450,Tahini Small 450 g (1�12),3034.167,Inventory Item,61.3,92.23,4/22/2025,9/14/2026
+0000PT580,Eden Large Tomatoes 580 g (1�24),54.833,Inventory Item,49.04,57.55,10/25/2023,11/23/2024
+0000PT900,Tahini Large 900 g (1�6),505.667,Inventory Item,19.27,24.5,6/3/2025,4/5/2027
+0000PTAEB,Al-Tayeb Fava Beans (1�24),57,Inventory Item,45.37,69.52,11/20/2024,8/9/2027
+0000PTALA,Aladdin Tissues (1�10),216,Inventory Item,10.04,11.82,7/28/2024,5/18/2027
+0000PTB02,Britaem Large Tomatoes (1�24),299.208,Inventory Item,5.05,5.76,4/28/2024,1/16/2026
+0000PTDIN,Dina Toilet Paper (1�5),37,Inventory Item,17.95,24.09,6/14/2023,5/29/2025
+0000PTEAR,Al-Rabee Tea (1�12),145.5,Inventory Item,115.65,144.7,11/29/2024,10/20/2026
+0000PTGAZ,Ghazaleen Tea,205.2,Inventory Item,66.84,92.35,1/18/2024,10/16/2025
+0000PTGCI,Chinese Green Tea (1�36),4.778,Inventory Item,115.97,174.18,7/28/2023,7/23/2025
+0000PTHEN,Krouz Wheat Flour (Israeli),1494,Inventory Item,53.03,61.97,1/8/2025,12/24/2026
+0000PTID1,Tide 1 kg Oki,8,Inventory Item,38.79,53.93,3/7/2024,2/24/2026
+0000PTIHE,Flour Sack,118,Inventory Item,61.72,83.49,1/24/2024,11/17/2025
+0000PTIRM,Terma,131,Inventory Item,53.86,63.13,7/13/2024,1/24/2025
+0000PTISR,Lipton Israeli Tea (1�12),11,Inventory Item,14.47,20.43,8/12/2023,8/31/2025
+0000PTJUM,Jumbo Toilet Paper Pack,20.4,Inventory Item,77.62,96,1/3/2023,2/29/2024
+0000PTKCH,Cheap Krouz Flour / Faisal / Al-Sanabel,13484,Inventory Item,27.49,36.94,1/7/2024,1/27/2025
+0000PTM18,Rima Compressed Toilet Paper 18 Rolls,590,Inventory Item,75.11,85.71,11/17/2024,11/13/2027
+0000PTMAR,Marina Small Tuna (1�48),741.917,Inventory Item,78.72,104.68,3/21/2024,6/14/2025
+0000PTOM0,Khayr Biladi Small Tomatoes (1�12),141,Inventory Item,19.94,24.99,9/2/2024,3/31/2027
+0000PTOM3,Khayr Biladi Double Tomatoes (1�6),1291.167,Inventory Item,9.24,13.96,4/26/2023,12/9/2025
+0000PTONA,Tunas Jam Large 800 g (1�12),113.833,Inventory Item,94.13,106.22,9/27/2023,2/27/2026
+0000PTORM,Sweet Lupin Pack (1�10),101,Inventory Item,56.26,73.66,3/22/2024,1/12/2027
+0000PTR18,Remix Compressed Toilet Paper 18 Rolls (1�4),864.5,Inventory Item,8.86,11.78,1/3/2024,6/30/2026
+0000PTR32,Remix Regular Toilet Paper 32 Rolls (1�5),1.2,Inventory Item,119.39,174.61,9/10/2023,6/30/2024
+0000PTSHA,Shatha Toilet Paper (1�4),13.75,Inventory Item,8.82,12.23,11/13/2023,12/11/2025
+0000PTSMA,Softy Compressed Toilet Paper (1�4),56.5,Inventory Item,84.01,120.44,2/19/2024,6/11/2025
+0000PV230,Al-Zahraa Liquid Vanilla 30 ml (1�12),13.75,Inventory Item,118.07,175.75,4/5/2023,1/15/2026
+0000PWAFS,Snagrout Wafer,896,Inventory Item,30.22,46.27,2/23/2025,12/17/2026
+0000PWAL1,Walima Rice 1 kg,104,Inventory Item,18.79,23.62,6/10/2025,1/7/2027
+0000PWAZA,Al-Zahraa Orange Blossom Water,45,Inventory Item,16.32,22.34,1/24/2023,8/19/2024
+0000PWFZA,Al-Zahraa Rose Water,26.5,Inventory Item,37.79,57.44,9/19/2024,5/31/2025
+0000PYANS,Al-Taybeh Anise (1�36),7.417,Inventory Item,13.92,22.2,10/24/2024,8/16/2026
+0000PYASM,Jasmine Rice 1 kg,69,Inventory Item,83.68,129.27,4/29/2025,2/5/2026
+0000PYU16,StarKist Tuna in Oil 160 g (1�48),79.813,Inventory Item,9.35,12.02,2/19/2023,6/9/2024
+0000PYUNA,Marina Large Tuna 160 g,192.271,Inventory Item,62.11,74.38,5/16/2024,5/8/2025
+0000PZATE,Zaman Thyme (1�10),15,Inventory Item,119.61,160.84,12/18/2024,1/16/2026
+0000PZB01,Black Olives Pitted (1�24),141.625,Inventory Item,98.05,144.21,5/12/2024,9/18/2025
+0000PZBLA,Black Olives Sliced (1�24),87.5,Inventory Item,74.6,100.43,12/1/2023,7/6/2024
+0000PZBWO,Huggies Small New (1�8),68,Inventory Item,38.14,51.17,3/20/2023,5/31/2024
+0000PZG01,Green Olives with Pit (1�24),221.75,Inventory Item,75.62,114.88,8/4/2024,1/16/2027
+0000PZG02,Green Olives Pitted (1�24),124.5,Inventory Item,64.19,82.21,1/27/2023,8/1/2023
+0000PZGN0,Green Olives Sliced (1�24),51.542,Inventory Item,52.28,79.98,9/28/2023,5/13/2024
+0000PZHOU,Herbal Mix + Thyme + Mixed Herbs (1�36),26.333,Inventory Item,17.42,22.71,7/15/2024,7/2/2026
+0000PZIBN,Peter Pan Peanut Butter 462 g (1�12),162,Inventory Item,106.62,134.78,3/14/2025,2/17/2026
+0000PZIWI,Black Olives with Pit (1�24),83.25,Inventory Item,55.07,73.08,9/4/2023,7/18/2026
+0000SCLOR,Clorox (1�6),9,Inventory Item,24.97,36.99,2/14/2025,2/4/2026
+0000SOK01,Khayal Oil 1 L,0.75,Inventory Item,45.4,52.8,8/13/2024,9/22/2026
+0000SOKRL,Carola Oil Tin 3 L,6889,Inventory Item,50.87,60.95,1/22/2024,7/21/2024
+0000SOS01,Safi Corn Oil 1 L,150.417,Inventory Item,99.65,157.02,12/2/2024,11/11/2027
+0000SOS03,Safi Corn Oil 3 L,466.5,Inventory Item,88.57,105.2,7/12/2024,4/7/2026
+0000SOS05,Safi Corn Oil 5 L,571.75,Inventory Item,92.78,128.39,12/27/2023,3/29/2026
+0000SOS10,Safi Corn Oil 10 L Tin,191,Inventory Item,3.3,4.59,5/15/2025,8/13/2026
+0000SOT16,Safi Corn Oil 16 L Tin,83,Inventory Item,51.11,68.73,5/2/2024,3/10/2026
+0000SS025,Signal Toothpaste 25 ml,27.5,Inventory Item,58.8,83.64,12/18/2023,3/5/2026
+0000SS125,Signal Toothpaste 125 ml,523.333,Inventory Item,4.26,5.18,12/1/2024,4/5/2027
+0000SSD03,Safi Sunflower Oil 3 L,105.833,Inventory Item,32.66,44.95,9/13/2023,5/19/2026
+0000SSD05,Safi Sunflower Oil 5 L,371.75,Inventory Item,91.71,117.95,8/10/2023,3/4/2024
+0000SSH02,Dove Shampoo Large 400 ml,347,Inventory Item,18.18,26.01,6/2/2025,10/27/2026
+0000SSHC4,Clear Shampoo 400 ml (1�12),1952,Inventory Item,65.17,76.29,1/22/2025,7/21/2025
+0000SSHS4,Sunsilk Shampoo 400 ml (1�12),1106,Inventory Item,27.39,37.95,2/19/2025,2/21/2026
+0000SSL11,Lux Soap 110 g,1.458,Inventory Item,3.43,4.09,1/1/2023,8/24/2023
+0000TTFOX,Trisa Fox Toothbrush,2,Inventory Item,30.46,37.75,6/29/2024,6/25/2026
+0000UA010,Always Pads Regular ICC SUPER,487.125,Inventory Item,117.15,141.68,3/21/2024,1/6/2025
+0000UA020,Always Pads Double ICC SUPER,2276.375,Inventory Item,96.58,115.07,3/20/2023,11/21/2025
+0000UAAA1,Duracell AAA 4 (1�10),235,Inventory Item,115.23,174.33,8/24/2023,12/25/2024
+0000UAAA2,Duracell AAA 8 (1�10),81,Inventory Item,59.57,74.04,11/30/2023,7/2/2024
+0000UAAA3,Duracell AAA 12 (1�12),91,Inventory Item,14.95,23.38,6/7/2025,2/15/2027
+0000UAD01,Aldez Small,117,Inventory Item,66.66,105.65,12/15/2023,6/10/2026
+0000UAD02,Aldez Large,440,Inventory Item,55.62,77.07,4/8/2023,5/18/2025
+0000UAL01,Always Ultra Regular (No.3 Night Blue 16 / No.2 Long Purple 12 / No.1 Normal Green 16),2743,Inventory Item,101.63,119.06,3/23/2023,12/22/2025
+0000UAL02,Always Ultra Double (No.2 Long Purple 6 / No.1 Normal 8 / No.3 Night Blue 8),8088,Inventory Item,13.57,17.47,5/16/2024,6/29/2026
+0000UANAS,American Pineapple Slices 850 g,5.208,Inventory Item,59.61,89.35,4/21/2024,5/17/2026
+0000UANTI,Oral-B Anti-Bacterial Cross Action (015-112),98,Inventory Item,19.71,25.3,12/4/2024,4/22/2026
+0000UB300,Bonex 3 kg,1.833,Inventory Item,40.31,46.09,2/3/2025,5/3/2027
+0000UB900,Bonex 9 kg,20,Inventory Item,89.01,122.69,7/3/2024,11/1/2025
+0000UBR05,Braun 5-Head Shaver,54,Inventory Item,58.17,88.57,1/14/2023,12/27/2024
+0000UBSTA,Oral-B Kids Toothbrush (112-103),125,Inventory Item,46.35,69.43,1/27/2024,7/22/2026
+0000UC125,Crest Toothpaste 125 ml Delicate,5468,Inventory Item,48.55,57.66,12/13/2023,2/18/2026
+0000UD9V1,Duracell 9V (1�10),90,Inventory Item,56.21,80.74,11/6/2023,8/20/2024
+0000UDAA1,Duracell AA 4 Double (1�20),57,Inventory Item,94.63,114.53,1/21/2024,7/25/2025
+0000UDAA2,Duracell AA 8 (1�10),502,Inventory Item,107.27,129.7,7/28/2023,1/14/2025
+0000UDAA3,Duracell AA 12 (1�12),59,Inventory Item,114.73,176.34,12/23/2023,12/17/2024
+0000UDC01,Duracell C,108,Inventory Item,94.85,116.18,8/23/2024,2/9/2026
+0000UDD01,Duracell D,230,Inventory Item,39.22,48.3,7/21/2024,11/23/2026
+0000UDREM,Duracell Car Remote Battery (1�10),18,Inventory Item,83.2,91.55,4/4/2023,12/7/2023
+0000UFCOR,American Corn,182.583,Inventory Item,53.64,82.36,4/3/2023,7/17/2024
+0000UFO01,Cheap Oil 1 L (1�12),270.333,Inventory Item,32.05,47.96,12/6/2023,4/25/2026
+0000UFOIL,American Fava Beans with Olive Oil Mix,28.083,Inventory Item,101.22,143.09,8/19/2024,8/14/2025
+0000UFOOL,American Fava Beans,485.375,Inventory Item,6.53,9.63,3/20/2024,12/25/2025
+0000UFS25,Siniora Small 225 g,96.083,Inventory Item,108.41,127.49,1/26/2025,10/1/2026
+0000UFS30,Siniora Medium 310 g (1�24),115.042,Inventory Item,56.45,75.03,1/22/2023,10/26/2024
+0000UFS80,Siniora Large 800 g,547,Inventory Item,77.19,98.46,10/18/2023,2/24/2026
+0000UFSH8,Siniora Turkey New 800 g (1�12),2099.75,Inventory Item,79.8,91.52,4/29/2024,4/27/2027
+0000UFSN8,Extra Minced Meat 800 g,6.5,Inventory Item,107.62,144.54,2/22/2025,2/5/2027
+0000UGB03,Gillette Blue III (1�3) (012-101),134,Inventory Item,77.13,120.35,11/2/2023,7/4/2024
+0000UGD01,Gillette Two Men Stand (1�96) (010-101),5655,Inventory Item,74.44,83.38,9/25/2024,4/13/2025
+0000UGD05,Gillette Blue II 5 Blades New,57,Inventory Item,9.86,12.28,5/8/2023,7/7/2025
+0000UGD10,Gillette Blue II Plus Men 10 Blades (005-101),513,Inventory Item,63.17,76.04,9/16/2024,4/2/2026
+0000UGDWS,Gillette Blue II 5 Blades Women (1�12) (008-101),287,Inventory Item,19.72,24.04,9/30/2023,6/17/2026
+0000UGF25,Gillette Shaving Foam 200 ml,635,Inventory Item,89.02,138.36,4/27/2025,6/30/2027
+0000UGFBN,Gillette Fusion ProGlide 4 Blades (015-100),34,Inventory Item,62.44,83.3,3/17/2024,3/25/2026
+0000UGFM1,Gillette Fusion ProGlide Machine 2 Blades (012-102),34,Inventory Item,82.27,109.68,5/17/2024,12/21/2024
+0000UGFMN,Fusion Machine Regular (007-102),24,Inventory Item,6.92,10.24,5/10/2023,8/16/2024
+0000UGFPM,Fusion Machine 4 Blades New,15,Inventory Item,12.01,14.14,5/12/2023,2/6/2026
+0000UGFPP,Gillette Fusion ProGlide Power 4 Blades (016-100),93,Inventory Item,86.53,116.26,8/19/2024,10/9/2026
+0000UGFSN,Gillette Fusion Regular Blades (1�10) (038-100),4,Inventory Item,10.51,13.82,4/26/2024,6/11/2026
+0000UGFSP,Gillette Fusion Power Blades (009-100),84,Inventory Item,10.41,14.56,5/11/2025,12/31/2027
+0000UGJ01,Gillette Shaving Gel 200 ml (1�6),92,Inventory Item,3.43,5.49,1/25/2024,6/23/2025
+0000UGM3M,Gillette Mach3 Turbo Handle (009-102),120,Inventory Item,114.87,170.55,8/15/2024,8/17/2025
+0000UGM3P,Gillette Mach3 Power Blades,22,Inventory Item,89.03,115.64,11/21/2023,3/20/2026
+0000UGM3T,Gillette Mach3 Turbo Blades 4 Pack (012-100),21,Inventory Item,43.68,66.12,3/10/2023,5/5/2024
+0000UGMMM,Gillette Mach3 Power Handle,43656,Inventory Item,36.99,43.85,10/21/2024,6/30/2025
+0000UGS15,Gillette Deodorant Spray 150 ml,167,Inventory Item,43.26,48.24,3/23/2024,1/10/2026
+0000UGSPW,Gillette Deodorant with Power Beads (1�12),1189,Inventory Item,93.41,112.3,6/11/2024,6/21/2026
+0000UH040,Haribo 40 g,2145,Inventory Item,80.04,101.67,3/29/2025,1/3/2026
+0000UHI02,Heinz Ketchup Large 910 g (8�),148,Inventory Item,23.85,32.32,9/8/2024,8/2/2026
+0000UHINZ,Heinz Ketchup Small 570 g (10�),2598,Inventory Item,22.54,31.73,6/14/2023,1/4/2026
+0000UHK02,Heinz Chili Sauce Large 185 g (24�),893,Inventory Item,13.61,21.17,5/2/2024,4/22/2025
+0000UHUMS,Americana Hummus Ground,5.125,Inventory Item,79.92,108.29,12/13/2024,2/3/2026
+0000UK200,Koleston 200,231,Inventory Item,92.2,124.53,12/9/2024,12/3/2027
+0000UKFIF,Viva Hair Dye,3256,Inventory Item,33.28,37.44,3/1/2024,10/25/2024
+0000UKKIT,Koleston Kit,356,Inventory Item,4.47,5,11/27/2024,10/7/2027
+0000UMAFO,Fusion Machine Promo,43,Inventory Item,11.7,16.09,4/13/2025,1/16/2026
+0000UOB03,Oral-B 3D Advanced + White (017+018-112),324,Inventory Item,116.21,153.29,9/22/2023,8/7/2026
+0000UOB40,Oral-B Complete 7 Toothbrush (016-112),81,Inventory Item,36.86,56.01,5/24/2025,3/29/2027
+0000UOBBT,Oral-B Triple Toothbrush (40MED�3) (112-008),178,Inventory Item,92.77,109.5,9/3/2024,7/28/2026
+0000UOBM1,Oral-B Blue Toothpaste 75 ml + 100 ml,651,Inventory Item,75.71,84.23,12/8/2023,6/29/2026
+0000UOBWD,Oral-B Delicate White Duo Toothbrush (108-112),325,Inventory Item,47.07,62.35,4/11/2025,7/31/2026
+0000UOSAF,Old Spice After Shave,4355,Inventory Item,26.27,32.02,12/26/2024,1/20/2026
+0000UP400,Pantene Large 400 ml,652.5,Inventory Item,16.32,18.36,10/5/2023,8/2/2024
+0000UPA01,Pampers Newborn Size 2,0.667,Inventory Item,74.57,109.04,11/4/2024,12/17/2025
+0000UPA02,Pampers Small,1114.333,Inventory Item,93.41,107.96,3/14/2024,4/26/2026
+0000UPR01,Pringles Small,30112.75,Inventory Item,77.98,109.5,6/6/2023,9/18/2025
+0000UPR02,Pringles Large,3021.579,Inventory Item,64.58,80.11,2/26/2024,9/15/2025
+0000US200,Head & Shoulders Shampoo Small 250 ml (1�6),285.167,Inventory Item,6.95,8.25,9/8/2023,7/23/2024
+0000US400,Head & Shoulders Shampoo Large 400 ml (1�6),2769.167,Inventory Item,116.28,149.99,5/27/2025,5/17/2027
+0000USJ25,Gillette II Razors 10 Blades,1526,Inventory Item,96.25,144.44,8/31/2024,3/24/2026
+0000USR01,Rejoice Shampoo 750 ml,103.833,Inventory Item,36.55,47.37,6/13/2024,9/5/2025
+0000UT300,Tide 3 kg Nylon,358.4,Inventory Item,117.64,173.56,11/23/2023,6/18/2026
+0000UT700,Tide 7 kg Nylon,336,Inventory Item,73.02,84.9,6/13/2025,12/21/2025
+0000UT900,Tide 9 kg Nylon,317.5,Inventory Item,70.73,105.13,4/7/2023,2/16/2026
+0000UXL01,XL Drink Regular 250 ml,6387,Inventory Item,90.27,109.99,5/27/2024,12/16/2025
+000BEGELA,Crocker Bagela 8 g (1 Shekel � 40 pcs),4,Inventory Item,97.79,140.69,8/4/2023,1/1/2025
+000BWINDO,Vix Glass Cleaner (1�12),235,Inventory Item,79.46,109.88,5/12/2023,3/27/2025
+000PAJA15,Ajax 1.5 L,0.875,Inventory Item,17.12,26.79,9/17/2023,6/28/2024
+000PARW15,Arwa Water 1.5 L,1710,Inventory Item,41.92,54.23,5/5/2023,12/2/2023
+000PARZ10,Walima Rice 10 kg,48.75,Inventory Item,111.51,126.35,3/23/2023,12/1/2023
+000PDIN50,Dina Tissues 4 Packs 800 g (1�10),687.4,Inventory Item,28.5,31.62,10/10/2023,9/24/2024
+000PHALEB,Halibna Milk 1 kg,80.583,Inventory Item,45.92,69.5,11/13/2024,9/7/2027
+000PJARDE,Gardena,104,Inventory Item,52.99,72.19,2/28/2023,11/3/2023
+000PJINSO,Johnson�s Shampoo,2654,Inventory Item,53.85,80.11,6/27/2024,3/16/2027
+000PLAF24,Laughing Cow Cheese 24 Portions (1�24),3526,Inventory Item,74.33,90.48,6/10/2023,12/2/2024
+000PLAF32,Laughing Cow Cheese 16 Portions (1�40),34,Inventory Item,113.28,144.15,10/11/2023,1/16/2026
+000PLAFSH,Laughing Cow Cheese 32 Portions (1�16),6.875,Inventory Item,30.4,33.9,4/16/2023,12/18/2024
+000PMKHZA,Zadna Pickles 7�9,294.583,Inventory Item,16.34,25.83,4/15/2023,1/19/2024
+000PSAL25,Salt Sack 25 kg,1932,Inventory Item,25.3,36.28,3/14/2024,6/29/2026
+000PWALEM,Walima Rice 5 kg,38.833,Inventory Item,106.66,167.09,8/16/2023,2/20/2024
+0TOMAT232,Khayr Biladi Rice 4 kg,214,Inventory Item,78.21,96.41,11/30/2024,12/23/2026
